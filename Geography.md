@@ -123,6 +123,26 @@
 >>>> |Still Water|Meltwater formed into a lake<br>Silt and clay and other minerals are deposited|
 
 
+> ## Types of Rocks
+
+>> |Type of Rock|How They Form|Example(s)|
+>> |:-----------|:------------|:---------|
+>> |Igneous|Formed when molten rock hardens|Granite|
+>> |Sedimentary|Commonly contain fragements of other rocks compressed and cemented together|Limestone|
+>> |Metamorphic|Formed when ```Igeneous``` or ```Sedimentary``` rocks undergo heat and pressure to create a different kind of rock|Marble|
+
+>> Rock Cycle
+
+>> <img src="https://lh5.googleusercontent.com/0UwN78qtRAcoWkiQYnroR9yJmAnNYMIWmBk43jYBVNS5Xap4raX1Ot_EYARe8HB8Zk6eua6taqEt0CNP-q7WeHcJfubJXjaGmUAYylr70kFfaeeEYZ1Mv6alFLH_J7qJyVVRE7-H" width="500">
+
+> ## Landform Regions
+
+>> |Region|Location in Canada|Prominent Features|
+>> |:-----|:-----------------|:-----------------|
+>> |**Western Cordillera**|- Yukon Territory<br>- Northwest Territories<br>- British Columbia|- Formed when the ```Pacific plate``` **subducted** under the ```North American plate```<br>- It was formed during the ```cenozoic``` and ```mesozoic``` eras, **30** to **100** million years ago<br>- Its very ```young```<br>- Higlhand|
+>> |**Interior Plains**|- Northwest territories<br>- Saskatchewan<br>|
+
+
 
 
 
