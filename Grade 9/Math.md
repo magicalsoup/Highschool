@@ -53,7 +53,7 @@
 >> | a ∩ b | Intersection (and) |
 
 > ## Pythgorean Theorem
->> let a be the adjecant and b be the opposite, and c be the hypotenuse.   
+>> a and b are the two legs of the triangle or two sides that form a 90 degree angle of the triangle, c is the hypotenuse        
 >> a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>      
 
 >> <img src="https://docs.google.com/drawings/u/1/d/sGjyHDIs-wHWzppHAGdIpEA/image?w=162&h=70&rev=1&ac=1&parent=1ZIXKcDk3LBlgPK2EoUV04c0G1LZotrtfgVhJTooO1zA" width="200">
@@ -68,10 +68,10 @@
 >> To Multiply rationals, first reduce the fraction to their lowest terms, then multiply numerators and denominators   
 >> To Divide rationals, multiply them by the reciprocal   
 >> ### Example Simplify Fully:
->>> = <sup>3</sup>&frasl;<sub>4</sub> &divide; <sup>2</sup>&frasl;<sub>12</sub> [Reduce to lowest terms]   
->>> = <sup>3</sup>&frasl;<sub>4</sub> &divide; <sup>1</sup>&frasl;<sub>7</sub> [Multiply by reciprocal]   
->>> = <sup>3</sup>&frasl;<sub>4</sub> &times; 7   
->>> = <sup>21</sup>&frasl;<sub>4</sub> [Leave as an improper fraction]
+>>> = <a href="https://www.codecogs.com/eqnedit.php?latex==&space;\frac{3}{4}&space;\div&space;\frac{2}{14}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=&space;\frac{3}{4}&space;\div&space;\frac{2}{14}" title="= \frac{3}{4} \div \frac{2}{14}" /></a>[Reduce to lowest terms]   
+>>> = <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{3}{4}&space;\div&space;\frac{1}{7}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{3}{4}&space;\div&space;\frac{1}{7}" title="\frac{3}{4} \div \frac{1}{7}" /></a> [Multiply by reciprocal]   
+>>> = <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{3}{4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{3}{4}" title="\frac{3}{4}" /></a> &times; 7   
+>>> = <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{21}{4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{21}{4}" title="\frac{21}{4}" /></a> [Leave as an improper fraction]
 
 >> ### Shortcut for multiplying fractions
 >>> cross divide to keep your numbers small    
@@ -93,7 +93,7 @@
 >>> |Rational Exponents|a<sup>n/m</sup> = (<sup>m</sup>&radic;a)<sup>n</sup>|16<sup>5/4</sup> = (<sup>4</sup>&radic;16)<sup>5</sup> = 2<sup>5</sup>|
 
 >>> **Note:**    
->>> Standard --> Expanded Form   
+>>> Exponential Form --> Expanded Form   
 >>> 6<sup>4</sup> = 6 &times; 6 &times; 6 &times; 6
 
 >> ## Scientific Notation
@@ -188,26 +188,16 @@
 >>> 1. Expand and simplify both sides
 >>> 2. Isolate using reverse order of operations
 >>> 3. Check the solution by plugging the variable back into the equation and check if the ```left side``` equals the ```right side```
-> ## Venn Diagrams
-
->> <img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2017Q3/Venn-diagram-symbols-and-notation/VDIntersections.png" width="400">   
-
->> ```Set```: a collection of elements, O (the circle)     
->> ```Universal Set```: This is a collection of all the elements that you are interested in. Use ```{}``` bracket to write the set inside the rectangle    
->> ```Union```: &cup;    
->> if 2 sets have union, all the elements belong to any of the set. This is known as ```or```     
->> ```Intersection```: &cap;    
->> if 2 sets have an intersection, they are elements belonging to both sets. This is known as ```and```    
->> ```Set Notation```:   
->> A notation that represents the collection of numbers. It is written in this form x = {x|x&isin;R}    
->> ```Absolute Value``` 
->>> There are 2 cases. For this sort of equation, you must split the equation into 2 separate equations. One of the
->>> equations will have the absolute bracket be positive while the other negative.   
->>> Absolute values are written in the form ```| x |```
->>> where    
->>> if x > 0, | x | = x   
->>> if x == 0, | x | = 0    
->>> if x < 0, | x | = -x
+   
+> 
+> ## Absolute Values 
+>> There are 2 cases. For this sort of equation, you must split the equation into 2 separate equations. One of the
+>> equations will have the absolute bracket be positive while the other negative.   
+>> Absolute values are written in the form ```| x |```
+>> where    
+>> if x > 0, | x | = x   
+>> if x = 0, | x | = 0    
+>> if x < 0, | x | = -x
 
 > ## Quadractic Equations
 >> ```Quadratic Function```: A parabolic graph where the axis of symmetry is parallel to the y-axis    
@@ -225,31 +215,7 @@
 >> Note:   
 >> &radic;x<sup>2</sup> = &plusmn; x (There are 2 possible solutions)
 >> ```Distrubutive Property``` - This is opening the bracket. a(x+y) = ax+ay    
->> ## Discriminant
->>> The discriminant determines the number of solutions (roots) there are in a quadratic equation. ```a```, ```b```, ```c``` are the 
->>> coefficients and constant of a quadratic equation: ```y = ax<sup>2</sup> + bx + c```    
->>> D = b<sup>2</sup> - 4ac    
->>> D > 0 ```(2 distinct real solutions)```     
->>> D = 0 ```(1 real solution)```    
->>> D < 0 ```(no real solutions)```   
-
->>> <img src="https://image.slidesharecdn.com/thediscriminant-160218001000/95/the-discriminant-5-638.jpg?cb=1455754224" width="500">
-
-> ## Solving Linear-Quadratic Systems
->> To find the point of intersection, do the following:     
->> 1. Isolate both equations for ```y```
->> 2. Set the equations equal to each other by ```subsitution``` Equation 1 = Equation 2
->> 3. Simplify and put everything on one side and equal to zero on the other side
->> 4. Factor
->> 5. Use zero-product property to solve for all possible x-values
->> 6. Subsitute the x-values to one of the original equations to solve for all y-values
->> 7. State a conclusion / the solution    
-
-> <img src = "https://lh5.googleusercontent.com/AJxSjT24kwneM_UH6kehfX-7AnzVewTJIk6v02aXOZ84veou2xNyBMPmhGSXWNhvhJfZT-wwHSlDNvbsfeHzjpGSuXMOohoIvaS2u0saoO1BZTRV3xNVobdoWytLhkVl0CkEaIiQ" width ="500">      
-
-> There are 3 possible cases     
-> In addition, to determine the number of solutions, you the Discriminant formula **D = b<sup>2</sup> - 4ac**    
-
+    
 > ## Tips
 >> ```Absolute Values``` can have 2 solutions     
 >> ```Quadratics``` can also have 2 solutions    
@@ -292,9 +258,21 @@
 > <img src="https://www.katesmathlessons.com/uploads/1/6/1/0/1610286/exterior-angle-theorem-diagram-picture_orig.png" width="300">
 
 > 7. ``` Isosceles Triangle Theorem``` (ITT)   
-> - The base angles in any isosceles triangle are equal    
+> - The base angles in any isosceles triangle are equal   
 
 > <img src="http://www.assignmentpoint.com/wp-content/uploads/2016/06/isosceles-triangle-theorem.jpg" width="400">
+
+> 8. ```Sum of The Interior Angle of a Polygon```
+> - The sum of the interioir angles of any polygon is ```180(n-2)``` or ```180n - 360```, where ```n``` is the number of sides of the polygon
+
+<img src="https://i.ytimg.com/vi/tmRpwCM1K1o/maxresdefault.jpg" width="500">
+
+
+> 9. ```Exterior Angles of a Convex Polygon```
+> - The sum of the exterior angle of any convex polygon is always ```360 degrees```   
+
+<img src="https://image.slidesharecdn.com/findanglemeasuresinapolygon-110307143453-phpapp02/95/find-angle-measures-in-a-polygon-11-728.jpg?cb=1299508555" width="400">
+
 
 > ## Properties of Quadrilaterals
 >> Determine the shape using the properties of it   
@@ -392,8 +370,8 @@
 > ```Linear Relation```: A relation which a single straight line can be drawn through every data point and the first differences are constant   
 > ```Non - Linear Relation```: A single smooth curve can be drawn through every data point and the first differences are not constant   
 > ## Slope and Equation of Line   
->> ```Slope```: The measure of the steepness of a line - ```rise / run``` or ```change in y / change in x```   
->> ```Slope Formula```: **m = y<sub>2</sub>-y<sub>1</sub>/x<sub>2</sub>-x<sub>1</sub>**    
+>> ```Slope```: The measure of the steepness of a line - ```rise / run``` or ```rate of change y / rate of change x```   
+>> ```Slope Formula```: **m = (y<sub>2</sub>-y<sub>1</sub>)/(x<sub>2</sub>-x<sub>1</sub>)**    
 >> ```Standard Form```: **ax + by + c = 0**, a&isin;Z, b&isin;Z, c&isin;Z (must be integers and ```a``` must be positive)   
 >> ```Y-intercept Form```: **y = mx + b**    
 >> ```Point-slope Form```: **y<sub>2</sub>-y<sub>1</sub> = m(x<sub>2</sub>-x<sub>1</sub>)**   
@@ -412,8 +390,8 @@
 >> following linear equation: t = 15 + 0.01 h. **t** is the increase in temperature in
 >> degrees and **h** is the depth in meters.
 
-> ## Perpendicular Bisector
->> To find the perpendicular bisector, you will need to fidn the slope and midpoint   
+> ## Perpendicular Lines
+>> To find the perpendicular slope, you will need to find the slope point   
 >> Formula: slope1 &times; slope2 = -1   
 >> Notation: m<sub>&perp;</sub>   
 >> <img src="https://www.varsitytutors.com/assets/vt-hotmath-legacy/hotmath_help/topics/parallel-perpendicular-lines/parallel_perpendicular_lines_1.gif" width="300">   
@@ -446,13 +424,24 @@
 >> You can't go backwards on the x-axis, as you can't go back in time   
 >> Plot the points accordingly   
 >> Draw the lines accordingly   
->> <img src="https://dryuc24b85zbr.cloudfront.net/tes/resources/6061038/image?width=500&height=500&version=1519313844425" width="400">
+>> <img src="https://dryuc24b85zbr.cloudfront.net/tes/resources/6061038/image?width=500&height=500&version=1519313844425" width="400">   
+
+>> **Direction is always referring to:**
+
+>> 1. ```go towards home```    
+>> 2. ```going away from home```   
+>> 3. ```stop```    
 
 > ## Scatterplot and Line of Best Fit
 >> A scatterplot graph is there to show the relation between two variables in a table of values.    
 >> A line of best fit is a straight line that describes the relation between two variables.    
 >> If you are drawing a line of best fit, try to use as many data points, have an equal amount of points onto and under the line of best fit, and keep it as a straight line.   
->> <img src="https://www.varsitytutors.com/assets/vt-hotmath-legacy/hotmath_help/topics/line%20of%20best%20fit-eyeball/lineofbestfit-e-1.gif" width="300">
+>> <img src="https://www.varsitytutors.com/assets/vt-hotmath-legacy/hotmath_help/topics/line%20of%20best%20fit-eyeball/lineofbestfit-e-1.gif" width="300">    
+
+>> ### How To Determine the Equation Of a Line of Best Fit
+>> 1. Find two points **```ON```** the ```line of best fit```
+>> 2. Determine the ```slope``` using the two points
+>> 3. Use ```point-slope form``` to find the equation of the ```line of best fit```
 
 > ## Table of values
 >> To find first differences or any points on the line, you can use a ```table of values```
@@ -485,6 +474,32 @@
 
 >> ### Number of Solutions
 >>> <img src="https://lh5.googleusercontent.com/wqYggWjMVXvWdY9DiCFYGI7XSL4fXdiHsoZFkiXcDcE93JgZHzPkWSoZ6f4thJ-aLgKd0cvKJutG6_gmmStSpkVPJPOyvMF4-JcfS_hVRTdfuypJ0sD50tNf0n1rukcLBNqOv42A" width="500">   
+
+> ## Discriminant
+>> The discriminant determines the number of solutions (roots) there are in a quadratic equation. ```a```, ```b```, ```c``` are the 
+>> coefficients and constant of a quadratic equation: ```y = ax<sup>2</sup> + bx + c```    
+>> D = b<sup>2</sup> - 4ac    
+>> D > 0 ```(2 distinct real solutions)```     
+>> D = 0 ```(1 real solution)```    
+>> D < 0 ```(no real solutions)``` 
+
+>> <img src="https://image.slidesharecdn.com/thediscriminant-160218001000/95/the-discriminant-5-638.jpg?cb=1455754224" width="500">
+
+> ## Solving Linear-Quadratic Systems
+>> To find the point of intersection, do the following:     
+>> 1. Isolate both equations for ```y```
+>> 2. Set the equations equal to each other by ```subsitution``` Equation 1 = Equation 2
+>> 3. Simplify and put everything on one side and equal to zero on the other side
+>> 4. Factor
+>> 5. Use zero-product property to solve for all possible x-values
+>> 6. Subsitute the x-values to one of the original equations to solve for all y-values
+>> 7. State a conclusion / the solution    
+
+>> <img src = "https://lh5.googleusercontent.com/AJxSjT24kwneM_UH6kehfX-7AnzVewTJIk6v02aXOZ84veou2xNyBMPmhGSXWNhvhJfZT-wwHSlDNvbsfeHzjpGSuXMOohoIvaS2u0saoO1BZTRV3xNVobdoWytLhkVl0CkEaIiQ" width ="500">      
+
+>> There are 3 possible cases     
+>> In addition, to determine the number of solutions, you the Discriminant formula **D = b<sup>2</sup> - 4ac**
+
 
 > # Ways to solve Systems of Equations
 > 1. Subsitution   
