@@ -18,8 +18,8 @@
 # Unit 1: Introduction to Cnanadian geography 
 > ```(Chapter 1, pgs. 4- 16)```
 > ## Terms
->> ```Absolute location```: A location described in terms of ```longtitude``` and ```latitude```.   
->> ```Relative location```: A location described by in terms of its surronding features.
+>> **```Absolute location```**: A location described in terms of ```longtitude``` and ```latitude```.   
+>> **```Relative location```**: A location described by in terms of its surronding features.
 
 > ## Geotechnologies
 >> ```GPS```: **G**lobal **P**ositioning **S**ystem    
@@ -152,8 +152,9 @@
 
 >> |Region|Location in Canada|Prominent Features|
 >> |:-----|:-----------------|:-----------------|
+>> |<img width=100/>|<img width=400/>|<img width=300/>|
 >> |**Western Cordillera**|- Yukon Territory<br>- Northwest Territories<br>- British Columbia|- Formed when the ```Pacific plate``` **subducted** under the ```North American plate```<br>- It was formed during the ```cenozoic``` and ```mesozoic``` eras, **30** to **100** million years ago<br>- Its very ```young```<br>- ```Highland```|
->> |**Interior Plains**|- Northwest territories<br>- Saskatchewan<br>- Alberta<br>- Manitoba<br>- Nunavut|**Lowland**|
+>> |**Interior Plains**|- Northwest territories<br>- Saskatchewan<br>- Alberta<br>- Manitoba<br>- Nunavut|```Lowland```|
 >> |**Innutian Mountains**|- Nunavut|- Formed in mesozoic era<br>- It was formed by the ```North American Plate```<br>- Its very ```young```, hence higher<br>- ```Lowland```|
 >> |**Canadian Shield**|- Northwest Territory<br>- Nunavut<br>- Saskatchewan<br>- Manitoba<br>- Ontario<br>- Quebec<br>- Labrador|in progress|
 >> |**Hudson Bay - Arctic Lowlands**|- Ontario<br>- Quebec|```Lowland```|
@@ -161,8 +162,8 @@
 >> |**Great Lakes - St.Lawerence Lowlands**|- Ontario<br>- Quebec|```Lowland```|
 
 > ## Terms
->> ```Climate```: The weather condition prevailing in an area in general or over a long period    
->> ```Weather```: The state of the atmosphere at a place and time as regards ```heat, dryness, sunshine, wind, rain, etc```
+>> **```Climate```**: The weather condition prevailing in an area in general or over a long period    
+>> **```Weather```**: The state of the atmosphere at a place and time as regards ```heat, dryness, sunshine, wind, rain, etc```
 
 > ## LOWERN
 >> |Letter|Description|
@@ -178,8 +179,9 @@
 
 >> |Type of Climate|Description|Examples|
 >> |:--------------|:----------|:-------|
+>> |<img width=50/>|<img width=200/>|<img width=300/>|
 >> |```Maritime```|- Small annual temperature range (cool to warm summers, cold to mildwinters) below ```25C``` range<br>- Annual ```percipitation``` is high - greater than ```1000mm```<br>- Develops in coastal locations near major water bodies (i.e. Atlantic or Pacific Oceans)|- Halifax<br>- Nova Scotia<br>- Vancouver<br>- British Columbia|
->> |```Continental```|- Large annual temperature range (warm to hot summers, cold winters) greater than ```25C``` range<br>- Annual ```percipitation``` is low - below ```1000mm```<br>- Develops in area far from oceans and large lakes, in the interior of a continent/land mass|- Regina<br>- Saskatche-wan<br>- Winnipeg<br>- Manitoba|
+>> |```Continental```|- Large annual temperature range (warm to hot summers, cold winters) greater than ```25C``` range<br>- Annual ```percipitation``` is low - below ```1000mm```<br>- Develops in area far from oceans and large lakes, in the interior of a continent/land mass|- Regina<br>- Saskatchewan<br>- Winnipeg<br>- Manitoba|
 
 > ## Climate Change
 >> ### Causes
@@ -357,10 +359,70 @@
 >> |Fossil Fuel|Non-renewable resources extracted deep underground|```Non-renewable resource```|
 
 >> ```Conventional``` v.s ```Alternative``` Sources
+>>> ## Conventional   
 
->>> |Energy Source|Description|Advantages|Disadvantages|Type|
->>> |:------------|:----------|:---------|:------------|:---|
->>> |Coal|Coal formed from decayed plant and organic matter, extracted and produces electricity using steam (```thermoelectricity```)|- Plants can be built near urban areas<br>- Keeps transportation costs low<br>- Low-cost plants|- Fossil fuels prices rise<br>- non-renewable resource<br>- creates a lot of air pollution<br> &nbsp;|Conventional| 
+>>> |Energy Source|Description|Advantages|Disadvantages|
+>>> |:------------|:----------|:---------|:------------|
+>>> |<img width=50/>|<img width=100/>|<img width=600/>|<img width=600/>|
+>>> |Coal|Coal is formed from decayed plants and organic matter, which is then extracted<br>produces electricity using steam (```thermoelectricity```)<br>The steam is produced from burning the coal|- Plants can be built near ```urban areas```<br>- Keeps transportation costs ```low```<br>- ```Low-cost plants```<br> &nbsp;|- Fossil fuels prices rise<br>- ```Non-renewable resource```<br>- creates a lot of ```air pollution```<br> &nbsp;|
+>>> |Oil & Gas|It's formed from decayed plants and organic matter, which is then extracted<br>produces electricity using steam (```thermoelectricity```)<br>The steam is made from the burning of oil & gas|- Plants can be built near urban areas<br>- Plants can be built where fuel is rapidiy ```accessible```<br>- Cheap plants<br> &nbsp;|- Fuel costs raise rapidly<br>- Uses an ```non-renewable resource```<br>- Creates a lot of ```air pollution``` and ```acid percipitation```|
+>>> |Fracking|Creating natural gas by pumping chemicals deep underground<br>which is then extracted later and treated the same as fossil fuels and natural gases<br> &nbsp;|-``` Dramatically``` reducing cost of naturallgas globally<br>- ```Reduces carbon emissions```<br> &nbsp;|- Contaminantes ```air and water```<br>- ```Destruction``` of potiental farmlands<br> &nbsp; <br> &nbsp;|
+>>> |Nuclear|It creates energy by ```spliting an atom```, which gives off heat, which is then produced into steam to turn turbines to produce electricity<br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; |- Plants can be built easily where the ```energy is needed```<br>- Operating costs are ```low```<br>- Abudant supply of ```uranium```<br>- Does not produce ```air or land pollution```|- Construction costs are ```very high```<br>- ```Radioactive``` fuel is very hazardous to ```human-health```<br>- ```Radioactive``` waste have nowhere to go and are ```dangerous```<br>- Reactors age and become ```unreliable```|
+>>> |Hydroelectricity<br> &nbsp;|Electricity is generated by the movement of water<br> This movement of water turns turbines which generates electricity<br> &nbsp;|- Uses a ```flow resource```<br>- ```Creates recreational activities``` <br> &nbsp; |- ```Costly```<br>- ```Flooding```<br>- ```Dangerous chemicals```<br>- May affect nearby ```ecosystems```|
+
+>>> ## Alternative   
+
+>>> |Enerdy Source|Description|Advantages|Disadvantages|
+>>> |:------------|:----------|:---------|:------------|
+>>> |<img width=50/>|<img width=100/>|<img width=600/>|<img width=600/>|
+>>> |Solar|Uses the ```sun``` as a heat source to collect energy|- Its is a ```reliable consitent supply```<br>- Solar panels are becoming more ```efficient```<br>- It can be incorporated into the existing ```electric grid```<br>- It can be used on a ```local scale```|- The sun does not shine all the time<br>- Solar energy is not uniformly delivered across Canada<br>- It's a ```diffuse``` source that needs ```many collectors``` to generate enough power<br> &nbsp;|
+>>> |Wind|Uses the ```wind current``` to turn turbines to generate energy|- The costs of wind turbines are ```decreasing```<br>- It can be incorpoarated into the existing ```electric grid```<br>- It can be used on a ```local scale```<br> &nbsp;|- The wind does not blow all the time<br>- Wind is not uniformly delivered across Canada<br>- It's a ```diffuse``` source that needs ```many turbines``` to generate enough power|
+>>> |Tidal|Uses The waves ```tidal force``` to generate energy|- It's a ```reliable consitent supply```<br>- ```Improved designs``` of generators are making more sites possible|- There are ```few suitble sites```<br>- Generating stations are ```expensive``` to build<br>- Building stations has ```environmental impacts```|
+>>> |Hydro|See Conventional|- Highly efficient<br>- It's a ```reliable, consistent supply```<br> &nbsp;|Building stations has ```environmental impacts```<br>- Depends on ```extensize power grids```|
+
+> ## Minerals
+
+>> |Type|Description|Examples|
+>> |:---|:----------|:-------|
+>> |Metallic|Minerals that when refined, gives us the ```metal``` group|```Gold, Silver, Platinum```|
+>> |Industrial (non-metallic)|Minerals that are non metallic nor fossil fuel minerals|```Asbestos, Potash, Diamond```|
+>> |Fossil Fuels|Minerals that release energy when burned|```Coal, Natural gas, Oil```|
+
+> ## Types of Mines
+>> |Type of Mining|Description|
+>> |:-------------|:----------|
+>> |Strip|Is used to mine ```coal, oil sands and other minerals that are located in horizontal layers near the the surface```|
+>> |Open-pit|```Is used to mine minerals that are found near the surface but may also extend deep into the ground```|
+>> |Underground|```Is used to extract minerals ores located deep underground```|
+
+> ## Types of Industries
+
+>> |Industry|Definition|Examples|% of Workforce|
+>> |:-------|:---------|:-------|:-------------|
+>> |Primary|Industries that take raw materials from the natural environment|```Agriculture, Mining, Forestry, Fishing etc```|4.1|
+>> |Secondary|Processing of primary industry products into finished goods|```Construction, manufacturing, making prodicts like pencils, skates, tables etc```|20.7|
+>> |Tertiary|Wide range of services that support primary & secondary industries and society in general|```Teachers, hair dressers, Programmer etc```|75.2|
+
+> ## Terms
+
+>> **```Free Trade```**: International trade without tarifs or other barries to trade     
+>> **```Tariff```**: A tax applied to imported goods that is designed to prouct domestic manufacturers by making foriegn goods more expensive    
+>> **```NAFTA```**: North American Free Trade Agreement    
+>> **```CETA```**: Canadian European Union Comprehensive economic Trade Agreement    
+>> **```Trade Surplus```**: The difference between the ```exports``` and ```imports``` if the exports **exceed** the imports       
+>> **```Trade Deficit```**: The difference between the ```exports``` and ```imports``` if the imports **exceed** the exports    
+>> **```Exports```**: Giving stuff away    
+>> **```Imports```**: Getting stuff in    
+>> **```Comparative Advantage```**: A situation in which a country is better off focusing its efforts in fields where its ```most competitive```    
+>> **```Dutch Disease```**: A Situation in which th value of a ```country's currency``` is driven up by the growth of ```exports of natrual resources```, such as ```oil or mining```    
+>> **```Multiplier Effect```**: The increase in ```total wealth or income``` that occurs when ```new money``` is injected into the ```economy```    
+
+
+# Unit 4: Changing Populations
+
+> ```(Chapters 10-11, pgs 212-254)```   
+
+
 
 
 
