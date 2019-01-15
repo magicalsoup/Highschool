@@ -422,6 +422,70 @@
 
 > ```(Chapters 10-11, pgs 212-254)```   
 
+> ## Terms
+>> **```Birth Rate```**: Is the number of ```births``` per ```1000 people```     
+>> **```Deat Rate```**: Is the number of ```deaths``` per ```1000 people```     
+>> **```Doubling Time/Rule of 70```**: The amount of time it takes the ```population``` to ```double```    
+>> **```Immigration Rate```**: The number of ```immigrates``` per ```1000 people```     
+>> **```Emmigration Rate```**: The number of ```emmigrates``` per ```1000 people```    
+>> **```Net Migration Rate```**: The ```immigration rate``` minus the ```emmigration rate```    
+>> **```Population Growth Rate```**: The ```natural increase``` plus the ```net migration rate```     
+>> **```Immigrant```**: People who moves to one country from another country     
+>> **```Emmigrant```**: People who leave one country to move to another country     
+>> **```Total Fertility Rate```**: The ```average``` number of children born to a ```woman``` in a ```lifetime```     
+>> **```Natural Increase```**: The surplus / deficit of ```births over deaths``` in a population in a given ```time period``` 
+>> **```Dependency Load```**: The percentage of the population that is ```non-working```. It is conventionally defined as including people ```younger than age 15 and older than age 65```    
+
+> ## Population Pyramids
+>> |Type|Picture|
+>> |:---|:------|
+>> |Expansive|<img src="https://populationeducation.org/wp-content/uploads/2016/03/expansive.png" width="300">|
+>> |Stationary|<img src="https://populationeducation.org/wp-content/uploads/2016/03/stationary.png" width="300">|
+>> |Constrictive|<img src="https://populationeducation.org/wp-content/uploads/2016/03/constrictive.png" width="300">|
+
+> ## Aging Population
+
+>> |Problem|Description|
+>> |:------|:----------|
+>> |Healthcare|- More hospitals/facilities need to be built<br>- More healthcare workers (nurse, doctors, technicians) will need to be hired|
+>> |Housing|- People may downsize their home (buy smaller houses)<br>- ```Bungalows and condos``` may become more popular<br>- More seniors homes need to be built (nursing homes)|
+>> |People Available to Work <br>(The Workforce)|- More  people will be retiring<br>- Fewer Canadians paying taxes|
+>> |Job Opportunities for Younger Canadians|- More jobs could open up as large numbers of seniors retire<br>- Jobs that focus on helping seniors like lawn services, senior travel agents and ```optometrists```|
+>> |Sorts of Things Canadians Want to Buy|- Clothing for mature tastes and sizes<br>- Health aids (hearing aids, eye-glasses, dentures etc)<br>- Styles of vehicles to suit older buyers|
+
+>> |Solution|Description|
+>> |:-------|:----------|
+
+> ## Double Line Graph
+
+> ## Chinas *former* One Child Policy
+>> China only allowed ```one child``` per family, this was used to ```control the population```    
+>> The result of this was way too many ```boys``` as families wanted boys because they would stay with them and carry on their family name
+
+> ## Demographic Transition Model (DTM)
+>> |Stage|Description|
+>> |:----|:----------|
+>> 
+
+> ## Type of Immigrants
+
+> ## Wher are Immigrants coming from?
+
+> Migration of FNMI
+
+
+
+# Unit 5: Liveable Communities
+
+> ```(Chapters 12-14, pgs.255-308)```
+
+> ## Terms:
+>> ```Liveability```: All the characteristics of a community that contributes to the quality of life of the people who live there     
+>> ```Sustainability```: Improving the quality of human life while living within the carrying capacity of supporting ecosystems
+
+
+
+
 
 
 
