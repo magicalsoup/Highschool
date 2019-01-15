@@ -161,6 +161,15 @@
 >> |**Appalachins**|- New Brunswick<br>- Newfoundland<br>- Nova Scotia<br>- PEI|```Highland```|
 >> |**Great Lakes - St.Lawerence Lowlands**|- Ontario<br>- Quebec|```Lowland```|
 
+>> |Region|Picture|
+>> |:-----|:------|
+>> |**Western Cordillera**|<img src="https://landformregionproject.weebly.com/uploads/2/8/7/2/28721051/9498647_orig.jpg" width="400">
+>> |**Interior Plains**|<img src="http://marvinlyphysicalregions.weebly.com/uploads/2/6/4/4/26444241/533180692.jpg?509" width="400">
+>> |**Canadian Shield**|<img src="https://cdn.britannica.com/s:500x150/51/3051-004-7F88F905.jpg" width="400">
+>> |**Hudson Bay - Arctic Lowland**|<img src="https://landformregionsofcanada.weebly.com/uploads/2/5/2/0/25207833/9762710_orig.jpg" width="400">
+>> |**Appalachins**|<img src="https://www.worldatlas.com/r/w728-h425-c728x425/upload/d8/c6/31/shutterstock-579562096.jpg" width="400">
+>> |**Great Lakes - St.Laerence Lowlands**|<img src="http://marvinlyphysicalregions.weebly.com/uploads/2/6/4/4/26444241/931622409.jpg?502" width="400">
+
 > ## Terms
 >> **```Climate```**: The weather condition prevailing in an area in general or over a long period    
 >> **```Weather```**: The state of the atmosphere at a place and time as regards ```heat, dryness, sunshine, wind, rain, etc```
@@ -458,6 +467,8 @@
 
 > ## Double Line Graph
 
+>> <img src="http://image.mathcaptain.com/cms/images/113/example-of-double-line-graph.png" width="500"> 
+
 > ## Chinas *former* One Child Policy
 >> China only allowed ```one child``` per family, this was used to ```control the population```    
 >> The result of this was way too many ```boys``` as families wanted boys because they would stay with them and carry on their family name
@@ -468,10 +479,11 @@
 >> 
 
 > ## Type of Immigrants
+>> |Type|Description|
 
 > ## Wher are Immigrants coming from?
 
-> Migration of FNMI
+> ## Migration of FNMI
 
 
 
@@ -483,6 +495,8 @@
 >> ```Liveability```: All the characteristics of a community that contributes to the quality of life of the people who live there     
 >> ```Sustainability```: Improving the quality of human life while living within the carrying capacity of supporting ecosystems
 
+> ## Urban Issues
+>> ```Urban Sprawl```: largely uncontrolled expanision of cities onto adjacent or rural lands      
 
 
 
