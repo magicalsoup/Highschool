@@ -43,7 +43,7 @@
 >> ```W``` represents **Whole Numbers**  (W = {x | x > 0, x &isin; Z})    
 >> ```N``` represents **Natural Numbers** (N = {x | x &ge; 0, x &isin; Z})     
 >> ```Z``` represents **Integers** (Z = {x | -&infin; &le; x &le; &infin;, x &isin; Z})      
->> ```Q``` represents **Rational Numbers (Q = {<sup>a</sup>&frasl;<sub>b</sub> |a, b &isin; Z, b &ne; 0})   
+>> ```Q``` represents **Rational Numbers** (Q = {<sup>a</sup>&frasl;<sub>b</sub> |a, b &isin; Z, b &ne; 0})   
 
 >> | Symbol | Meaning |
 >> |:------:|:-------:|
@@ -306,7 +306,7 @@
 >> |3D Object|Formula|Picture|
 >> |:----|:------|:------|
 >> |Rectangular Prism|```Volume```: lwh <br> ```SA```: 2(lw+lh+wh)|<img src="https://lh6.googleusercontent.com/-mqEJ4AMk3xDPfqH5kdVukhtCGl3fgTy2ojyAArla54c7UoAnqKW_bsYSaFySXLplE59pqLIg5ANZAL1f6UEejsrKJwQCfyO7gwUQmSDoJJtQG_WkfHcOFDjidXV4Y4jfU2iA5b-" width="200">|
->> |Square Based Pyramid|```Volume```: <sup>1</sup>&frasl;<sub>3</sub>b<sup>2</sup>h <br> ```SA```: 2bs+b<sup>2</sup>|<img src="https://lh3.googleusercontent.com/BFePwVkXcQA-dFlBD8DQQ5Aq_fQ0PQLm6LIhMN27IAMjlWax0s_t5pcfv6HEy1JghOE8bQtCf90KZ4CEcLbicBlAFx3KOlNJ4XecSdFx" width="200">|
+>> |Square Based Pyramid|```Volume```: <sup>1</sup>&frasl;<sub>3</sub>b<sup>2</sup>h <br> ```SA```: 2bs+b<sup>2</sup>|<img src="https://lh5.googleusercontent.com/iqaaJtx-Kx4vFT3Yp6YLOmpDFL7_qk2uh0Z21pgPJMDRgchiUBcHeTWkMrR9mFjxCj8w7za1xwN9bo4UFACPZRMSl-V67uPv9FvDyNJVjedmeehx5K-iUK9sBhObhNsLJpNItkg0" width="200">|
 >> |Sphere|```Volume```: <sup>4</sup>&frasl;<sub>3</sub>πr<sup>3</sup> <br> ```SA```: 4πr<sup>2</sup>|<img src="https://lh6.googleusercontent.com/DL6ViJLbap2dcSAlZnYKR7c33033g8WuJVvqz0KpzCyIJ0wXyrh5ejoLhrTxlX9uASQlxPmihm8doU1sNbaQxqBcTaPnP-lC6LUrPqzPNi11AHiHQAu3ag7uIGcwzkdC9e5uo1en" width="200">|
 >> |Cone|```Volume```: <sup>1</sup>&frasl;<sub>3</sub>πr<sup>2</sup>h <br> ```SA```: πrs+πr<sup>2</sup>|<img src="https://lh5.googleusercontent.com/V3iZzX8ARcipdJiPPFYso_il3v_tcrYHZlFnq3qkekRSVBVcj8OzWxMuBqN45aHbv6y-fDH4uY11Gus3KMrvf_Z_TvsfJCwZZ19Ezf7Yj6DzVirp-Gx3V0Qy793ooUwTDmdKW_xq" width="200">|
 >> |Cylinder|```Volume```: πr<sup>2</sup>h <br> ```SA```: 2πr<sup>2</sup>+2πh|<img src="https://lh5.googleusercontent.com/4uWukD3oNUYBG-fLX2-g58X8at0h74al7BJI5l78LZ0Bu9nXuZnt9dp9xiETeLTqykP-WWFdO_H5by4RkgDVxSENZgootSrAsOUoY2RWubflNOAau1bVFgm9YIe59SmiFlyxwgDV" width="200">|
