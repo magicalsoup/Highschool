@@ -341,7 +341,7 @@
 
 > ## Median
 >> Each median divides the triangle into 2 smaller triangles of equal area   
->> The centroid is exactly <sup>2</sup>&frasl;<sub>3</sub> they way of each median from the vertex, or <sup>1</sup>&frasl;<sub>3</sub> the way from the midpoint of the opposite side, or ```2:1``` ratio   
+>> The centroid is exactly <img src="http://latex2png.com/output//latex_e25cac256b7164ee0e2f81c04f66d8ef.png" width="7"> the way of each median from the vertex, or <img src="http://latex2png.com/output//latex_e49d25791981be91167b2d965ce50d51.png" width="7"> the way from the midpoint of the opposite side, or ```2:1``` ratio   
 >> The three medians divide the triangle into ```6``` smaller triangles of equal area and ```3 pairs``` of congruent triangles   
 
 >> <img src="https://blog.udemy.com/wp-content/uploads/2014/05/d-median.png" width="500">
@@ -590,7 +590,9 @@
 > ## Word Problems
 >> Read carefully    
 >> model equations correctly   
->> ```Reread``` the question over and over again until you fully understand it and made sure there is no tricks. :p   
+>> ```Reread``` the question over and over again until you fully understand it and made sure there is no tricks. :p      
+>> ```Lets``` Statement     
+>> ```Conclusion```
 
 > ## Graph Problems
 >> Look up on tips in units (5) and (6)   
