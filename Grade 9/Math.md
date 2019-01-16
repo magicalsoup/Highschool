@@ -1,5 +1,31 @@
 # Math Study Sheet!!!!
 
+# Exam Detail
+> |Unit|Marks|
+> |:---|:----|
+> |Unit 1|10|
+> |Unit 2|10|
+> |Unit 3|9|
+> |Unit 4|11|
+> |Unit 5|11|
+> |Unit 6|8|
+> |Forms|4|
+> |Total|63|
+
+> |Section|Marks|
+> |:------|:----|
+> |Knowledge|21|
+> |Application|23|
+> |Thinking|12|
+> |Communication|3|
+> |Forms|4|
+
+> |Part|Question|
+> |:---|:-------|
+> |A|9 multiple choice|
+> |B|10 Short Answer --> <br>- 7 Knowledge questions<br>- 30 Application Questions|
+> |C|10 Open Response --> <br>- 10 Knowledge Questions<br>- 5 Application Questions<br>- 3 Thinking Questions<br>- 1 Communication Question|
+
 # Essential Skills (1)
 > ## Simple Arithmetics
 >> ### Addition / Subtraction
@@ -107,7 +133,9 @@
 >>> Some examples include the following: 5.4 x 10<sup>3</sup>, 3.0 x 10<sup>2</sup>, and 4.56 x 10<sup>-4</sup>.    
 >>> When the number is smaller than 1, a negative exponent is used, when the number is bigger than 10, a positve exponent is used    
 
->>> <img src="https://embedwistia-a.akamaihd.net/deliveries/d2de1eb00bafe7ca3a2d00349db23a4117a8f3b8.jpg?image_crop_resized=960x600" width="500">
+>>> <img src="https://embedwistia-a.akamaihd.net/deliveries/d2de1eb00bafe7ca3a2d00349db23a4117a8f3b8.jpg?image_crop_resized=960x600" width="500">     
+
+>>> **Remember**: For scientific notation, round to ```3 significant``` digits
 
 >> ## Rates, Ratio and Percent
 >>> ```Ratio```: A comparison of quantities with the same unit. These are to be reduced to lowest terms.      
@@ -374,7 +402,7 @@
 > ```Linear Relation```: A relation which a single straight line can be drawn through every data point and the first differences are constant   
 > ```Non - Linear Relation```: A single smooth curve can be drawn through every data point and the first differences are not constant   
 > ## Slope and Equation of Line   
->> ```Slope```: The measure of the steepness of a line - ```rise / run``` or ```rate of change y / rate of change x```   
+>> ```Slope```: The measure of the steepness of a line - ```rise / run``` or ```the rate of change```       
 >> ```Slope Formula```: **m = (y<sub>2</sub>-y<sub>1</sub>)/(x<sub>2</sub>-x<sub>1</sub>)**    
 >> ```Standard Form```: **ax + by + c = 0**, a&isin;Z, b&isin;Z, c&isin;Z (must be integers and ```a``` must be positive)   
 >> ```Y-intercept Form```: **y = mx + b**    
@@ -452,12 +480,12 @@
 
 >>| y | x |First Difference|
 >>|:--|:--|:---------------|
->>|-1|-2|1|
->>|0|-1|1|
->>|1|0|1|
->>|2|1|1|
->>|3|2|1|
->>|4|3|1|
+>>|-1|-2|.....|
+>>|0|-1|(-1)-(-2) = 1|
+>>|1|0|0 - (-1) = 1|
+>>|2|1|1 - 0 = 1|
+>>|3|2|2 - 1 = 1|
+>>|4|3|3 - 2 = 1|
 
 > ## Tips
 >> Label your graph correctly, the scales/scaling and always the ```independent variable``` on the ```x-axis``` and the ```dependent variable``` on ```y-axis```   
