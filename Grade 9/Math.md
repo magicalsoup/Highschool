@@ -147,7 +147,7 @@
      
 > ## Factoring 
 >>Two methods of solving; decomposition and criss-cross. First of all, the polynomial must be in the form of a quadratic 
->> equation (ax<sup>2</sup> + bx + c). As well, simplify the polynomial, so that all common factors are outside 
+>> equation (ax<sup>2</sup> + bx + c). As well, simplify the polynomial, so that all common factors are outside      
 >> (e.g 5x + 10 = 5(x + 2) ).     
 
 >> |Type of Polynomial|Definition|
@@ -269,13 +269,13 @@
 > 8. ```Sum of The Interior Angle of a Polygon```
 > - The sum of the interioir angles of any polygon is ```180(n-2)``` or ```180n - 360```, where ```n``` is the number of sides of the polygon
 
-<img src="https://i.ytimg.com/vi/tmRpwCM1K1o/maxresdefault.jpg" width="500">
+> <img src="https://i.ytimg.com/vi/tmRpwCM1K1o/maxresdefault.jpg" width="500">
 
 
 > 9. ```Exterior Angles of a Convex Polygon```
 > - The sum of the exterior angle of any convex polygon is always ```360 degrees```   
 
-<img src="https://image.slidesharecdn.com/findanglemeasuresinapolygon-110307143453-phpapp02/95/find-angle-measures-in-a-polygon-11-728.jpg?cb=1299508555" width="400">
+> <img src="https://image.slidesharecdn.com/findanglemeasuresinapolygon-110307143453-phpapp02/95/find-angle-measures-in-a-polygon-11-728.jpg?cb=1299508555" width="400">
 
 
 > ## Properties of Quadrilaterals
@@ -297,7 +297,7 @@
 > ## 2D Geometry Equations
 >> |Shape|Formula|Picture|
 >> |:----|:------|:------|
->> |Rectangle|```Area```: lw <br> ```Perimeter```: 2(l+w)|<img src="https://lh5.googleusercontent.com/pJ-Pm3oA8_oLRtc_eEhTBrGqXazzsK4phUQ_QqrNl5vyk1t6pypO9waRBonuHJYv4_Z2I9G2jq8xc-6Tmhy3MpihW9ITWna49JQNDtQ" width="200">|   
+>> |Rectangle|```Area```: lw <br> ```Perimeter```: 2(l+w)|<img src="https://lh5.googleusercontent.com/Ib1Evz5PUwd4PzRmFkHj9IY2Is-UthHoUyyiEHAzkJP-296jZvMmHJM1Kws4PmuTeYHV2ZBIJenc4W1pKtsSHvU82lyjOed2XKBb1PWnoaeJ3sSPuaJgSTg8JWbxrvplabCanvTD" width="200">|   
 >> |Triangle|```Area```: bh/2 <br> ```Perimeter```: a+b+c|<img src="https://lh6.googleusercontent.com/covvHwXxQhrK2Hr0YZoivPkHodgstVUpAQcjpg8sIKU25iquSHrRd2EJT64iWLsg_75WnBw4T9P0OTBiZDkpqEkXxflZQrL16sNhcFfet_z4Mw5EPFgdx_4HzsagV0Sm5jN6EKr_" width="200">|
 >> |Circle|```Area```: πr<sup>2</sup> <br> ```Circumference```: 2πr or πd|<img src="https://lh5.googleusercontent.com/RydffLVrOKuXPDXO0WGPpb93R8Ucm27qaQXuxNy_fdEcLmuGZH4eYc1ILNmLEx8_EYrRuOuxFavtL9DF1lTWYOx9WaYauVlu0o_UR6eZLeGewGjFNUQSK8ie4eTm1BMHfRoQWHob" width="200">|
 >> |Trapezoid|```Area```: (a+b)h/2 <br> ```Perimeter```: a+b+c+d|<img src="https://lh6.googleusercontent.com/_nceVtFlScBbup6-sPMulUTV3MMKu1nonei0D1WY-KRkpHSbPCIWgDO8UGDQBGKh8i0dkAqOhFUHl7YHCFOt6AMRSJiXALlBBY0mBo1MMZxHRVcg8DknSlv4ng7_QswcZtaRwrJb" width="200">|
