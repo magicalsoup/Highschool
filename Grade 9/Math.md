@@ -572,7 +572,8 @@
 >> Step 2. graph the line   
 >> Step 3. shade the region where all the regions overlap   
 
->> <img src="https://www.mathplanet.com/Oldsite/media/29728/coordinateplane21.png" width="400"> 
+>> <img src="https://www.varsitytutors.com/assets/vt-hotmath-legacy/hotmath_help/topics/graphing-systems-of-linear-inequalities/image3.gif" width="400"> 
+
 
 > ## Tips
 >> Read the questions carefully and model the system of equations correctly   
@@ -602,5 +603,6 @@
 >> When in doubt or to check your work, just plug the numbers back in and check if the statement is true
 
 # Credits
-> Ryan Mark - He helped provide alot of information for me   
+> Ryan Mark - He helped provide alot of information for me        
+> Ms Hung(Katie) - She helped me check over my study sheet, an amazing teacher!       
 > Magicalsoup - ME!
