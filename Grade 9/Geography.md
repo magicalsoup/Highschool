@@ -87,7 +87,8 @@
 > ## Theory of Plate Tectonics
 
 >> ```The cracked egg analogy```
->>> Basically the egg crackes are like the plates and the yolk is like the hot magma moving the egg cracks
+>>> Basically the egg crackes are like the plates and the yolk is like the hot magma moving the egg cracks      
+>>> Conventional Currents are the things that move the plates
 
 > ## Types of Plate Movements
 
@@ -156,7 +157,7 @@
 >> |**Western Cordillera**|- Yukon Territory<br>- Northwest Territories<br>- British Columbia|- Formed when the ```Pacific plate``` **subducted** under the ```North American plate```<br>- It was formed during the ```cenozoic``` and ```mesozoic``` eras, **30** to **100** million years ago<br>- Its very ```young```<br>- ```Highland```|
 >> |**Interior Plains**|- Northwest territories<br>- Saskatchewan<br>- Alberta<br>- Manitoba<br>- Nunavut|```Lowland```|
 >> |**Innutian Mountains**|- Nunavut|- Formed in mesozoic era<br>- It was formed by the ```North American Plate```<br>- Its very ```young```, hence higher<br>- ```Lowland```|
->> |**Canadian Shield**|- Northwest Territory<br>- Nunavut<br>- Saskatchewan<br>- Manitoba<br>- Ontario<br>- Quebec<br>- Labrador|in progress|
+>> |**Canadian Shield**|- Northwest Territory<br>- Nunavut<br>- Saskatchewan<br>- Manitoba<br>- Ontario<br>- Quebec<br>- Labrador|- ```Largest region```|
 >> |**Hudson Bay - Arctic Lowlands**|- Ontario<br>- Quebec|```Lowland```|
 >> |**Appalachins**|- New Brunswick<br>- Newfoundland<br>- Nova Scotia<br>- PEI|```Highland```|
 >> |**Great Lakes - St.Lawerence Lowlands**|- Ontario<br>- Quebec|```Lowland```|
@@ -172,7 +173,8 @@
 
 > ## Terms
 >> **```Climate```**: The weather condition prevailing in an area in general or over a long period    
->> **```Weather```**: The state of the atmosphere at a place and time as regards ```heat, dryness, sunshine, wind, rain, etc```
+>> **```Weather```**: The state of the atmosphere at a place and time as regards ```heat, dryness, sunshine, wind, rain, etc```     
+>> **```Prevailing Wind```**: Wind current that travels west to east
 
 > ## LOWERN
 >> |Letter|Description|
@@ -189,8 +191,9 @@
 >> |Type of Climate|Description|Examples|
 >> |:--------------|:----------|:-------|
 >> |<img width=50/>|<img width=200/>|<img width=300/>|
->> |```Maritime```|- Small annual temperature range (cool to warm summers, cold to mildwinters) below ```25C``` range<br>- Annual ```percipitation``` is high - greater than ```1000mm```<br>- Develops in coastal locations near major water bodies (i.e. Atlantic or Pacific Oceans)|- Halifax<br>- Nova Scotia<br>- Vancouver<br>- British Columbia|
->> |```Continental```|- Large annual temperature range (warm to hot summers, cold winters) greater than ```25C``` range<br>- Annual ```percipitation``` is low - below ```1000mm```<br>- Develops in area far from oceans and large lakes, in the interior of a continent/land mass|- Regina<br>- Saskatchewan<br>- Winnipeg<br>- Manitoba|
+>> |```Maritime```|- Small annual temperature range (cool to warm summers, cold to mildwinters) below ```25C``` range<br>- Annual ```percipitation``` is high - greater than ```1000mm```<br>- Develops in coastal locations near major water bodies (i.e. Atlantic or Pacific Oceans)<br>- Season of max precipitation is ```winter```|- Halifax<br>- Nova Scotia<br>- Vancouver<br>- British Columbia|
+>> |```Continental```|- Large annual temperature range (warm to hot summers, cold winters) greater than ```25C``` range<br>- Annual ```percipitation``` is low - below ```1000mm```<br>- Develops in area far from oceans and large lakes, in the interior of a continent/land mass<br>- Season of max precipitation is ```summer```|- Regina<br>- Saskatchewan<br>- Winnipeg<br>- Manitoba|
+
 
 > ## Climate Change
 >> ### Causes
@@ -325,7 +328,13 @@
 > ## Forestry
 >> Problems
 >>  - Poor forestry practices
->>  - Soil Erosion
+>>  - Soil Erosion    
+
+>> |Type of Cutting|Description|Pros|Cons|
+>> |:--------------|:----------|:---|:---|
+>> |Clear Cutting|Clears an entire land of trees|Very productive and efficient, Cheap|Harms the environment too much|
+>> |Selective Cutting|Only cut down some species of trees|Productive, less harm to the environment|Costly|
+>> |Sheltwater Logging|Only cut trees of the desired type, color quality etc|Sustainable practice|Not productive, Very costly|
 
 > ## Fishing
 
@@ -479,7 +488,28 @@
 >> 
 
 > ## Type of Immigrants
+
+>> ### Permanent
+
 >> |Type|Description|
+>> |:---|:----------|
+>> |**Skilled Worker Class**|- Judged using a point system. To be admitted into the country, they need a minimum number of points<br>- This point assessment is done for the family member with the highest point total<br>- If one person qualifies, whole family is let in<br>- Government has identified high-demand occupations like engineers, doctors, nurses etc.|
+>> |**Skilled Trades Class**|- Attracts immigrants with specific trade skills that are in short supply in Canada (i.e. electricians, plumbers, machinists, mine workers)<br>- This is a “pass or fail” system rather than a point system<br>- Person must meet 4 requirements:<br>- Have a job offer in Canada<br>- Have strong enough language skills to do the job<br>- Have two or more years of experience in the trade<br>- Be qualified to do the job by Canadian standards|
+>> |**Canadian Exprience Class**|- Accepts immigrants who have legally worked in Canada under a temporary worker program for at least one year<br>- Pass or fail system, applicant does **NOT** require a job offer in Canada|
+>> |**Start-up Visa**|- To apply in this class, a person must want to start a business in Canada<br>- Applicants must meet 4 criteria to be accepted:<br>- Prove that approved Canadian investors will fund their business idea<br>- Be proficient in English or French<br>- Have at least 1 year post-secondary education (i.e. college, university)<br>- Have enough money of their own to support themselves until the business can support them|
+
+>> ### Temporary & Humanitarian
+
+>> |Type|Description|
+>> |:---|:----------|
+>> |**Temporary Foreign Worker Program**|- Fill Labour Shortages<br>- Extraordinary talents: enhance economy<br>- Some immigrate after the end of their contract as “Canadian Experience Class"<br>- Most return home after the end of their work VISA<br>- Controversial|
+>> |**Family Class**|- Allows families of Canadian citizens to reunite in Canada<br>- these immigrants must be sponsored by a family member living in Canada that is at least 18 years of age<br>- the sponsor must agree to provide housing and financial needs for the new immigrant for 3-10 years if they run into financial difficulty|
+>> |**Refugees**|- A refugee is someone who fears persecution (or even death) in their home country <br>- this persecution must be for reasons of race, religion, nationality, or political opinion<br>- approximately 30 000 refugees are allowed into Canada every year<br>- a refugee would not be required to take the point system test|
+
+
+>> **```Rule```**: In canada, ```Economic immigrants``` need **minimum 67 Points** to be considered in Canada
+
+
 
 > ## Wher are Immigrants coming from?
 
