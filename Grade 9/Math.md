@@ -42,7 +42,7 @@
 >> ```E``` or &isin; means ```element of```   
 >> ```W``` represents **Whole Numbers**  (W = {x | x > 0, x &isin; Z})    
 >> ```N``` represents **Natural Numbers** (N = {x | x &ge; 0, x &isin; Z})     
->> ```Z``` represents **Integers** (Z = {x | -&infin; &le; x &ge; &infin;, x &isin; Z})      
+>> ```Z``` represents **Integers** (Z = {x | -&infin; &le; x &le; &infin;, x &isin; Z})      
 >> ```Q``` represents **Rational Numbers (Q = {<sup>a</sup>&frasl;<sub>b</sub> |a, b &isin; Z, b &ne; 0})   
 
 >> | Symbol | Meaning |
@@ -59,7 +59,8 @@
 >> <img src="https://docs.google.com/drawings/u/1/d/sGjyHDIs-wHWzppHAGdIpEA/image?w=162&h=70&rev=1&ac=1&parent=1ZIXKcDk3LBlgPK2EoUV04c0G1LZotrtfgVhJTooO1zA" width="200">
  
 > ## Operations with Rationals
->> Q = { <sup>a</sup>&frasl;<sub>b</sub> | a, b &isin; Z, b &ne; 0 }     
+>> Q = { <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\dpi{100}&space;\fn_cm&space;\frac{a}{b}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{100}&space;\fn_cm&space;\frac{a}{b}" title="\frac{a}{b}" /></a> | a, b &isin; Z, b &ne; 0 }     
+>> 
 >> Any operations with rationals, there are 2 sets of rules     
 >>> 1. ```Rules for operations with integers```
 >>> 2. ```Rules for operations with fractions```   
@@ -68,17 +69,20 @@
 >> To Multiply rationals, first reduce the fraction to their lowest terms, then multiply numerators and denominators   
 >> To Divide rationals, multiply them by the reciprocal   
 >> ### Example Simplify Fully:
->>> = <a href="https://www.codecogs.com/eqnedit.php?latex==&space;\frac{3}{4}&space;\div&space;\frac{2}{14}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?=&space;\frac{3}{4}&space;\div&space;\frac{2}{14}" title="= \frac{3}{4} \div \frac{2}{14}" /></a>[Reduce to lowest terms]   
->>> = <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{3}{4}&space;\div&space;\frac{1}{7}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{3}{4}&space;\div&space;\frac{1}{7}" title="\frac{3}{4} \div \frac{1}{7}" /></a> [Multiply by reciprocal]   
->>> = <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{3}{4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{3}{4}" title="\frac{3}{4}" /></a> &times; 7   
->>> = <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{21}{4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{21}{4}" title="\frac{21}{4}" /></a> [Leave as an improper fraction]
+>>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;\frac{2}{14}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;\frac{2}{14}" title="= \frac{3}{4} \times \frac{2}{14}" /></a> [Reduce to lowest terms]   
+
+>>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;\frac{1}{7}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;\frac{1}{7}" title="= \frac{3}{4} \times \frac{1}{7}" /></a> [Multiply by reciprocal]   
+
+>>><a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;7" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;7" title="= \frac{3}{4} \times 7" /></a> 
+
+>>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{21}{4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{21}{4}" title="= \frac{21}{4}" /></a> [Leave as an improper fraction]
 
 >> ### Shortcut for multiplying fractions
 >>> cross divide to keep your numbers small    
->>> Example:
->>> <sup>2</sup>&frasl;<sub>4</sub> &times; <sup>4</sup>&frasl;<sub>6</sub>    
->>> <sup>1</sup>&frasl;<sub>1</sub> &times; <sup>1</sup>&frasl;<sub>3</sub>   
->>> = <sup>1</sup>&frasl;<sub>3</sub>
+>>> Example:    
+>>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;\frac{2}{14}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;\frac{2}{14}" title="= \frac{3}{4} \times \frac{2}{14}" /></a>    
+>>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{1}{1}&space;\times&space;\frac{1}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{1}{1}&space;\times&space;\frac{1}{3}" title="= \frac{1}{1} \times \frac{1}{3}" /></a>      
+>>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{1}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{1}{3}" title="= \frac{1}{3}" /></a>      
 
 >> ## Exponent Laws
 
@@ -87,10 +91,10 @@
 >>> |Product|a<sup>m</sup> &times; a<sup>n</sup> = a<sup>n+m</sup>|2<sup>3</sup> &times; 2<sup>2</sup> = 2<sup>5</sup>|
 >>> |Quotient|a<sup>m</sup> &divide; a<sup>n</sup> = a<sup>n-m</sup>|3<sup>4</sup> &divide; 3<sup>2</sup> = 3<sup>2</sup>|
 >>> |Power of a Power|(a<sup>m</sup>)<sup>n</sup> = a<sup>mn</sup>|(2<sup>3</sup>)<sup>2</sup> = 2<sup>6</sup>|
->>> |Power of a Quotient|(<sup>a</sup>&frasl;<sub>b</sub>)<sup>n</sup> = <sup>a<sup>n</sup></sup>&frasl;<sub>b</sub><sup>n</sup>|(<sup>2</sup>&frasl;<sub>3</sub>)<sup>4</sup> = <sup>2<sup>4</sup></sup>&frasl;(<sub>3</sub><sup>4</sup>)|
+>>> |Power of a Quotient|<img src="http://latex2png.com/output//latex_9528cf1be9ea781a9134559f27f6b94b.png" width="25"> =   <img src="http://latex2png.com/output//latex_8c4a93634d0e2f5cfce05b474ebf2f02.png" width="15">|<img src="http://latex2png.com/output//latex_74d1af968da0b70a335c8d93273635e9.png" width="25"> =   <img src="http://latex2png.com/output//latex_2040cef99eca664c295bd74848f0779f.png" width="15">|
 >>> |Zero as Exponents|a<sup>0</sup> = 1|21<sup>0</sup> = 1|
->>> |Negative Exponents|a<sup>-m</sup> = <sup>1</sup>&frasl;<sub>a</sub><sup>m</sup>|1<sup>-10</sup> = <sup>1</sup>&frasl;(<sub>1</sub><sup>10</sup>) or <sup>1</sup>&frasl;<sub>1</sub>|
->>> |Rational Exponents|a<sup>n/m</sup> = (<sup>m</sup>&radic;a)<sup>n</sup>|16<sup>5/4</sup> = (<sup>4</sup>&radic;16)<sup>5</sup> = 2<sup>5</sup>|
+>>> |Negative Exponents|a<sup>-m</sup> = <img src="http://latex2png.com/output//latex_0223494d8dd45b887178dcecbbfeb462.png" width="20">|1<sup>-10</sup> = <img src="http://latex2png.com/output//latex_4765f9318cc4813f30321334b18635eb.png" width="20">|
+>>> |Rational Exponents|a<sup>n/m</sup> = <img src="http://latex2png.com/output//latex_33a019fd887e207917a831e5b5fd20e5.png" width="50">|<img src="http://latex2png.com/output//latex_af91e3845b91443f5fcf11fcf59368d3.png" width = "35"> = <img src="http://latex2png.com/output//latex_33a019fd887e207917a831e5b5fd20e5.png" width="50">|
 
 >>> **Note:**    
 >>> Exponential Form --> Expanded Form   
