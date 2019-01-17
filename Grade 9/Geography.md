@@ -585,6 +585,16 @@
 > ## Urban Issues
 >> ```Urban Sprawl```: largely uncontrolled expanision of cities onto adjacent or rural lands      
 
+>> ### Urban Sprawl Impacts
+>>> Traffic Congestion     
+>>> Over burderdend services     
+>>> Air Pollution     
+>>> Plannign for mass transit     
+>>> Managing wastes     
+>>> containing urban sprawl    
+
+
+
 
 
 
