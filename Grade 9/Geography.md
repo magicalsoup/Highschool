@@ -316,14 +316,90 @@
 
 > ## Farming
 >> Problems
->>  - ask ms lagis
+
+>> 1. Loss of Farmland in Ontario
+>>    - Description
+>>      - urban expanision is taking farmland away
+>>    - Advantages/Attempts
+>>      - Greenbelt act and GTA growth plan will protect farmland in Southern Ontario
+>>    - Disadvantages/Next Steps
+>>      - Protect forms or else Cnadaians will have a food crisis, where we run out of agricultural products
+>>    - Solutions
+>>      - Create "smart" communities
+>>      - Densely packed fmarland, using up less space
+>> 2. Decline of the Family Farm and Growth of Agribusiness
+>>    - Description
+>>      - Less family farms, more agribusiness (large companies)
+>>      - Better technology and smaller farms
+>>    - Advantages/Attempts
+>>      - More food produced faster
+>>      - Less soil erosion
+>>    - Disadvantages/Next Steps
+>>      - Pollution
+>>      - Broken realtionship between farmer and machine
+>>      - More GMOs
+>>    - Solution
+>>      - Support more sustainable farmers
+>>      - Be aware
+>>      - Use corporate farms with family farm methods
+>> 3. Sustainable Agriculture
+>>    - Description
+>>      - Unsustainable agriculutre damages environment too much
+>>      - manure leakage
+>>      - Chemicals
+>>      - Soil pollution
+>>    - Advantages/Attempts
+>>      - Less damage to environment
+>>      - Less air, water, and soil production
+>>      - Fewer diseases and chemicals
+>>    - Disadvantages/Next steps
+>>      - Chemical leakage in soil
+>>      - Contributes to global warming and GHGs
+>>      - Water, air and soil contamination
+>>    - Solutions
+>>      - Have livestock facilities
+>>      - Nutrients management
+>>      - Be energy efficient
+>> 4. Organic Farming
+>>    - Description
+>>      - Organic foods are being replaced by chemicals, fertilizers, antibiotics, animal cloning, and genetic modification
+>>    - Advantages/Attempts
+>>      - Many people want to buy organic food productsfree of chemicals pesticides
+>>      - People like to try new products
+>>      - Some like to ensure products taste, concerns for the environment, and GMO prevention in foods
+>>    - Disadvantage/Next Steps
+>>      - Expensive
+>>      - Labour-costly
+>>      - Skills are needed
+>>      - needs time to grow crops or livestoc naturally
+>>    - Solutions
+>>      - Organic farming may increase in the future becuase people may see good in it
+>>      - May be just a trend
+>>      - May decrease due to the fact that it may be expensive and technology may be increasing
+>> 5. Mad Cow Disease (BSE)
+>>    - Description
+>>      - Neurological disease
+>>      - Creates microscopic holes in the brain of affected cattle
+>>      - Gives brain spongy apperanace
+>>      - Spread by cattle feed from dead cows
+>>    - Disadvantages
+>>      - Could heavily affect world trade due to infected meat
+>>    - Solutions
+>>      - Canada accepts beeef from places that can consider and control BSE
+>>      - CFIA (Canadian Food Inspection Agency) banned the use of protein products from cattle, including brain, animal feed and fertilizers
+>> 6. GMOs (Genetically Modified Organisms)
+>>    - Description
+>>      - Impacts the environment
+>>      -
+
+
 
 >> ### ```Intensive``` v.s ```Extensive```
 
 >>>|Type|Definition|
 >>>|:---|:---------|
->>>|```Intensize```|```Large amounts``` of ```labour, machinery and fertilizers``` used on ```small``` farms. ```High yields``` per hectare
->>>|```Extensive```|```Small amounts``` of ```labour, machinery, and fertilizers used on ```large``` farms. ```Small yeilds``` per hectare
+>>>|```Intensize```|```Large amounts``` of ```labour, machinery and fertilizers``` used on ```small``` farms. ```High yields``` per hectare|
+>>>|```Extensive```|```Small amounts``` of ```labour, machinery, and fertilizers used on ```large``` farms. ```Small yeilds``` per hectare|
 
 > ## Forestry
 >> Problems
