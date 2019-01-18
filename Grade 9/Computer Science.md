@@ -109,8 +109,42 @@
 
 >>> **Remember** ```String``` is not a primitive type      
 
->> String - object data type
->> ```equals(String)``` 
+>> ```equals(String)``` - Method compares the current string to another string and returns true if the two contain the same value, false if different
+
+>> ```substring(int, int)``` - takes two values - an int for the first character and an int for the last character (exclusive)
+    - substring(1, 10) returns the substring from index 1 to index ```9```
+    - returns that part of the string 
+
+>> ### Strings
+>> - String - a set of individual characters
+>>   - string start at zero - zero indexing
+>>   - an array of characters
+
+>> - Char(acter) - hold the same type of information as a string - but only one character
+>>   - use single quotes rather than double quotes
+>>   - many different methods that can be used with char
+>>   - uses less memory than a string 
+
+>>> ```java
+>>> String name = "Ms Andrighetti";
+>>> String firstThree, lastEleven;
+>>> firstThree = name.substring(0, 3);
+>>> lastEleven = name.substring(4, 15);
+>>> System.out.println(firstThree);
+>>> System.out.println(lastEleven);
+>>> ```
+
+>> - first character is index 0 because zero-indexed
+>> - substring specifies the first characters you want and the last character you don't want
+>> - if you try to access a point beyond the end of the String, you will get an error
+
+>> - ```length()``` - tells you how many character are in a string
+>>   - length gives you the length of string not last index of the string
+>>> ```java
+>>> String word = "Hello";
+>>> int length = word.length();
+>>> System.out.println(length);
+>>> ```
 
 >> ### Boolean Expressions
 >> -  can only have 2 possible value(true or false)     
@@ -488,6 +522,152 @@
 >  - result si a ```negative integer``` if this String object lexicographically(alphabetically) precedes the argument string
 >  - result is a ```positive integer``` if this string object
 >  - result is ```zero``` if the string are equal
+
+# Unit 4: Methods
+> ```methods``` - subprograms in java
+>   - a group of programming statements that are given a name
+> two types of methods
+> - ```function-type methods``` - calculates and returns a value
+> - ```procedure-type methods``` - executes some commands and has a void return type
+
+> ## Why Methods
+> - allows for code to be reused throughout a program
+> - more efficient and neatly organized programs
+> - allow for easy modification later on
+
+> ## Examples:
+>> ```java
+>> public static int square(int number){
+>>    return number * number;
+>> }
+>>
+>> public static void printHelloWorld(){
+>>    System.out.println("Hello World!");
+>> }
+>> ```
+
+>> int - return - type
+>> square - method name
+>> int number - formal parameter
+
+> ## Built in methods
+
+>> |Method|Description|
+>> |:-----|:----------|
+>> |```Math.abs(x)```| returns the absolute value of the paramter x|
+>> |```Math.random()```|returns a pseudorandom value uniformally distributed between 0 and 1|
+>> |```Math.round(x)```|returns the value of x rounded according to the usual arithmetic rules|
+>> |```Math.ceil(x)```|returns the value of x rounded up to the nearest integer|
+>> |```Math.floor(x)```|returns the value of x rounded down to the nearest integer|
+>> |```Math.max(x, y)```|returns the greatest of values x and y|
+>> |```Math.min(x, y)```|returns the smallest of values x and y|
+>> |```Math.sqrt(x)```|returns the value of the square root of x|
+>> |```Math.pow(x, y)```|returns the value if x raised to the power of y|
+
+> ## More on  Method 
+>>  - ```signature``` - method name and parameter
+>>  - if method is to be used outside the class in which it is defined, it must be declared as a public in the class
+>>  - call or invoke a method to use it
+>>  - ```formal parameter``` - the names of the parameter accepted in the signature
+>>  - ```actual parameter``` - the values passed into a method
+>>  - if no parameters, empty set of parentheses are used
+>>    - ```java
+>>      c.readInt();
+>>      ```
+
+> ## Return Type Methods
+> - public static ```return type``` ```method name```(parameters) 
+> - Example:
+>>  ```java
+>>   public static int square(int num1){
+>>       // do stuff here
+>>   }
+>>   ```
+
+> ## Void Type Methods
+> - public static void ```method name```(parameters)
+> - Example:
+>>  ```java
+>>   public static void drawPicture(){
+>>       // do stuff here
+>>   }
+>>   
+>>   public static void draw4Circles(int x1, int y1, int x2, int y2){
+>>       // do stuff here
+>>   }
+>>   ```
+
+> Java language - Strongly typed
+> - meaning you are not allowed to assign a value to a variable that is consistent with its declare type
+
+> ```Scope of variable``` - the part of the program over which the variable can be accessed or referenced
+> - referes to the ```accessibility``` of a variable
+> - variables cannot be accessed before they are declared
+
+> Variables can be declared in several different places
+>  - class bodies (referred to as global or class level variables)
+>  - as parameters to methods(in method signature)
+>  - in a method body
+>  - in a statement block (like a loop or a while loop)
+
+>> ```java 
+>> public class VariableExample{
+>>    static Scanner myScanner = new Scanner(System.in);
+>>
+>>    public static void main(String[]args){
+>>        // main method
+>>    }
+>> }
+>> ```
+
+> - Description of Example
+>   - variable myScanner is declared outside of the main method in the class level
+>   - the variable is considered to be a global variable that can be accessed anywhere in the class
+>   - for now, global variables should have the keyword ```static``` preceding the declaration
+
+> - In methods
+>   - a method may declare local variable in the body of the method for use onlyin that method
+>   - variable may also be declared in the parameter list - only can be accessed in the method
+
+>> ```java
+>> public static int thirdPower(double number){
+>>     int cube; // local variable
+>>     cube = number * number * number;
+>>     return cube;
+>> }
+>>
+>> public static double thirdPower(double number){
+>>     double cube;
+>>     cube = number * number * number;
+>>     return cube;
+>> }
+>> ```
+
+>   - variable cube in thirdpower is local to that method
+>   - local variables cannot be accessed from outside of the method
+
+> - In blocks of code
+>   - variables defined in a block are only accessible from within the block
+>   - the scope of the variable is the block in which it is defined
+
+>> ```java
+>> for(int x = 0; x < 5; x++){
+>>    System.out.println(x);
+>> }
+>> ```
+>>   - the variable x can only be accessed in the for loop
+
+> Method void return type
+> - return type void means that a method will not return a value
+> - the method can still have parameter when the return type is void
+
+> Naming conventions
+> - method names should indicate an action
+> - verbs make good methods names
+> - methods names should begin with a lowercase letter and then an uppercase letter should begin with each word within the name
+> - method names may not contain spaces
+
+>
 
 
 
