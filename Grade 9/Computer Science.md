@@ -28,11 +28,11 @@
 >> **```String Concatenation```**: means that two strings are combined into one using the "r" sign      
 
 > ## Varaibles
->> Holder for data       
->> We can use words instead of just a single letter
->>  - can store more than just numbers     
->> a place in memory (RAM: random access memory) where it can be stored or referred to      
->>  - Name, type, value
+> - Holder for data       
+> - We can use words instead of just a single letter
+> - can store more than just numbers     
+> - a place in memory (RAM: random access memory) where it can be stored or referred to      
+> - Name, type, value
 
 >> To declare a variable 
 >>  1. Name
@@ -109,9 +109,12 @@
 
 >>> **Remember** ```String``` is not a primitive type      
 
+>> String - object data type
+>> ```equals(String)``` 
+
 >> ### Boolean Expressions
->>> can only have 2 possible value(true or false)     
->>>  - compare must be compatible type     
+>> -  can only have 2 possible value(true or false)     
+>> - compare must be compatible type     
 
 >>> |Symbol|Meaning|
 >>> |:-----|:------|
@@ -152,8 +155,8 @@
 
 
 > ## Selection statements
->> allow java to make a decision     
->> depending on decision, program will function differently each time it is run      
+> - allow java to make a decision     
+> - depending on decision, program will function differently each time it is run      
 
 >> ```java
 >> if(condition){
@@ -174,8 +177,8 @@
 >>>```
 
 >> ### ```=``` vs ```==```
->>> ```=```: assignment    
->>> ```==```: comparison    
+>> -  ```=```: assignment    
+>> - ```==```: comparison    
 
 >> ### if.... else if.... else
 
@@ -193,11 +196,11 @@
 >>> }
 >>> ```
 
->>>  - used when program needs to choose from a variety of situations
->>>  - use else if to specify another condition
->>>  - helps to control the flow of your program
->>>  - helps make decision when 3 or more conditions must be considered
->>>  - makes program more efficient
+>>  - used when program needs to choose from a variety of situations
+>>  - use else if to specify another condition
+>>  - helps to control the flow of your program
+>>  - helps make decision when 3 or more conditions must be considered
+>>  - makes program more efficient
 
 >>> ```java
 >>> if(age >= 16){
@@ -243,7 +246,7 @@
 >> **```NOT```**: flips the value of a statement
 
 >> ### Truth Table
->>> Used to study logic by computer scientists
+>> - Used to study logic by computer scientists
 
 >>> | X | Y |X OR Y|X AND Y|
 >>> |:--|:--|:-----|:------|
@@ -269,9 +272,9 @@
 >> ```
 
 >> ### While Loops
->>> consists of a condition statement that are executed while the condition is true      
->>> types of conditions used in a while statement are the same as in the ```if statement```     
->>> while the condition is true, repeat the statements in the loop
+>> - consists of a condition statement that are executed while the condition is true      
+>> - types of conditions used in a while statement are the same as in the ```if statement```     
+>> - while the condition is true, repeat the statements in the loop
 
 >>> ```java
 >>> while(num <= 10){
@@ -280,10 +283,10 @@
 >>> }
 >>> ```
 
->>> the program continues repeating until the num is greater than 10      
->>> there may be times when you may want to specify more than one condition     
->>> no limit to the number of conditions, but should limit to 2 or 3     
->>> can combine conditions(logical statements) using ```&&``` and ```||``` conditional  operators
+>> - the program continues repeating until the num is greater than 10      
+>> - there may be times when you may want to specify more than one condition     
+>> - no limit to the number of conditions, but should limit to 2 or 3     
+>> - can combine conditions(logical statements) using ```&&``` and ```||``` conditional  operators
 
 >>> ```java
 >>> while(num >= 1 && num <= 10){ // runs until num is between 1 and 10
@@ -316,11 +319,11 @@
 
 
 >> ### For Loops
->>> include three distinct statements separated by semicolon     
->>> first statement declares the counter variable           
->>> second statement specifies exit condition    
->>> third statement increments the counter variable after each iteration of the loop
->>> counter variable only exists within loop
+>> - include three distinct statements separated by semicolon     
+>> - first statement declares the counter variable           
+>> - second statement specifies exit condition    
+>> - third statement increments the counter variable after each iteration of the loop
+>> - counter variable only exists within loop
 
 >>> ```while``` and ```for``` loop: - may not need to run if condition is false
 
@@ -331,19 +334,19 @@
 >>> ```
 
 >> ### Accumulator
->>> variables that add any value to a sum or total      
->>> realize the need for the variable     
->>> declare the variable
->>> initialize it (give it a start value, usually 0)
->>> accumulate the value in a loop (add the value to the variable)
+>>  - variables that add any value to a sum or total      
+>>  - realize the need for the variable     
+>>  - declare the variable
+>>  - initialize it (give it a start value, usually 0)
+>>  - accumulate the value in a loop (add the value to the variable)
 
 >> ### Do while Loop
 
->>> They must runu minimum once
+>>> They must run minimum once
 >>> After running once, it checks the continue condition at the end of the iteration
 
 >>> ```java
->>> do{
+>>> do {
 >>>   // do stuff here
 >>> }while(condition);
 >>> ```
@@ -390,9 +393,101 @@
 > ```Arrays```: a data structure that allow you to hold multiple pieces of data, in a single object     
 >   - hold a predetermined number of elements
 >   - must be same type
+>      ``` java
+>      int, String, char, boolean, double, complex types
+>      ```
+>    - [] - square brackets means index
+>    - arrays always start at 0 index
+>    - must be assigned a fixed size
+>    - use counted loop with array to do things
 
+> ## Example:
 
+>> ```java
+>>  // declare an array of 5 integer
+>>  int [] numArray = new int[5];
+>>  // set the 0 index of numArray to 123
+>>  numArray[0] = 123;
+>>  // get the array size
+>>  int arraySize = numArray.length;
+>> ```
 
+> ### Mid - program initialization of arrays
+> - can declare the array at the beginning ant set size 
+> - All variable and arrays must be declared at the beginning of the program for proper conventions
+>> ```java
+>> // declare variables and array
+>> String[] names;
+>> int numValues;
+>> System.out.println("How many names?");
+>> numValues = scan.nextInt();
+>> // initialize array
+>> names = new String[numValues];
+>> ```
+
+# Unit 3: Sorting
+  - ```sorting```: the process of arranging a list of items into a well-defined order
+  - final list rearrangement of the original list
+
+> ## Bubble Sort
+> - when x numbers in array, loop x - 1 times
+> - The bubble sort algorithm works by swapping   adjacent pairs in the list until all adjacent pairs are sorted in order, at which the entire list is sorted
+> - by making passes through the array, each pass moves from left to right
+> - the first pass compares element 1 and element 2 and swaps them if they are out of order, then compares element 2 and element 3 and swaps them if they are out of order, and so on
+> - the largest element is moved to the right
+> - for a length of n, there are n - 1 passes
+
+>> |Pass 1|Pass 2|Pass 3|Pass 4|
+>> |:-----|:-----|:-----|:-----|
+>> |```3 6``` 5 4 2|```3 5``` 4 2 6|```3 4``` 2 5 6|```3 2``` 4 5 6|    
+>> |3 ```6 5``` 4 2|3 ```5 4``` 2 6|3 ```4 2``` 5 6|2 3 4 5 6|    
+>> |3 5 ```6 4``` 2|3 4 ```5 2``` 6|3 2 4 5 6|    
+>> |3 5 4 ```6 2```|3 4 2 5 6|
+>> |3 5 4 2 6|
+
+>> |Number of Elements|Number of Passes|Number of Comparisons|
+>> |:-----------------|:---------------|:--------------------|
+>> |4|3|6|
+>> |5|4|10|
+>> |6|5|15|
+>> |7|6|21|
+>> |8|7|28|
+>> |9|8|36|
+>> |10|9|45|
+>> |```n```|```n - 1```|```n * (n - 1) / 2```|
+
+> ## Algorithm
+
+>> ```
+>> repeat the following n -1 times
+>>   for each element in the array, starting at the first element
+>>       compare items in current positions with the element in the next position
+>>       if item in current position is greater than item in next position then
+>>          swap the 2 items using the following steps
+>>          temp = current list item
+>>          current list item = next list item
+>>          next list item = temp
+>> ```
+
+> ## Code
+
+>> ```java
+>> // array called list
+>> for (int i = 0; i < list.length - 1; i++){
+>>     for(int j = 0; j < list.length - 1 - i; j++){
+>>         if(list[j]  > list[j + 1]){
+>>             int temp = list[j];
+>>             list[j] = list[j + 1];
+>>             list[j + 1] = temp;
+>>         }
+>>     }
+>> }
+>> ```
+
+> ```CompareTo(String)```
+>  - result si a ```negative integer``` if this String object lexicographically(alphabetically) precedes the argument string
+>  - result is a ```positive integer``` if this string object
+>  - result is ```zero``` if the string are equal
 
 
 
