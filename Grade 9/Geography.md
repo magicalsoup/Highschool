@@ -636,7 +636,9 @@
 
 
 
-> ## Wher are Immigrants coming from?
+> ## Where are Immigrants coming from?
+> china
+
 
 > ## Migration of FNMI
 >> Aboriginals make up ```4.3%``` of canadas population    
@@ -648,6 +650,18 @@
 >>    - Results in a ```lack of jobs```, ```overcrowded housing```, and ```lack of resources```
 >>  - In Ontario, ```80%``` of FNMI live ```off-reserve``
 
+> ## Scatter-graph
+
+>> ### Graphing
+>> 1. label x and y axis
+>> 2. title
+>> 3. appropriate scale
+>> 4. plot points down
+>> 5. line of best fit
+
+>> ### Analysis
+>> - Positive, Negative, No correlations
+>> - Patterns and Trends
 
 
 # Unit 5: Liveable Communities
@@ -667,7 +681,36 @@
 >>> Air Pollution     
 >>> Plannign for mass transit     
 >>> Managing wastes     
->>> containing urban sprawl    
+>>> containing urban sprawl   
+
+> ## Sustainable Communities
+
+>> ### Importance of Agriculture
+>> - its important to protect farmland because farmland provides sustainable development. 
+>> - It helps ensure that we will have local sources of food in the future and not to rely as much on imported foods
+
+>> ### Vertical Cities
+>> - High rises and skyscrapers are being built in cities
+>> - Advantages
+>>   - less land
+>>   - can be built higher
+>>   - accomadating alot of people
+
+>> ### Eating Locally
+
+>> ### Respsect for traditional lifestyle
+
+
+> ## Measuring Sustainability & liveability
+>> **```Human Development Index```**:   
+>> **```Gross National Happiness```**:    
+>> **```Gross Domestic Product```**:
+
+>> ### Ecological Footprint
+
+>> - How to Determine:
+>>   -
+
 
 
 
