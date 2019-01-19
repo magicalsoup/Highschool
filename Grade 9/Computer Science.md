@@ -8,7 +8,7 @@
 >> |```C```|**Short & Long Answers**<br>- Compare and contrast short code, methods, problem solving|20|
 >> |```Total```||68|
 
-## Intro To Programming
+## Unit 1: Intro To Programming
 
 > ```Comments```: are used to explain and clarify program ocde for human reader   
 
@@ -27,7 +27,7 @@
 >> **```String:```** means a group of many characters     
 >> **```String Concatenation```**: means that two strings are combined into one using the "r" sign      
 
-> ## Varaibles
+> ## Variables
 > - Holder for data       
 > - We can use words instead of just a single letter
 > - can store more than just numbers     
@@ -172,9 +172,9 @@
 >> ```java 
 >> import java.util.Scanner;  
 >> ``` 
->> to tell compiler to include scanner class in the .class file       
->> line at very top of file
->> create scanner using 
+> - to tell compiler to include scanner class in the .class file       
+> - line at very top of file
+> - create scanner using 
 >> ```java
 >> Scanner myScanner = new Scanner(System.in);
 >> ```
@@ -187,6 +187,14 @@
 >> |a line(or what remains of a line after you've already read some data from the line)|nextLine()|
 >> |a single character(such as a letter, a digit or a punctuation character|next.charAt(0)|
 
+> ## Output
+> - using standard output system:
+
+>> ```java
+>> System.out.println()
+>> ```
+
+> - this outputs to the console
 
 > ## Selection statements
 > - allow java to make a decision     
@@ -422,7 +430,7 @@
 >> ```
 
 
-# Unit 2 Arrays
+# Unit 2: Arrays
 
 > ```Arrays```: a data structure that allow you to hold multiple pieces of data, in a single object     
 >   - hold a predetermined number of elements
@@ -458,6 +466,95 @@
 >> // initialize array
 >> names = new String[numValues];
 >> ```
+
+> ## Display
+> - Simply iterate throughout the array and just print out all the elements
+> - A ```for``` loop or ```while``` loop can be used
+> - Simple display code
+
+>> ```java
+>> System.out.print("The elements in the array are: ");
+>> for(int i = 0; i < array.length; i++){
+>>     System.out.print(array[i] + " ");
+>> }
+>> System.out.println();
+>> ```
+
+> ## Search
+
+> - To iterate through in array, or to search an element
+> - Just loop through the array until you find the element
+> - Use ```length``` to iterate through the entire array
+> - Use appropriate comparators like ```==``` and ```.equals()```
+> - Simple search code
+
+>> ```java
+>> int element = 12;
+>> for(int i = 0; i < array.length; i++){
+>>     if(array[i] == element){
+>>         System.out.println("Element found at index: " + i);
+>>         break;
+>>     }
+>> }
+>> ```
+
+> ## Finding The Average
+
+> - Sum all the elements of the list and divide by the number of elements
+> - Simple average finding code
+
+>> ```java
+>> int sum = 0;
+>> for(int i = 0; i < array.length; i++){
+>>     sum += array[i];
+>> }
+>> double average = sum / array.length;
+>> System.out.println("The average is: " + average);
+>> ```
+
+> ## Finding Min / Max
+
+>> ### Finding the Min
+>> - Algorithm
+
+>>> ```
+>>> set the min to the first element, we assume its the minimum
+>>> go through each element in the array, if we find an element that is smaller than the current min 
+>>> change the current min to it, we can use either Math.min() or the < operator
+>>> after iterating through the entire list, the min will be the smallest number
+>>> ```
+
+>> - Code
+>>> ```java
+>>> int min = array[0];
+>>> for(int i = 0; i < array.length; i++){
+>>>     if(array[i] < min){
+>>>         min = array[i];
+>>>     }
+>>> }
+>>> System.out.println("The smallest value is: " + min);
+>>> ```
+
+>> ### Finding the Max
+>> - Algortihm
+
+>>> ```
+>>> set the max to the first element, we assume its the maximum
+>>> go through each element in the array, if we find an element that is bigger than the current max 
+>>> change the current max to it, we can use either 'Math.max()' or the '>' operator
+>>> after iterating through the entire list, the min will be the biggest number
+>>> ```
+
+>> - Code
+>>> ```java
+>>> int max = array[0];
+>>> for(int i = 0; i < array.length; i++){
+>>>     if(array[i] > max){
+>>>         max = array[i];
+>>>     }
+>>> }
+>>> System.out.println("The biggest value is: " + max);
+>>> ```
 
 # Unit 3: Sorting
   - ```sorting```: the process of arranging a list of items into a well-defined order
@@ -519,7 +616,7 @@
 >> ```
 
 > ```CompareTo(String)```
->  - result si a ```negative integer``` if this String object lexicographically(alphabetically) precedes the argument string
+>  - result is a ```negative integer``` if this String object lexicographically(alphabetically) precedes the argument string
 >  - result is a ```positive integer``` if this string object
 >  - result is ```zero``` if the string are equal
 
@@ -597,10 +694,10 @@
 >>   }
 >>   ```
 
-> Java language - Strongly typed
+> ## Java language - Strongly typed
 > - meaning you are not allowed to assign a value to a variable that is consistent with its declare type
 
-> ```Scope of variable``` - the part of the program over which the variable can be accessed or referenced
+> ## ```Scope of variable``` - the part of the program over which the variable can be accessed or referenced
 > - referes to the ```accessibility``` of a variable
 > - variables cannot be accessed before they are declared
 
@@ -657,17 +754,84 @@
 >> ```
 >>   - the variable x can only be accessed in the for loop
 
-> Method void return type
+> ## Method void return type
 > - return type void means that a method will not return a value
 > - the method can still have parameter when the return type is void
 
-> Naming conventions
+> ## Naming conventions
 > - method names should indicate an action
 > - verbs make good methods names
 > - methods names should begin with a lowercase letter and then an uppercase letter should begin with each word within the name
 > - method names may not contain spaces
 
->
+> ## Pass By Value
+
+>> ```java
+>> public static void drawBar(int length){
+>>     for(int i = 0; i < length; i++){
+>>          System.out.print("* ");
+>>     }
+>>     System.out.println();
+>> }
+>> ```
+
+> - means that when a method is called, a ```copy``` of the value of each argument is passed to the method
+> - this copy can be changed inside the method, however such a change will have no effect on the actual argument
+> - copies of the actual parameter values from main are sent to the methods, where they become ```foramal parameters```. When the method is finished, the copies are discarded. The actual ```paramter``` values remain unchanged. Notice that nothing is returned in the above method and how values ```a``` and ```b``` are not changed in the main method when passed in the method below
+
+>> ```java
+>> public static void main(String[]args){
+>>     int a = 0, b = 10;
+>>     System.out.println("The starting value of a and b are: " + a + " and " + b);
+>>     change(a, b);
+>>     System.out.println("The values of a and b are: " a + " and " + b);
+>> }
+>> public static void change(int a, int b){
+>>      a = 999;
+>>      b = 21;
+>> }
+>> ```
+
+> ## Pass by reference
+
+> - occurs when an object is passed to a method, its memory address location (its ```reference```) is used
+> - ```Arrays``` behave like objects, their memory location is passed to the method
+> - that means that when an array is manipulated in the method that we are actually ```changing``` the array
+> - be cautious when sending an array in the method as it will change the data in the original array
+
+>> ```java
+>> public static void main(String[]args){
+>>     int array[] = new int[4];
+>>     a[0] = 1000;
+>>     a[1] = 2000;
+>>     a[2] = 3000;
+>>     a[3] = 4000;
+>>     System.out.print("The values of the array are: ");
+>>     for(int i = 0; i < a.length; i++){
+>>          System.out.print(a[i] + " ");
+>>     }
+>>     System.out.println();
+>>     System.out.println();
+>> 
+>>     change(array);
+>>
+>>     System.out.print("The values of the array are: ");
+>>     for(int i = 0; i < a.lengh; i++){
+>>          System.out.print(a[i] + " ");
+>>     }
+>>     System.out.println();
+>> }
+>> public static void change(int array[]){
+>>      array[0] = 1;
+>>      array[1] = 2;
+>>      array[2] = 3;
+>>      array[3] = 4;
+>> }
+>> ```
+
+# Unit 5: Software Design Process
+
+> 
 
 
 
