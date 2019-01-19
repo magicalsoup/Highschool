@@ -663,25 +663,57 @@
 >> - Positive, Negative, No correlations
 >> - Patterns and Trends
 
+> ## Foriegn Aid
+>> ### ODA
+>>>  Official Development Assistance; the formal term for the aid provided by developed countries to poorer countries
+>>>  - Measured by comparing it to the size of a country's economy
+>>>  - **```Bilateral Aid```**: money from a country --> poorer countries
+>>>  - **```Mulilateral Aid:```** money from a country --> UN/NGO --> poorer countries
+
+> ## NGO
+>> **```Non-Governmental Organization```**: A private, not-for-profit organization working to achieve particular social, environemental, or political goals
+>> Examples: ```Doctors without Borders```, ```World Literacy Foundation```, ```Red Cross```
 
 # Unit 5: Liveable Communities
 
 > ```(Chapters 12-14, pgs.255-308)```
 
 > ## Terms:
->> ```Liveability```: All the characteristics of a community that contributes to the quality of life of the people who live there     
->> ```Sustainability```: Improving the quality of human life while living within the carrying capacity of supporting ecosystems
+>> **```Liveability```**: All the characteristics of a community that contributes to the quality of life of the people who live there   
+>> **```Sustainability```**: Improving the quality of human life while living within the carrying capacity of supporting ecosystems
+>> **```Carry Capacity```**: The ability of the environment to support a population without enviornmental damage
 
 > ## Urban Issues
 >> ```Urban Sprawl```: largely uncontrolled expanision of cities onto adjacent or rural lands      
 
 >> ### Urban Sprawl Impacts
->>> Traffic Congestion     
->>> Over burderdend services     
->>> Air Pollution     
->>> Plannign for mass transit     
->>> Managing wastes     
->>> containing urban sprawl   
+>> 1. Traffic Congestion     
+>> 2. Over burderdend services     
+>> 3. Air Pollution     
+>> 4. Plannign for mass transit     
+>> 5. Managing wastes     
+>> 6. containing urban sprawl   
+
+>> ### Solutions
+>> - HOV lanes: high occupancy vehicle lanes available to buses and passenger vehicles carry at least two people; designed to help move more people through congested areas
+
+>> - Waste Management: extensive recyling and composting programs (ex. Ontario's blue box)
+>> - Smart Growth: A concept for urban exapansion that also preserves the natural environment
+>>   - Principles
+>>     - Develop in existing communities
+>>       - Make them compact instead of sprawling out
+>>     - Mix land uses
+>>       - Put homes stores, offices, and services in close proximity to reduce traffic, and increase walking / biking
+>>     - Create a range of housing opportunities
+>>       - Bring people of different ages, household types, incomes, ethnicities together
+>>     - Provide variety of transport choices
+>>       - Public transit
+>>     - Create places and routes for safe walking / biking
+>>     - Protect wildlife habitats
+>>       - natural corridors
+
+>> ```**New Urbanism```**: a movement to reform the design of physical communities
+>>  - Ex. Vancouver
 
 > ## Sustainable Communities
 
@@ -702,14 +734,21 @@
 
 
 > ## Measuring Sustainability & liveability
->> **```Human Development Index```**:   
->> **```Gross National Happiness```**:    
->> **```Gross Domestic Product```**:
+>> **```Human Development Index```**: measure of the overall quality of life that combines measures of wealth, health and education (developed by the UN)   
+>> **```Gross National Happiness```**: measure of the happiness of a population   
+>> **```Gross Domestic Product Per Capita```**: gross national product per person; measure of the size of an economy in dollars divided by population
 
 >> ### Ecological Footprint
-
+>>> **```Ecological Footprint```**: the amount of productive land needed to provide you with the goods you use and to absorb the waste you produce
 >> - How to Determine:
->>   -
+>>   - Transportation use
+>>   - Water use
+>>   - Space used for work/play
+>>   - Money used
+>>   - How far your food shipped
+>>   - Amount of living space
+>>   - Amount of garbage
+
 
 
 
