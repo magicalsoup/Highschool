@@ -532,7 +532,7 @@
 >>>         min = array[i];
 >>>     }
 >>> }
->>> System.out.println("The smallest value is: " + min);
+>>> System.out.println("Smallest value is: " + min);
 >>> ```
 
 >> ### Finding the Max
@@ -553,7 +553,7 @@
 >>>         max = array[i];
 >>>     }
 >>> }
->>> System.out.println("The biggest value is: " + max);
+>>> System.out.println("Biggest value is: " + max);
 >>> ```
 
 # Unit 3: Sorting
@@ -660,8 +660,15 @@
 >> |```Math.min(x, y)```|returns the smallest of values x and y|
 >> |```Math.sqrt(x)```|returns the value of the square root of x|
 >> |```Math.pow(x, y)```|returns the value if x raised to the power of y|
+>> |```Math.PI```|returns the double value of the mathemetical π|
+>> |```.charAt(x)```|returns the character at index x|
+>> |```.substring(st, ed)```|returns the string beginning at st and ending at ed(exclusive)|
+>> |```.toLower()```|returns the lower-cased version of the string|
+>> |```.toUpper()```|returns the upper-cased version of the string|
+>> |```.split(regex)```|splits the string at index(s) where the ```regex``` appears and returns an array of strings|
+>> |```isCharacter(x)```|checks if x is an character|
 
-> ## More on  Method 
+> ## More on Methods 
 >>  - ```signature``` - method name and parameter
 >>  - if method is to be used outside the class in which it is defined, it must be declared as a public in the class
 >>  - call or invoke a method to use it
@@ -831,7 +838,53 @@
 
 # Unit 5: Software Design Process
 
-> 
+> ## 5 Steps
+
+>> |Step #|Description|
+>> |:-----|:----------|
+>> |Analysis|Also called ```problem solving```, its the process of ```breaking problems down into smaller more manageable parts```|
+>> |Design|In this stage, an ```algorithm``` which is a set of instructions defined to solve the problem|
+>> |Implementaion|Also referred to as ```coding```. Where you express the algorithm in a ```programming language```|
+>> |Testing|Invlovles the running of the program will a full range of data. Valid data: ```the data the user should be inputting.``` Invalid data: ```incorrect or unexpected data```|
+>> |Maintenance|```Maintaining a program over time so that any changes are needed are incorporated```|
+
+> **```valid data```**: the data the user should be inputting
+> **```invalid data```**: ```incorrect``` or ```unexpected``` data
+> **```algorithm```**: a set of ```insturction``` defined to ```solve``` the problem
+> **```Well designed program```**: a program that ```reliably``` solves the problem it was created to solve
+> **```Waterfall Model```**: A flow chart, each phase must be completed before the next one
+
+> ## Programmers
+> - Programmers have the abilites to:
+> - 1. Solve Problems
+> - 2. Organize information
+> - 3. Design Solutions
+> - 4. Express instructions in a logical sequence
+> - 5. Input them into a computer
+
+> - My Points for abilities and characteristics:
+>   - 1. Communicate, collabration
+>   - 2. Present their solution
+>   - 3. Work as a team
+
+# Unit 6: Problem Solving
+
+> ## Code Correction
+> - ```;``` semicolons
+> - Accessing outside of specified range of a ```string``` or ```array```
+> - Missing or extra brackets ```{}```, ```()```, ```[]```
+> - Undeclared variables, scope of an variable
+> - Wrong method calls
+> - incorrect syntax
+
+> ## Problem solving
+> - **Debugging**
+> - Printing out code
+> - Rubber ducking your code
+
+# Credits
+> Creator, Editor: --> magicalsoup (ME)!     
+> Helper, Information Provider(s): --> Matthew Wong, Samantha Ouyang
 
 
 
