@@ -175,8 +175,173 @@
 
 
 # History
+  
+> ## Practice:
+
+> ## True / False
+
+> - The period of middle ages was marked by barbaric wars, fedual disputes and regligious cursades
+>   - True
+
+> - The only way to learn music education during the middle ages was in church schools
+>   - True
+
+> - In the baroque period, there were 3 very important developments in the use of musical groups
+>   - False
+
+> - Almost all of the music from the middle ages was instrumental music
+>   - False, instruments were not allowed in churches or monasterires for the majority of the middle ages
+
+> - Unity of rhythm is when rhythmic patterns are heard throughout the piece and played at the end of the piece
+>   - False, is when the same rhythm pattern is heard throughout the piece
+
+> - Continuity of Melody is when the opening melody is heard again and again throughout the piece
+>   - True
+
+> - Antonio Vivaldi is credited as being the first major composer of opera
+>   - False, it was claudio monterveridi
+
+> - The Baroque period was a period of development for instrumental music
+>   - True
+
+> - Stress on balance and clarity of structure are two important elements of music and art during the Classical period
+>   - True
+
+> - Catherdrals and monasteries were the center of educational, religious and musical life
+>   - True
+
+> - Girls and Boys were allowed to attend church schools in the middle ages
+>   - False, only boys were allowed
+
+> - One of the most important occupations in monasteries is liturgical singing
+>   - True
+
+> - Bach created the oratorio
+>   - False, it was Handel
+
+> - Classical music focuses on freedom of expression
+>   - False, it was the Baroque period
+
+> - The emancipation of the composer was an important development in the Classical era. 
+>   - True
+
+> - Joseph Haydn worked as a freelance musician.
+>    - False, It was Ludvig Van Beethoven
+    
+> - Almost all the music from the middle ages was vocal music
+>   - True
+
+> - The vast majority of the changes in music was in French and Italian music  
+>   - True
+
+> - The development of two or more simultaneous melodic lines is known as heterophony.
+>   - It is polyphony
+
+> - The piano was the most prominent instrument used in the Middle Ages. 
+>   - It was the organ
+
+> - The chamber sonata was written and designed to be performed in the church.
+>   - False, it was player outside of the church, usually in a small paylor setting
+
+> - During the Classical Period, the Italians favoured comic opera, called opera buffa. 
+>   - True
+
+> - Franz Joseph Haydn’s career as a chorister ended because he despised the church. 
+>   - False, his career ended due to his voice changed after he hit puberty
+
+> - Mozart was not interested in living under the traditional patronage system.
+>   - True
+
+> - The Church had less power than the kings 
+>   - False, they had almost equal power
+
+> - Messiah was a oratorio by George Frideric Handel 
+>   - True
+
+> - French Overtures consisted of 3 sections: fast, slow, and fast
+>   - False, it was the italian overture
+
+> - Composers in the classical period composed more piano sonatas, in comparison with the other periods in history of music
+>   - True
+
+> - The pianoforte was invented during the Classical Period  
+>   - False, it was invented during Baroque by Christofori
+
+> - There were no division between the social classes in the middle ages 
+>   - False, there was a sharp division among the social classes
+
+> - Peasants were the centers of religious 
+>   - False Cathedrals were the centers of religious
+
+> - All the important musicians during the middle ages were priests and worked for church
+>   - True
+
+> - Pope Gregory had nothing to do with the actual writing down or transcription of the chants
+>    - True 
+
+> - The italians had undertaken opera as a new art form and felt that serious opera was the only viable art form 
+>   - False. The italians believed that they had a monopoly on opera, the french had undertaken opera as a new art form and felt that serious opera was the only viable art form
+
+> - Classical music is a term applied to any music that is of the jazz, rock, popular music styles
+>   - False, classical music is a term applied to any music that is not of the of the jazz, rock, popular music styles, It applies more specifically to the style of music that was composed in the eighteenth and early nineteenth centuries in Europe 
 
 
+> - Wolfgang Amadeus Mozart died well known and wealthy
+>   - False, he was dirt poor and penniless, it was until decades later that his work was recongnized
+
+> - Terraced dynamics change suddenly, if at all
+>   - True
+
+> -  Opera was invented in the Baroque period
+>    - True
+
+> - Classical music was designed to appeal a wide-ranging audience
+>    - True
+
+> - Liturgical singing is a solo piece for a singer 
+>   - False, It was aria
+
+> - A melody with a few chords is called a monody. 
+>   - True
+
+> - Organum is when you add a second melody/voice to a Gregorian chant
+>   - True
+
+> - A cantata is highly dramatized, and is purely based on secular themes
+>   - False, the opera is dramatized and canata can be based on sacared themes as well
+
+> - Secular means religious
+>   - False, sacared means religious
+
+> - The Baroque Suite was a series of dance movements all in different keys
+>   - False, its a series of dance movements all in the same key
+
+
+> ## Definitions
+> - ```Chorister```: A memeber of a choir in a church
+> - ```Jongleur```: highly skilled performers that travelled from town to town
+> - ```Terraced dynamics```: When the dynamic changes abruptly
+> - ```Church School```: The only place to recieve musical education
+> - ```Polyphony```: music that combines two or more simultaneous melodic lines
+> - ```Unity of Mood```: baroque music that expresses one basic emotion
+> - ```Monody```: music with a single vocal line accompanied by a few inconspicuous chords
+> - ```The Baroque Suite```: a series of dance movements all in the same key
+> - ```Virtuosi```: A performer who has great technical ability on an instrument
+> - ```Motet```: A secular or sacared piece of music
+> - ```Word Painting```: when the music reflects the meaning of the text
+> - ```Opera```: a drama set to music
+> - ```Canata```: a vocal work, either secular or sacared
+> - ```Oratorio```: a musical composition for voices and orchestra based on religious text
+> - ```Scriptures```: religious text
+> - ```Continunity of Melody```: when the opening melody is heard throughout the piece
+> - ```Homophonice Texture```: when one main melody is accompanied by either voices or instruments
+> - ```French Overture```: used as an overture to main compositions such as preludes or operas, Slow - Fast
+> - ```Italian Overture```: used as an overture to main compositions such as preludes or operas, Fast - Slow - Fast
+> - ```The Church Sonata```: serious piece of work, played in the church
+> - ```Chamber Sonata```: played outside the church, usually in a small paylor setting
+> - ```Unity of Rhythm```: when a rhythmic pattern is heard at the beggining of the piece and heard throughout the piece
+> - ```Aria```: a solo piece for a singer
+> - ```Clergy```: leaders of the church
 
 
 
