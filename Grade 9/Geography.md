@@ -637,13 +637,50 @@
 
 
 > ## Where are Immigrants coming from?
-> china
+> - Coming from: Mainly ```China, Phillipines, and India (in order from most to least immigrants)```
+> - Settling in: ```Ontario```(28.5%), ```British Columbia```(27.6), ```Alberta```(18%), ```Quebec```(12.6%), ```Manitoba & Saskatchewan```(11.6%), ```Territories```(6.9%), ```Atlantic Canada```(4.1%)
+
+> - The most settled in cities: ```Toronto, Vancouver, Calgary (in order from most to least immigrants)```
+> - ### Distribution
+>   - Economic Class: ```62.7%```
+>   - Family Class: ```25.2%```
+>   - Refugees: ```9%```
+>   - Other: ```3.5%```
 
 
 > ## Migration of FNMI
 >> Aboriginals make up ```4.3%``` of canadas population    
 >> Are not spread across the country ```evenly````
 >>  - For example, ```16.2%``` of aboriginals reside in ```Saskatchewan``` and ```Manitoba``` combined, while ```53.2%``` reside in ```three territories```
+
+>> ## Levels of Development
+
+>> - ### Developing
+>>   - ```Lowest level``` of ```economic and social development```
+>>   - Economy is largely dependent on ```primary industries (farming, mining, fishing)```
+>>   - Manufacturing is becoming widespread
+>>   - ```Tertiary and quaternary``` industries are scarce and underdeveloped
+>>   - Citizens have a ```low income``` and often do not pay taxes
+>>   - Government has ```minimal funding```
+>>   - Example Countries: ```Mongolia, Ethiopia, Madagascar, Bangladesh, Kenya```
+
+>> - ### Newly Industrializing
+>>   - In between developing and developed
+>>   - Secondary industries are becoming more common ```(manufacturing, construction)```
+>>   - ```Tertiary industries``` are starting to appear
+>>   - Often due to ```social bias```
+>>     - Examples: ```Child labour, expensive healthcare```
+>>   - Example Countries: ```India, China, Brazil, Mexico, Russia```
+
+>> - ### Developed
+>>   - ```Highest level``` of economic development, social development, and standard of living
+>>   - Economy is largely dependent on the ```tertiary and quaternary``` industries
+>>   - Manufacturing is less common but was widespread in the past
+>>   - Primary industries are the least prominent
+>>   - Example Countries: ```Australia, Canada, United States, United Kingdom, Japan```
+
+
+
 
 >> Are increasingly moving to ```urban areas```
 >>  - The land given through treaties and reserves is often of ```poor quality```
@@ -729,6 +766,14 @@
 >>   - accomadating alot of people
 
 >> ### Eating Locally
+>> - ```Locavore```: someone who eats locally grown food
+>> - #### Advantages
+>>   - ```Financial``` supports for farmers
+>>   - Better trust between ```customer``` and ```supplier```
+>>   - Healthier food, ```less chemicals```
+>>   - Better Taste
+>>   - Lower price (bargaining)
+>>   - Less ```environmental``` load
 
 >> ### Respsect for traditional lifestyle
 
@@ -749,8 +794,15 @@
 >>   - Amount of living space
 >>   - Amount of garbage
 
+# Credits
 
+> Annika Yang (A.K.A **```nii```** , **```Sith Lord```**)
 
+> Adeline Su
+
+> Magicalsoup (ME!!!)
+
+> Ms Lagis
 
 
 
