@@ -176,6 +176,18 @@
 >> **```Weather```**: The state of the atmosphere at a place and time as regards ```heat, dryness, sunshine, wind, rain, etc```     
 >> **```Prevailing Wind```**: Wind current that travels west to east
 
+>> ## Climate graph
+>> - ```Percipitation``` on the ```right```
+>> - ```Temperature``` on the ```left```
+>> - Use ```blue``` for ```percipitation```
+>> - Use ```red``` for ```temperature```
+>> - Label graph
+>>   - Month on bottom
+>>   - mm and degrees in their respective sides
+>>   - Title
+
+>> <img src="https://www.openschool.bc.ca/courses/ss7_OLD/images/climate.gif" width="500">
+
 > ## LOWERN
 >> |Letter|Description|
 >> |:-----|:----------|
@@ -291,6 +303,14 @@
 >> |Deciduous|- The trees that ```drop their leaves``` during the winter to survive<br>- Found in ```tropical``` climates|- Oak<br>- Maple<br>- Hickory trees|
 >> |Coniferous|- The trees that ```do not drop their leaves``` during the winter<br>- Found in rather ```cooler``` climates|- Cedar<br>- Douglas-fir<br>- Fir|
 
+> ## Aboriginal People
+>> ### Attawapiskat
+>> - Main source of water for Attawapiskat First Nations is a murky lake full of ```organic matter```
+>> - Water```treatement plants``` is not able to bring water to required standards for humans
+>> - Mainly rely on ```bottled water```
+>> - ```Sewage system``` does not work properly
+>> - Some families in ```Attawapiskat``` have no access to ```running water``` at all
+
 # Unit 3: Managing Canada's Resources and Industries
 
 > ```(Chapters 5-9, pgs. 101-201)```
@@ -317,80 +337,115 @@
 > ## Farming
 >> Problems
 
->> 1. Loss of Farmland in Ontario
->>    - Description
+>> 1. ## Loss of Farmland in Ontario
+>>    - ### Description
 >>      - urban expanision is taking farmland away
->>    - Advantages/Attempts
+>>    - ### Advantages/Attempts
 >>      - Greenbelt act and GTA growth plan will protect farmland in Southern Ontario
->>    - Disadvantages/Next Steps
+>>    - ### Disadvantages/Next Steps
 >>      - Protect forms or else Cnadaians will have a food crisis, where we run out of agricultural products
->>    - Solutions
+>>    - ### Solutions
 >>      - Create "smart" communities
 >>      - Densely packed fmarland, using up less space
->> 2. Decline of the Family Farm and Growth of Agribusiness
->>    - Description
+>> 2. ## Decline of the Family Farm and Growth of Agribusiness
+>>    - ### Description
 >>      - Less family farms, more agribusiness (large companies)
 >>      - Better technology and smaller farms
->>    - Advantages/Attempts
+>>    - ### Advantages/Attempts
 >>      - More food produced faster
 >>      - Less soil erosion
->>    - Disadvantages/Next Steps
+>>    - ### Disadvantages/Next Steps
 >>      - Pollution
 >>      - Broken realtionship between farmer and machine
 >>      - More GMOs
->>    - Solution
+>>    - ### Solution
 >>      - Support more sustainable farmers
 >>      - Be aware
 >>      - Use corporate farms with family farm methods
->> 3. Sustainable Agriculture
->>    - Description
+>> 3. ## Sustainable Agriculture
+>>    - ### Description
 >>      - Unsustainable agriculutre damages environment too much
 >>      - manure leakage
 >>      - Chemicals
 >>      - Soil pollution
->>    - Advantages/Attempts
+>>    - ### Advantages/Attempts
 >>      - Less damage to environment
 >>      - Less air, water, and soil production
 >>      - Fewer diseases and chemicals
->>    - Disadvantages/Next steps
+>>    - ### Disadvantages/Next steps
 >>      - Chemical leakage in soil
 >>      - Contributes to global warming and GHGs
 >>      - Water, air and soil contamination
->>    - Solutions
+>>    - ### Solutions
 >>      - Have livestock facilities
 >>      - Nutrients management
 >>      - Be energy efficient
->> 4. Organic Farming
->>    - Description
+>> 4. ## Organic Farming
+>>    - ### Description
 >>      - Organic foods are being replaced by chemicals, fertilizers, antibiotics, animal cloning, and genetic modification
->>    - Advantages/Attempts
+>>    - ### Advantages/Attempts
 >>      - Many people want to buy organic food productsfree of chemicals pesticides
 >>      - People like to try new products
 >>      - Some like to ensure products taste, concerns for the environment, and GMO prevention in foods
->>    - Disadvantage/Next Steps
+>>    - ### Disadvantage/Next Steps
 >>      - Expensive
 >>      - Labour-costly
 >>      - Skills are needed
 >>      - needs time to grow crops or livestoc naturally
->>    - Solutions
+>>    - ### Solutions
 >>      - Organic farming may increase in the future becuase people may see good in it
 >>      - May be just a trend
 >>      - May decrease due to the fact that it may be expensive and technology may be increasing
->> 5. Mad Cow Disease (BSE)
->>    - Description
+>> 5. ## Mad Cow Disease (BSE)
+>>    - ### Description
 >>      - Neurological disease
 >>      - Creates microscopic holes in the brain of affected cattle
 >>      - Gives brain spongy apperanace
 >>      - Spread by cattle feed from dead cows
->>    - Disadvantages
+>>    - ### Disadvantages
 >>      - Could heavily affect world trade due to infected meat
->>    - Solutions
+>>    - ### Solutions
 >>      - Canada accepts beeef from places that can consider and control BSE
 >>      - CFIA (Canadian Food Inspection Agency) banned the use of protein products from cattle, including brain, animal feed and fertilizers
->> 6. GMOs (Genetically Modified Organisms)
->>    - Description
+>> 6. ## GMOs (Genetically Modified Organisms)
+>>    - ### Description
 >>      - Impacts the environment
->>      -
+>>      - Sprayed with pesticides and end up in lakes or rivers
+>>      - Killing off bees and butterflies
+>>    - ### Advantages/Attempts
+>>      - Insect resistance
+>>      - Drought tolerance
+>>      - Disease tolerance
+>>      - Reduced food waste
+>>      - Requires less labour
+>>    - ### Disadvantages
+>>      - GMOs result in.....
+>>      - Tumors
+>>      - Damaged immune system
+>>      - Reproductive problems
+>>      - Allergies
+>>    - ### Solutions
+>>      - GMO foods
+>>        - Organic
+>>        - Processed Foods
+>>      - Look for non-GMO project seals in grocery stores
+>> 7. ## Factory Farming
+>>    - ### Description
+>>      - In the past, livestock was treated properly
+>>      - Now, they are being confined in small spaces where living conditions are terrible and diseases spread quickly
+>>    - ### Advantages/Attepmts
+>>      - Farmers make profit
+>>      - Farmers can make more money
+>>      - More food being produced at a cheaper price
+>>    - ### Disadvantages
+>>      - Animals are being treated poorly
+>>      - Animals kill each other 
+>>      - Bad for environment
+>>      - Pollutes water system
+>>    - ### Solutions
+>>      - Buy from fmaily farms
+>>      - Buy from industries that treat animals properly
+>>      - Raise awareness
 
 
 
@@ -409,8 +464,28 @@
 >> |Type of Cutting|Description|Pros|Cons|
 >> |:--------------|:----------|:---|:---|
 >> |Clear Cutting|Clears an entire land of trees|Very productive and efficient, Cheap|Harms the environment too much|
->> |Selective Cutting|Only cut down some species of trees|Productive, less harm to the environment|Costly|
->> |Sheltwater Logging|Only cut trees of the desired type, color quality etc|Sustainable practice|Not productive, Very costly|
+>> |Shelterwood|Only cut down some species of trees|Productive, less harm to the environment|Costly|
+>> |Selective Cutting|Only cut trees of the desired type, color quality etc|Sustainable practice|Not productive, Very costly|
+
+>> ### Clear-Cutting
+>> - Use in most logging operations
+>> - ```Remove``` every single tree, leaving barren landscape behind
+>> - Most trees are replanted in rows on columns so they can be later cut ```uniformly and easily```
+>> - If no replanting, less desirable species of trees may grow and soil erosion
+
+>> ### Shelter wood
+>> - ```Clear cutting``` groups in a forest
+>> - Seed bearing ttrees are left standing so newer generations of trees can grow
+>> - Seeds ```regenerate``` logged areas
+>> - Shelterwood is used in forests with trees around the ```same age```
+>> - Generations of ```older and younger``` trees is the result
+
+>> ### Selective Cutting
+>> - ```Mature``` trees are only cut
+>> - ```Desired size, type of quality``` is taken into account
+>> - ```Less disruptive``` to the environment, but ```costly``` to find trees
+>> - Does not allow the replanting of a new ```uniform forest```
+
 
 > ## Fishing
 
@@ -536,6 +611,9 @@
 >> |Expansive|<img src="https://populationeducation.org/wp-content/uploads/2016/03/expansive.png" width="300">|
 >> |Stationary|<img src="https://populationeducation.org/wp-content/uploads/2016/03/stationary.png" width="300">|
 >> |Constrictive|<img src="https://populationeducation.org/wp-content/uploads/2016/03/constrictive.png" width="300">|
+
+>> % of people is the ```x-axis```
+>> colour your population bars with different colours for gender
 
 > ## Aging Population
 
@@ -699,6 +777,7 @@
 >> ### Analysis
 >> - Positive, Negative, No correlations
 >> - Patterns and Trends
+>> - Strong, weak line of best fit
 
 > ## Foriegn Aid
 >> ### ODA
