@@ -23,7 +23,7 @@
 > |Part|Question|
 > |:---|:-------|
 > |A|9 multiple choice|
-> |B|10 Short Answer --> <br>- 7 Knowledge questions<br>- 30 Application Questions|
+> |B|10 Short Answer --> <br>- 7 Knowledge questions<br>- 3 Application Questions|
 > |C|10 Open Response --> <br>- 10 Knowledge Questions<br>- 5 Application Questions<br>- 3 Thinking Questions<br>- 1 Communication Question|
 
 # Essential Skills (1)
@@ -65,9 +65,9 @@
 >> A notation that represents an interval as a pair of numbers.     
 >> The numbers in the interval represent the endpoint. E.g. **[x > 3, x &isin; R]**   
 >> ```|``` means ```such that```   
->> ```E``` or &isin; means ```element of```   
->> ```W``` represents **Whole Numbers**  (W = {x | x > 0, x &isin; Z})    
->> ```N``` represents **Natural Numbers** (N = {x | x &ge; 0, x &isin; Z})     
+>> ```E``` or &isin; means ```element of```      
+>> ```N``` represents **Natural Numbers** (N = {x | x > 0, x &isin; Z})     
+>> ```W``` represents **Whole Numbers**  (W = {x | x &ge; 0, x &isin; Z}) 
 >> ```Z``` represents **Integers** (Z = {x | -&infin; &le; x &le; &infin;, x &isin; Z})      
 >> ```Q``` represents **Rational Numbers** (Q = {<sup>a</sup>&frasl;<sub>b</sub> |a, b &isin; Z, b &ne; 0})   
 
@@ -94,10 +94,11 @@
 >> To Add / subtract rationals, find common denominator and then add / subtract numerator   
 >> To Multiply rationals, first reduce the fraction to their lowest terms, then multiply numerators and denominators   
 >> To Divide rationals, multiply them by the reciprocal   
->> ### Example Simplify Fully:
->>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;\frac{2}{14}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;\frac{2}{14}" title="= \frac{3}{4} \times \frac{2}{14}" /></a> [Reduce to lowest terms]   
 
->>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;\frac{1}{7}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;\frac{1}{7}" title="= \frac{3}{4} \times \frac{1}{7}" /></a> [Multiply by reciprocal]   
+>> ### Example Simplify Fully:
+>>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\div&space;\frac{2}{14}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\div&space;\frac{2}{14}" title="= \frac{3}{4} \div \frac{2}{14}" /></a> [Reduce to lowest terms]   
+
+>>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\div&space;\frac{1}{7}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\div&space;\frac{1}{7}" title="= \frac{3}{4} \div \frac{1}{7}" /></a> [Multiply by reciprocal]   
 
 >>><a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;7" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;7" title="= \frac{3}{4} \times 7" /></a> 
 
@@ -106,9 +107,9 @@
 >> ### Shortcut for multiplying fractions
 >>> cross divide to keep your numbers small    
 >>> Example:    
->>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;\frac{2}{14}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;\frac{2}{14}" title="= \frac{3}{4} \times \frac{2}{14}" /></a>    
->>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{1}{1}&space;\times&space;\frac{1}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{1}{1}&space;\times&space;\frac{1}{3}" title="= \frac{1}{1} \times \frac{1}{3}" /></a>      
->>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{1}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{1}{3}" title="= \frac{1}{3}" /></a>      
+>>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;\frac{2}{12}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{3}{4}&space;\times&space;\frac{2}{12}" title="= \frac{3}{4} \times \frac{2}{12}" /></a>    
+>>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{1}{2}&space;\times&space;\frac{1}{4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{1}{2}&space;\times&space;\frac{1}{4}" title="= \frac{1}{2} \times \frac{1}{4}" /></a>      
+>>> <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_phv&space;=&space;\frac{1}{8}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_phv&space;=&space;\frac{1}{8}" title="= \frac{1}{8}" /></a>      
 
 >> ## Exponent Laws
 
@@ -163,7 +164,7 @@
 # Polyomials (2)
 > ## Introduction to Polynomials
 >> A ```variable``` is a letter that represents one or more numbers    
->> An ```algebraic expression``` is a combination of variables and constants ```(e.g. x+y+6 = 5)```     
+>> An ```algebraic expression``` is a combination of variables and constants ```(e.g. x+y+6.  y + 8)```     
 >> When a specific value is assigned to a variable in a algebraic expression, this is known as substitution.    
 > ## Methods to solve a polynomial
 >> 1. ```Combine like terms```
@@ -408,7 +409,7 @@
 >> ```Y-intercept Form```: **y = mx + b**    
 >> ```Point-slope Form```: **y<sub>2</sub>-y<sub>1</sub> = m(x<sub>2</sub>-x<sub>1</sub>)**   
 >> The slope of a vertical lines is undefined    
->> The sloope of a horizontal line is 0
+>> The slope of a horizontal line is 0
 >> Parallel lines have the ```same slope```   
 >> Perpendicular slopes are negative reciprocals    
 
