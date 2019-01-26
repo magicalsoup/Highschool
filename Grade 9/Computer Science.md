@@ -8,7 +8,7 @@
 >> |```C```|**Short & Long Answers**<br>- Compare and contrast short code, methods, problem solving|20|
 >> |```Total```||68|
 
-## Unit 1: Intro To Programming
+# Unit 1: Intro To Programming
 
 > ```Comments```: are used to explain and clarify program ocde for human reader   
 
@@ -429,6 +429,76 @@
 >> int myRandNumber = (int) (Math.random() * 100) + 1;
 >> ```
 
+> ## Reading From Files
+>> ### Why read from files?
+>>  - speed
+>>  - less errors
+>>  - easier to read, individual cases
+>>  - get data from sources other than the keyboard
+>>  - changing info is easy (only on the file)
+>>  - more efficient (less time to test)
+>>  - large data can be entered quickly (less room for error)
+>>  - at the ```testing stage```, data can be carefully chosen to test the program
+
+>> ### Intializing
+>>> ```java
+>>> Scanner fsc = new Scanner("myfile.txt");
+>>> ```
+
+>> ### Example Program
+>>> ```java
+>>> import java.io.File;
+>>> import java.util.Scanner;
+>>> public class ReadData {
+>>>     public static void main(String[]args) throws IOException{
+>>>         File file = new File("summerschool.txt");
+>>>         Scanner input = new Scanner(file);
+>>>         while(input.hasNext()) {
+>>>             String firstName = input.next();
+>>>             double avg = input.nextDouble();
+>>>             System.out.println(firstName + " " + avg);
+>>>         }
+>>>         input.close();
+>>>     }
+>>> }
+>>> ```
+
+>> ### Why write from files? (store to disk)
+>>  - you can save it for future use
+>>  - print hard copy results and distribute it
+>>  - write to a retrievable medium
+>>  - store the info
+>>  - make it more available to others
+>>  - large data can be collected, stored, formatted acoording to needs
+
+>> ```java
+>> import java.io.PrintWriter; // can be used to create a file and write
+>> // for example
+>> output.println("hello world!"); output.printf("hello world!\n"); output.print("hello world!");
+>> ```
+
+>> ### Intializing
+
+>>> ```java
+>>> PrintWriter output = new PrintWriter("mytextfile.txt");
+>>> ```
+
+>> ### Example Program
+
+>>> ``` java
+>>> import java.io.File;
+>>> import java.io.PrintWriter;
+>>> public class PrintWriterExample {
+>>>     public static void main(String[]args) throws IOException {
+>>>         File myFile = new File("secretmessage.txt");
+>>>         PrintWriter output = new PrintWriter(myFile);
+>>>         output.println("hello");
+>>>         output.println("world!");
+>>>         out.close();
+>>>     }
+>>> }
+>>> ``` 
+
 
 # Unit 2: Arrays
 
@@ -704,7 +774,7 @@
 > ## Java language - Strongly typed
 > - meaning you are not allowed to assign a value to a variable that is consistent with its declare type
 
-> ## ```Scope of variable``` - the part of the program over which the variable can be accessed or referenced
+> **```Scope of variable```** - the part of the program over which the variable can be accessed or referenced
 > - referes to the ```accessibility``` of a variable
 > - variables cannot be accessed before they are declared
 
