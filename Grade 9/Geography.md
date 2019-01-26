@@ -45,7 +45,7 @@
 >>> Example: ```Why things are there and why the matter```
 
 >> ```Geographic Perspective```: A geographic way of looking at the world
->>> Example: ``` Geographers think about the ecosystem and the landscape while other people just regard them as mountains or rivers```
+>>> Example: ```Geographers think about the ecosystem and the landscape while other people just regard them as mountains or rivers```
 
 # Unit 2: Interactions in the Physical Environment
 > ```(Chapters 1-4, pgs 18 - 100)```   
@@ -80,7 +80,7 @@
 >> |Era|Dates|
 >> |:--|:----|
 >> |```Precambrian (Earliest Life)```|```4600``` to ```570``` million years ago|
->> |```Paleozoic (Ancient Life)```|```570``` to ```245`` million years ago|
+>> |```Paleozoic (Ancient Life)```|```570``` to ```245``` million years ago|
 >> |```Mesozoic (Middle Life)```|```245``` to ```66``` million years ago|
 >> |```Cenozoic (Recent Life)```|```66``` to ```?``` million years ago|
 
@@ -454,7 +454,7 @@
 >>>|Type|Definition|
 >>>|:---|:---------|
 >>>|```Intensize```|```Large amounts``` of ```labour, machinery and fertilizers``` used on ```small``` farms. ```High yields``` per hectare|
->>>|```Extensive```|```Small amounts``` of ```labour, machinery, and fertilizers used on ```large``` farms. ```Small yeilds``` per hectare|
+>>>|```Extensive```|```Small amounts``` of ```labour, machinery, and fertilizers``` used on ```large``` farms. ```Small yields``` per hectare|
 
 > ## Forestry
 >> Problems
@@ -602,7 +602,7 @@
 >> **```Immigrant```**: People who moves to one country from another country     
 >> **```Emmigrant```**: People who leave one country to move to another country     
 >> **```Total Fertility Rate```**: The ```average``` number of children born to a ```woman``` in a ```lifetime```     
->> **```Natural Increase```**: The surplus / deficit of ```births over deaths``` in a population in a given ```time period``` 
+>> **```Natural Increase```**: The surplus / deficit of ```births over deaths``` in a population in a given ```time period```         
 >> **```Dependency Load```**: The percentage of the population that is ```non-working```. It is conventionally defined as including people ```younger than age 15 and older than age 65```    
 
 > ## Population Pyramids
@@ -625,8 +625,6 @@
 >> |Job Opportunities for Younger Canadians|- More jobs could open up as large numbers of seniors retire<br>- Jobs that focus on helping seniors like lawn services, senior travel agents and ```optometrists```|
 >> |Sorts of Things Canadians Want to Buy|- Clothing for mature tastes and sizes<br>- Health aids (hearing aids, eye-glasses, dentures etc)<br>- Styles of vehicles to suit older buyers|
 
->> |Solution|Description|
->> |:-------|:----------|
 
 > ## Double Line Graph
 
@@ -763,7 +761,7 @@
 >> Are increasingly moving to ```urban areas```
 >>  - The land given through treaties and reserves is often of ```poor quality```
 >>    - Results in a ```lack of jobs```, ```overcrowded housing```, and ```lack of resources```
->>  - In Ontario, ```80%``` of FNMI live ```off-reserve``
+>>  - In Ontario, ```80%``` of FNMI live ```off-reserve```
 
 > ## Scatter-graph
 
@@ -796,7 +794,7 @@
 
 > ## Terms:
 >> **```Liveability```**: All the characteristics of a community that contributes to the quality of life of the people who live there   
->> **```Sustainability```**: Improving the quality of human life while living within the carrying capacity of supporting ecosystems
+>> **```Sustainability```**: Improving the quality of human life while living within the carrying capacity of supporting ecosystems     
 >> **```Carry Capacity```**: The ability of the environment to support a population without enviornmental damage
 
 > ## Urban Issues
@@ -828,7 +826,7 @@
 >>     - Protect wildlife habitats
 >>       - natural corridors
 
->> ```**New Urbanism```**: a movement to reform the design of physical communities
+>> **```New Urbanism```**: a movement to reform the design of physical communities
 >>  - Ex. Vancouver
 
 > ## Sustainable Communities
