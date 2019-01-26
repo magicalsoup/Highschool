@@ -355,7 +355,7 @@
 
 >> |3D Object|Maximum Volumne|Minimum Surface Area|
 >> |:--------|:--------------|:-------------------|
->> |Cylinder(closed-top)|The cylinder must be similar to a cube where h = 2r<br>V = πr<sup>2</sup>h<br>V<sub>max</sub> = πr<sup>2</sup>(2r)<br>V<sub>max</sub> = 2πr<sup>2</sup>|The cylinder must be similar to a cube where h = 2r<br>SA = 2πr<sup>2</sup>+2πrh<br>SA<sub>min</sub> = 2πr<sup>2</sup>+2πr(2r)<br>SA<sub>min</sub> = 2πr<sup>2</sup>+4πr<sup>2</sup><br>SA<sub>min</sub> = 6πr<sup>2</sup>|
+>> |Cylinder(closed-top)|The cylinder must be similar to a cube where h = 2r<br>V = πr<sup>2</sup>h<br>V<sub>max</sub> = πr<sup>2</sup>(2r)<br>V<sub>max</sub> = 2πr<sup>3</sup>|The cylinder must be similar to a cube where h = 2r<br>SA = 2πr<sup>2</sup>+2πrh<br>SA<sub>min</sub> = 2πr<sup>2</sup>+2πr(2r)<br>SA<sub>min</sub> = 2πr<sup>2</sup>+4πr<sup>2</sup><br>SA<sub>min</sub> = 6πr<sup>2</sup>|
 >> |Rectangular Prism(closed-top)|The prism must be a cube, <br> where l = w = h<br>V = lwh<br>V<sub>max</sub> = (w)(w)(w)<br>V<sub>max</sub> = w<sup>3</sup>|The prism must be a cube, <br>where l = w = h<br>SA = 2lh+2lw+2wh<br>SA<sub>min</sub> = 2w<sup>2</sup>+2w<sup>2</sup>+2w<sup>2</sup><br>SA<sub>min</sub> = 6w<sup>2</sup>|
 >> |Cylinder(open-top)|h = r<br>V = πr<sup>2</sup>h<br>V<sub>max</sub> = πr<sup>2</sup>(r)<br>V<sub>max</sub> = πr<sup>3</sup>|h = r<br>SA = πr<sup>2</sup>+2πrh<br>SA<sub>min</sub> = πr<sup>2</sup>+2πr(r)<br>SA<sub>min</sub> = πr<sup>2</sup>+2πr<sup>2</sup><br>SA<sub>min</sub> = 3πr<sup>2</sup>|
 >> |Square-Based Rectangular Prism(open-top)|h = w/2<br>V = lwh<br>V<sub>max</sub> = (w)(w)(<sup>w</sup>&frasl;<sub>2</sub>)<br>V<sub>max</sub> = <sup>w<sup>3</sup></sup>&frasl;<sub>2</sub>|h = w/2<br>SA = w<sup>2</sup>+4wh<br>SA<sub>min</sub> = w<sup>2</sup>+4w(<sup>w</sup>&frasl;<sub>2</sub>)<br>SA<sub>min</sub> = w<sup>2</sup>+2w<sup>2</sup><br>SA<sub>min</sub> = 3w<sup>2</sup>|
@@ -510,7 +510,7 @@
 
 > ## Discriminant
 >> The discriminant determines the number of solutions (roots) there are in a quadratic equation. ```a```, ```b```, ```c``` are the 
->> coefficients and constant of a quadratic equation: ```y = ax<sup>2</sup> + bx + c```    
+>> coefficients and constant of a quadratic equation: **y = ax<sup>2</sup> + bx + c**    
 >> D = b<sup>2</sup> - 4ac    
 >> D > 0 ```(2 distinct real solutions)```     
 >> D = 0 ```(1 real solution)```    
