@@ -315,7 +315,6 @@
 
 > ```(Chapters 5-9, pgs. 101-201)```
 
-> ```Total Stock```: 
 
 > ## Resources
 
@@ -335,7 +334,7 @@
 
 
 > ## Farming
->> Problems
+>> ## Problems
 
 >> 1. ## Loss of Farmland in Ontario
 >>    - ### Description
