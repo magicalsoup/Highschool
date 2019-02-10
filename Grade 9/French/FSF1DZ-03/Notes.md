@@ -37,7 +37,7 @@
 >   - Some milk = du lait --> use ```du``` because ```lait``` is ```masculine```, ```singular```
 >   - His dogs = ses chiens --> use ```ses``` because ```chiens``` is ```masculine```, ```plural```
 > - ### Eg. 2
->   - Both Tomy and Betty have a sister. When referring to their sisters, they will both say **```ma soeur```** because ```sister``` is a **```feminine, singular```** word. Furthermore, if they are referring to their fathers. they will both say **```mon pere```** because ```father``` is a **``` masculine, singular```** word.
+>   - Both Tomy and Betty have a sister. When referring to their sisters, they will both say **```ma soeur```** because ```sister``` is a **```feminine, singular```** word. Furthermore, if they are referring to their fathers. they will both say **```mon père```** because ```father``` is a **``` masculine, singular```** word.
 >   - **Point:** Their gender doesn't matter! It's the gender and number of the thing(noun) we're referring to that determines what little word you use
 
 # Le Present
@@ -45,12 +45,12 @@
 
 >> |  |Parler|Finir|Repondre|
 >> |:-|:-----|:----|:-------|
->> |Je|Parle|Finis|Reponds|
->> |Tu|Parles|Finis|Reponds|
->> |Il/elle/on|Parle|Finit|Repond|
->> |Nous|Parlons|Finissons|Repondons|
->> |Vous|Parlez|Finissez|Repondez|
->> |Ils/elles|Parlent|Finissent|Repondent|
+>> |Je|Parle|Finis|Réponds|
+>> |Tu|Parles|Finis|Réponds|
+>> |Il/elle/on|Parle|Finit|Répond|
+>> |Nous|Parlons|Finissons|Répondons|
+>> |Vous|Parlez|Finissez|Répondez|
+>> |Ils/elles|Parlent|Finissent|Répondent|
 
 > ## Les verbes irreguliers
 
@@ -60,7 +60,7 @@
 >> |Tu|Es|As|Vas|Fais|
 >> |Il/elle/on|Est|A|Va|Fait|
 >> |Nous|Sommes|Avons|Allons|Faisons|
->> |Vous|Etes|Avez|Allez|Faites|
+>> |Vous|Êtes|Avez|Allez|Faites|
 >> |Ils/elles|Sont|Ont|Vont|Font|
 
 >> |  |vouloir|pouvoir|venir|devoir|
@@ -89,3 +89,31 @@
 > |Elles|Elles|Them|
 
 # Accents
+> ## accent aigu ```é```
+>   - The same sound as ```er```
+>   - parl```er``` has the same sound as parl```é```
+> ## accent grave ```è```
+>   - used to differentiate words
+>   - E.g ```à``` and ```a```
+> ## accent circonflexe ```ê```
+>   - indicates that there was an ```s``` before
+>   - French derived from latin
+>   - Conosant sounds
+>   - ```L'hôpital``` --> ```L'hospital```
+> ## accent cedille ```ç```
+>   - tells us to pronounce it as a ```s```
+>   - fran```çais``` --> pronounce as fran```sais```
+>   - **```Don't put```** if its preceeding an **```a, o, u```**
+> ## acceent trema
+>   - isolating the sound
+>   - ha```ï```ti --> pronounce the ```i``` clearly
+
+# Verbe
+> Je parle have different meanings
+> 1. I talk
+> 2. I am talking
+> 3. I do talk
+> ## Never translate word for word from English!
+
+
+letters : è, é ê Ê À, à Ô ô Ç or ç ï
