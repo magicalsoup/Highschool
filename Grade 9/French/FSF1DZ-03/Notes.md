@@ -54,7 +54,7 @@
 
 > ## Les verbes irreguliers
 
->> |  |etre|avoir|aller|faire|
+>> |  |Être (To be)|Avoir (To have)|Aller (To go)|Faire (To make)|
 >> |:-|:---|:----|:----|:----|
 >> |Je|Suis|Ai|Vais|Fais|
 >> |Tu|Es|As|Vas|Fais|
@@ -63,7 +63,7 @@
 >> |Vous|Êtes|Avez|Allez|Faites|
 >> |Ils/elles|Sont|Ont|Vont|Font|
 
->> |  |vouloir|pouvoir|venir|devoir|
+>> |  |Vouloir (To want)|Pouvoir (To can)|Venir (To come)|Devoir (To need)|
 >> |:-|:---|:----|:----|:----|
 >> |Je|veux|peux|viens|dois|
 >> |Tu|veux|peux|viens|dois|
@@ -71,6 +71,24 @@
 >> |Nous|voulons|pouvons|vienons|devions|
 >> |Vous|voulez|pouvez|vienez|devez|
 >> |Ils/elles|voulent|pouvent|viennent|doivent|
+
+>> |  |Sortir (To leave)|Ecrire (To write)|Lire (To read)|Voir (To see)|
+>> |:-|:-----|:-----|:---|:---|
+>> |Je|sors|écris|lis|vois|
+>> |Tu|sors|écris|lis|vois|
+>> |Il/elle/on|sort|écrit|lit|voit|
+>> |Nous|sortons|écrivons|lisons|voyons|
+>> |Vous|sortez|écrivez|lisez|voyez|
+>> |Ils/elles|sortent|écrivent|lisent|voient|
+
+>> |  |Mettre (To put)|Prendre (To take)|Boire (To drink)|Acheter (To buy)|
+>> |:-|:-----|:------|:----|:------|
+>> |Je|mets|prends|bois|achète|
+>> |Tu|mets|prends|bois|achètes|
+>> |Il/elle/on|met|prend|boit|achète|
+>> |Nous|mettons|prenons|buvons|achetons|
+>> |Vous|mettez|prenez|buvez|achetez|
+>> |Ils/elles|mettent|prennent|boivent|achètent|
 
 > On --> One, we, you in general
 > Tu --> Peers, people younger than you, your parents
@@ -104,9 +122,33 @@
 >   - tells us to pronounce it as a ```s```
 >   - fran```çais``` --> pronounce as fran```sais```
 >   - **```Don't put```** if its preceeding an **```a, o, u```**
-> ## acceent trema
+> ## accent trema ```ï```
 >   - isolating the sound
 >   - ha```ï```ti --> pronounce the ```i``` clearly
+
+# Les expressions avec Avoir
+
+> |French|Meanning|
+> |:-----|:-------|
+> |Avoir soif|To be thirsty|
+> |Avoir froid|To be cold|
+> |Avoir chaud|To be hot|
+> |Avoir faim|To be hungry|
+> |Avoir de la change|To be lucky|
+> |Avoir...ans|To be old|
+> |Avoir mal à...|To have pain in...|
+> |Avoir envie de...|To be jealous...|
+> |Avoir tort|To be wrong|
+> |Avoir raison|To be reasonable|
+> |Avoir honte de...|To be ashamed of...|
+> |Avoir l'air de...|To seem like...|
+> |Avoir sommeil|To be sleepy|
+> |Avoir peur de...|To be scared of...|
+> |Avoir l'habitude de...|To have the habit of...|
+> |Avoir du mal à|To be bad at|
+> |Avoir lieu|To take place|
+> |Avoir le droit de...|To have the right to...|
+> |Avoir le mal de mer|To be sea sick|
 
 # Verbe
 > Je parle have different meanings
@@ -116,4 +158,4 @@
 > ## Never translate word for word from English!
 
 
-letters : è, é ê Ê À, à Ô ô Ç or ç ï
+letters : è, é ê É Ê À, à Ô ô Ç or ç ï
