@@ -12,27 +12,29 @@
 
 > |Type|Definition|Example|
 > |:---|:---------|:------|
-> |Quantitative Property|A property that is |
-> |Qualitative Property|A property that is NOT measured and has ```no numerical value```|
+> |Quantitative Property|A property that IS measured and has **```a numerical value```** |Ex. **```Temperature, height, mass, density```**|
+> |Qualitative Property|A property that is NOT measured and has **```no numerical value```**|Ex. **```Colour, odor, texture```**|
 
 > ## Quantitative physical Properties
-> - **```Density```**" amount of ```stuff``` (or mass) per unit volume (g/cm<sup>3</sup>)
-> - **```Freezing Point```**
+> - **```Density```**: amount of ```stuff``` (or mass) per unit volume (g/cm<sup>3</sup>)
+> - **```Freezing Point```**: point where water solidifies (0<sup>o</sup>C)
+> - **```Melting Point```**: point where water liquefies (0<sup>o</sup>C)
+> - **```Boiling Point```**: point where liquid phase becomes gaseous (100<sup>o</sup>C)
 
->> ## Common 
+>> ## Common Qualitative Physical Properties
 
 >> |Type|Definition|Example|
 >> |:---|:---------|:------|
->> |Lustre: Shininess of dullness|Referred to as high or low lustre depending on the shininess|
->> |Clarity: The ability to allow light through||```Transparent``` (Glass) <br>```Translucent``` (Frosted Glass) <br>```Opaque``` (Brick)|
->> |Brittleness: Breakability or flexibility| Glass would be considered as brittle whereas slime/clay are flexible|
->> |Viscosity: The ability of a liquid or gas to resist flow or not pour readily through|Refer to as more or less viscous|Molasses is more viscous, water is less (gases tend to get"thicker as heated; liquids get runnier)|
->> |Hardness: The relative ability to scratch or be scratched by another substance|Referred to as high or low level of hardness. Can uses a scale (1 is wax; 10 is diamond)|
->> |Malleability: the ability of a substance ```to be hammered``` into a thinner sheet or molded||Silver is malleable<br> Play dough/pizza dough is less<br> glass is not malleable|
->> |Ductility: the ability of a substance to be pulled into a finer strand||Pieces of copper can be drawn into thin wires, ductile|
->> |Electrical Conductivity: The ability of a substance to allow electric current to pass through it|Refer to as high and low conductivity|Copper wires have high conductivity<br> Plastic has no conductivity|
-
-> ## Crystalline vs. Amorphous Solids
+>> |Lustre|Shininess of dullness<br> Referred to as high or low lustre depending on the shininess||
+>> |Clarity|The ability to allow light through|```Transparent``` (Glass) <br>```Translucent``` (Frosted Glass) <br>```Opaque``` (Brick)|
+>> |Brittleness|Breakability or flexibility<br> Glass would be considered as brittle whereas slime/clay are flexible|
+>> |Viscosity|The ability of a liquid or gas to resist flow or not pour readily through<br> Refer to as more or less viscous|Molasses is more viscous, water is less (gases tend to get"thicker as heated; liquids get runnier)|
+>> |Hardness|The relative ability to scratch or be scratched by another substance<br> Referred to as high or low level of hardness| Can use a scale (1 is wax, 10 is diamond)|
+>> |Malleability|the ability of a substance ```to be hammered``` into a thinner sheet or molded|Silver is malleable<br> Play dough/pizza dough is less<br> glass is not malleable|
+>> |Ductility|the ability of a substance to be pulled into a finer strand|Pieces of copper can be drawn into thin wires, ductile|
+>> |Electrical Conductivity|The ability of a substance to allow electric current to pass through it<br> Refer to as high and low conductivity|Copper wires have high conductivity<br> Plastic has no conductivity|
+>> |Form: Crystalline Solid|Have their particles arranged in an orderly geometric pattern|Salt and Diamonods|
+>> |Form: Amorphous Solid|Have their particles randomly distributed without any long-range-pattern|Plastic, Glass, Charcoal|
 
 # Chemical Property
 
