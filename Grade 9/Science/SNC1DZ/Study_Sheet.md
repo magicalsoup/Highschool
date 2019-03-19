@@ -8,7 +8,7 @@
   - smell, taste, touch, hearing, sight
   - scales, tape, measuring meter
   
-> # Qualitative and Quantitative Properties
+# Qualitative and Quantitative Properties
 
 > |Type|Definition|Example|
 > |:---|:---------|:------|
@@ -55,9 +55,13 @@
 > Silver cleaner for tarnished jewellery, dishes because silver reacts with air to turn black
 
 
+# Elements
 
-  
-  
+- At the present time ```118``` elements are known.
+- These elements vary widely in their abundance
+- For example, only five elements account for over 90% of the Earth's crust: oxygen, silicon, aluminum, iron and calcium.
+
+
  
   
   
