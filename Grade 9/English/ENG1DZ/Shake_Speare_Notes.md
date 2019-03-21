@@ -113,5 +113,49 @@
 - Never see 2 things on stage
   - Never see any authority killed
   - Never see any anti religious things
--  
+  
+# Taming of the Shrew
+
+## Act 1, Scene 1
+
+- Lucentio is ontop of Tranio
+- Likely these 2 foolish characters will be punished by gods
+- Tradition 
+- ## Lucentio
+  - is an ignorant character (major historic figs, simliar to sly)
+  - trying to make himself sound big
+  - not very educated
+  - line 11/18/20: of pledges "virtous" intentions
+    - questionable
+  - line 32-33: Aristotle, ovid allusions from
+  - line 25: speaks latin ```well```
+- ## Tranio
+  - Speaks calc
+- ## Baptista
+  - Has 2 daughters
+  - is very rich, Gremio and Hortensio knows this
+  - wants to marry off Katherina before Bianca
+  - ### Katherina
+    - Gets insulted
+    - Depressed
+    - dressed in red
+      - angry, passion
+    - head up
+      - prideful
+    - realizes and asks if her father is selling her to his friends
+    - gets called alot of bad things
+  - ### Bianca
+    - dressed in white 
+      - symbolizes innocent
+    - head down
+      - shy
+    - Hides & manipulates
+- ## Gremio
+  - calls katherina a whore and a prositute
+- ## Hortensio
+  - Refers Bianco as a ring, hole, monetary indications and ouvertly sexual wise
+  
+
+       
+    
 
