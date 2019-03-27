@@ -1,5 +1,7 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: High School
+description: HighSchool study sheet
 show_downloads: true
 google_analytics:
+include:
+  Study_Sheet.md
 theme: jekyll-theme-cayman
