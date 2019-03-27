@@ -3,5 +3,5 @@ description: HighSchool study sheet
 show_downloads: true
 google_analytics:
 include:
-  Final_Exam_Study_Sheet
+  - Final_Exam_Study_Sheet
 theme: jekyll-theme-cayman
