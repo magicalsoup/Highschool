@@ -8,6 +8,7 @@
 4. What was the zero sum rule?
 5. Do all atoms want to get rid of only the outer shell electrons?
 6. What are the elements I need to know?
+7. What is the difference between an atom and an ion?
 
 ## Page 178, Questions 3 - 10.
 
@@ -15,9 +16,9 @@ Alloys: When two or more types of metals are mixed together.
 
 Solder Materials: Used to join together metal components, such as wires in electrical circuits and copper pipes in building, like glue.
 
-2.  **Use the particle theory to explain why water changes from a solid to a liquid when it is heated.**
+2. **Use the particle theory to explain why water changes from a solid to a liquid when it is heated.**
 
-    As water is heated, the particles or atoms gain energy, thus begin to spread apart and moving quicker, and when particles are spread decently apart, that state is called a liquid state.
+    As water is heated, the particles or atoms gain energy, thus begin to spread apart and moving quicker, and when particles are spread     decently apart, that state is called a liquid state.
     
     
 3. **Give 3 examples of a pure substance**
@@ -209,13 +210,143 @@ Solder Materials: Used to join together metal components, such as wires in elect
  
  Compound: a pure substance composed of two or more different elements that are chemically joined
  
- 
+ 1. **Which of the following substances are elements? Explain how you determined your answer**
+        - bronze
+        - tin
+        - chromium
+        - solder
+        - propane
+        - arsenic
+        - nickel
+        
+2. **What is the difference between an element and a compound?**
+      
+3. **A white powder, when heated, produces a colourless gas amd a black solid. is the white powder an element? Give reasons for your answer**
 
 
 
+
+## Pages 225 Questions 1 - 10
+
+
+
+## Pages 233 Questions 1 - 7
+
+1. **Dalton theorized that matter is made of tin, indivisible particles called atoms. In what way did the theories of each of theses scientist support or differ from Dalton's theory?**
+
+- J.J Thomson
+    - Also agreed in the existence of the atom, but also explainied that there are even smaller particles called the electron
+- Ernest Rutherfort
+    - Also agrered in the existence of the atom, but also explainied that there was an nucleus, that was the weight of the atom, which contained both protons and neutrons
+
+
+## Pages 261 Questions 1 - 6
+ion: A particle that has either a positive or a negative charge
+
+cation a positvely charged ion
+
+anion: a negatively charged ion
+
+Ionic compound: a compound that onsists of positvely and negatively charged ions
+
+Diatomic molecule: molecules that only consist of 2 atoms, of either the same or different checmical elements
+
+Molecule: two or more atoms of the same or different elements that are chemically joined together in a unit
+
+1. **The chemical formula for baking soda is NAHCO<sub>3</sub>. Answer the following questions about baking soda**
+
+- How many elements does it contain?
+    - 4 elements, Sodium, Hydrogen, Carbon, Oxygen
+- How many atoms of each element are in this formula?
+    - 1 Sodium
+    - 1 Hydrogen
+    - 1 Carbon
+    - 3 Oxygen
+- Does baking soda contain metallic and non-metallic elements? Which ones are which?
+    - Metals
+        - Sodium
+    - Non - metals
+        - Oxygen
+        - Carbon
+        - Hydrogen
+        
+2. **Consider the following substances: hydrogen gas (H<sub>2</sub>), carbon dioxide (CO<sub>2</sub>),  Sulfur (S<sub>8</sub>), neon (NE), and propane (C<sub>3</sub>H<sub>8</sub>). Which substance(s) are:**
+
+    - Elements?
+        - Sulfur, Neon, Hydrogen
+     - Compounds?
+        - Propane, Carbon dioxide
+     - Atoms?
+        - All of them
+     - Molecules?
+        - Sulfer, Carbon dioxide, Hydrogen, Propane
+        
+3. **What does the term "diatomic molecule" mean?**
+    molecules that only consist of 2 atoms, of either the same or different checmical elements.
+
+4. **List the seven diatomic molecules:**    
+    1. H<sub>2</sub> Hydrogen
+    2. O<sub>2</sub> Oxygen
+    3. F<sub>2</sub> Flourine
+    4. Br<sub>2</sub> Bromine
+    5. I<sub>2</sub> Iodine
+    6. N<sub>2</sub> Nitrogen
+    7. Cl<sub>2</sub> Chlorine
     
-  
-  
-  
+5. **Gasoline contains a mixture of compounds called hydrocarbons. They include molecules with the following formuals: pentane (C<sub>5</sub>H<sub>12</sub>), hexane (C<sub>6</sub>H<sub>14</sub>), heptane (C<sub>7</sub>H<sub>16</sub>), and octane (C<sub>8</sub>H<sub>18</sub>). Explain why "hydrocarbon" is a good name for this group of compounds**.  
+
+     They all have alot of hydrogen and carbon molecules, so hydrocarbon is a good name for them.
+     
+6.    &nbsp; Question 6    
+   - Explain the difference between an atom and an ion
+        an atom is a particle that has an nucleus, and is neither a positive nor positive charged, an ion is an atom that is charged
+        
+   - Give an example of an atom and an ion, and draw a Bohr-Rutherford diagram of each
+       - ddd
+        
+## Pages 261 Questions 7 - 11
+
+7. **Write the chemical formula for each of the following compounds. Start the formula with the first element listed in each statement below and follow with the next element. The ratios in which the element combine are given in each statement.**
+
+    - Ammonia, commonly found in window cleaning liquids, is formed when one nitrogen atom combines with three hydrogen atoms.
+        - NH<sub>3</sub>
+        
+    - Carbon dioxide is formed when one carbon atom combines with two oxygen atoms
+        - CO<sub>2</sub>
+    - When there is insufficient oxygen, one carbon atom combines with only one oxgen atom, forming the deadly gas carbon monoxide
+        - CO
+    - When hydrogen gas is burned, two atoms of hydrogen combine with one atom of oxygen to form a common substance
+        - H<sub>2</sub>O
+    - Rubbing alcohol is formed when three atoms of carbon combine with eight atoms of hydrogen and one atom of oxygen.
+        C<sub>3</sub>H<sub>8</sub>O
+        
+8. **An atom of calcium loses two electrons to become an ion. What kind of ion is a calcium ion?**
+    - Its an cation
+    
+9. **Write chemical symbol for a calcium ion
+    - **ASK MS KERAS**
+
+10. **Distinguish between molecular elements, molecular compounds, and ionic compounds.**
+    - 
+11. **State whether each of the following is a molecular element, molecular compound, or ionic compound**
+    - Iodine (I<sub>2</sub>)
+        - Molecular element
+    - Sodium chloride
+        - **ASK MS KERAS**
+    - Vinegar
+    
+    - Propane
+    
+    
+    
+## Pages 266 Questions 1 - 10
+
+1. **A piece of jewellery that is made of 14kt gold contains 14 parts gold and 10 parts copper**
+        
+    - What percentage of the jewellery is gold?
+    - Do gold and copper form compounds in the jewellery? Explain
+    - Explain how the 14kt gold used to make jewellery is different from the element gold
+    
+2. **Metal alloys are sometimes described as solid solutions. Explain how an alloy is similar to a solution such as salt water**
 
 
