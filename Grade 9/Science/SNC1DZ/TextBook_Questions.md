@@ -60,10 +60,10 @@ Solder Materials: Used to join together metal components, such as wires in elect
 
 1. **Explain the difference between a qualitative property and a quantitative property**
   
-  A qualitative property is a property that is of the **qualities** of an thing, for example, metal, which is very shiny and hard. A qualitative property
-  cannot be measured. 
+    A qualitative property is a property that is of the **qualities** of an thing, for example, metal, which is very shiny and hard. A        qualitative property
+     cannot be measured. 
   
-  A quantitative property is something that can be measured, like the temperature of the metal, the mass or size of the metal.
+    A quantitative property is something that can be measured, like the temperature of the metal, the mass or size of the metal.
   
 2. **A student recoreded the following observations about a T-shirt. Classify each observation as a qualitative property or a quantitative property, and give reasons for your answers**  
 
