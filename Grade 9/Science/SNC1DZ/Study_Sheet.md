@@ -2,6 +2,27 @@
 
 # Unit 2
 
+# Chemistry Vocabulary List
+
+<table class="table" style="max-width=80%">
+<tr>
+  <th>Word</th>
+  <th>Definition (or diagram/translation)</th>
+</tr>
+<tr>
+  <td>Particle Theory of Matter</td>
+  <td>Theory that describes the composition and behaviour of matter</td>
+</tr>
+<tr>
+  <td>Matter</td>
+  <td>Physical substance that occupies space & matter</td>
+</tr>
+<tr>
+  <td>Mechanical Mixture</td>
+  <td>A mixture in which you can distinguish between different types of matter</td>
+</tr>  
+</table>
+
 # Physical Properties
 - A characeristic of a substance that can be determined without changing the composition ("make-up") of that substance
 - Characteristics can be determinded using your 5 senses and measuring instruments 
