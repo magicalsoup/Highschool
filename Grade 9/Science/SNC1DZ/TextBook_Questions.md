@@ -140,7 +140,7 @@ Solder Materials: Used to join together metal components, such as wires in elect
   * A mechanic builds a boat engine out of a lawnmower
     - The mechanic's lawnmower are still made of the same parts of the boat engine, thus no new substance was created.
     
-  * A chemist boils slat water until only salt crystals are left.
+  * A chemist boils salt water until only salt crystals are left.
     - The water evaporated but the salt was already present in the water, thus its a pyhsical change.
     
   * A child makes juice by adding water to juice concentrate
@@ -220,6 +220,7 @@ Solder Materials: Used to join together metal components, such as wires in elect
         - nickel
         
 2. **What is the difference between an element and a compound?**
+    
       
 3. **A white powder, when heated, produces a colourless gas amd a black solid. is the white powder an element? Give reasons for your answer**
 
@@ -252,6 +253,16 @@ Ionic compound: a compound that onsists of positvely and negatively charged ions
 Diatomic molecule: molecules that only consist of 2 atoms, of either the same or different checmical elements
 
 Molecule: two or more atoms of the same or different elements that are chemically joined together in a unit
+
+Covalent: When they share a bond
+
+Hydroxide: OH
+
+Carbonate: CO<sub>3</sub>
+
+Imidogen: HN 
+
+**All metals are cations**
 
 1. **The chemical formula for baking soda is NAHCO<sub>3</sub>. Answer the following questions about baking soda**
 
@@ -324,19 +335,22 @@ Molecule: two or more atoms of the same or different elements that are chemicall
     - Its an cation
     
 9. **Write chemical symbol for a calcium ion
-    - **ASK MS KERAS**
+    - Ca<sup>2+</sup>
+    
 
 10. **Distinguish between molecular elements, molecular compounds, and ionic compounds.**
-    - 
+    - Ionic compounds are 2 or more ions being combined
+    - molecular elements are elements that have 2 or more of the same element bonding
+    - molecular compounds are made up 2 or more of the same or different elements
 11. **State whether each of the following is a molecular element, molecular compound, or ionic compound**
     - Iodine (I<sub>2</sub>)
         - Molecular element
     - Sodium chloride
-        - **ASK MS KERAS**
+        - ionic compound
     - Vinegar
-    
+        - ionic compound
     - Propane
-    
+        - molecular compound
     
     
 ## Pages 266 Questions 1 - 10
@@ -348,5 +362,29 @@ Molecule: two or more atoms of the same or different elements that are chemicall
     - Explain how the 14kt gold used to make jewellery is different from the element gold
     
 2. **Metal alloys are sometimes described as solid solutions. Explain how an alloy is similar to a solution such as salt water**
-
-
+    An alloy is also a solution, of two metals, a homogeneous mixture, justl like salt water
+    
+3. **Write the common name for each of the following compounds**
+    - sodium hydroxide
+        - lye
+    - O<sub>3</sub>
+        - ozone
+    - sodium chloride
+        - table salt
+    - CO<sub>2</sub>
+        - dry ice
+    - sodium hydrogen carbonate
+        - baking soda
+    - calcium carbonate
+        - limestone
+        
+4. **Write the chemical name for each of the following compounds
+    - Muriatic acid
+        - HCl
+    - Vinegar
+        - C<sub>2</sub>H</sub>4</sub>O<sub>2</sub>
+    - Potash
+        - KCl
+     - Quicklime
+        - CaO
+     -
