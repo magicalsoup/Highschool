@@ -1,5 +1,5 @@
 
-# Unit 2
+# Unit 2 - Chemistry
 
 ## Questions to Ask Ms.Keras
 1. How do you tell the difference between mechanical mixtures and a mixture/solutions? ✔
@@ -54,11 +54,11 @@ Solder Materials: Used to join together metal components, such as wires in elect
    |Apple Juice|
    
 8. **Identify each of the following as a mechanical mixture or a solution**
-  a. a pane of clear glass. **Solution**
-  b. chocolate chip ice cream. **Mechanical Mixture**
-  c. clear apple juice. **Solution**
-  d. a pizza. **Mechanical Mixture**
-  e. garbage in a garbage can. **Mechanical Mixture**
+  - a pane of clear glass. **Solution**
+  - chocolate chip ice cream. **Mechanical Mixture**
+  - clear apple juice. **Solution**
+  - a pizza. **Mechanical Mixture**
+  - garbage in a garbage can. **Mechanical Mixture**
   
 9. **What kind of alloy makes an effective solder material?**
     Tin and lead make an effective solder material, as it is fluid at high temperatures but solidifies quickly.
