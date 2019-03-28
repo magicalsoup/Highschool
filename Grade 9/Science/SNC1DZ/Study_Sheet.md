@@ -83,7 +83,27 @@
 - For example, only five elements account for over 90% of the Earth's crust: oxygen, silicon, aluminum, iron and calcium.
 
 
+# Naming
+1. Write cation (metal) first
+2. Write anion (non-metal) second
+3. Change the ending of the non-metal to ```ide```.
+
+# Decomposition
+  - A chemical change used t o break compounds down into simpler substances
+  - Energy must be ADDED
+    - Using electricity
+    - Adding thermal energy
  
+# Catalyst
+- Substance that SPEEDS UP a chemical change without being consumed OR changed itself
   
+# Use Of Hydrogen Peroxide
+- On cuts/scraps
+  - Blood has a catalyst = see bubbling O<sub>2</sub>
+- Cleans contact lenses
+  - Bubbling removes dirt
+- Bleaches
+  - React with compounds that provide color
+  - RESULT = no colour (bleach blond hair/teeth)
   
   
