@@ -3,6 +3,7 @@
 
 ## Questions to Ask Ms.Keras
 1. How do you tell the difference between mechanical mixtures and a mixture/solutions?
+2. Are qualitative properties and physical properties basically the same thing?
 
 ## Page 178, Questions 3 - 10.
 
@@ -56,7 +57,6 @@ Solder Materials: Used to join together metal components, such as wires in elect
     
 ## Pages 182 Questions 1 - 5
 
-1. Are qualitative properties and physical properties basically the same thing?
 
 1. **Explain the difference between a qualitative property and a quantitative property**
   
