@@ -4,6 +4,10 @@
 ## Questions to Ask Ms.Keras
 1. How do you tell the difference between mechanical mixtures and a mixture/solutions?
 2. Are qualitative properties and physical properties basically the same thing?
+3. Are the families the akali, akaline, halogens and noble gases?
+4. What was the zero sum rule?
+5. Do all atoms want to get rid of only the outer shell electrons?
+6. What are the elements I need to know?
 
 ## Page 178, Questions 3 - 10.
 
