@@ -21,6 +21,90 @@
   <td>Mechanical Mixture</td>
   <td>A mixture in which you can distinguish between different types of matter</td>
 </tr>  
+<tr>
+  <td>Suspension</td>
+  <td>A substance made of a liquid or gas that is separated into layers due to gravity when left undisturbed</td>
+</tr>
+<tr>
+  <td>Alloy</td>
+  <td>A solid solution of 2 or more metals</td>
+</tr>
+<tr>
+  <td>Mixture</td>
+  <td>A substance that is made up of at least 2 types of particles</td>
+</tr>
+<tr>
+  <td>Qualitative property</td>
+  <td>A property of a substance that is not measured and doesn't have a numerical value, such as colour, odur, and texture</td>
+</tr>
+<tr>
+  <td>Qualitative observation</td>
+  <td>An numerical observation</td>
+</tr>
+<tr>
+  <td>Precipitate</td>
+  <td>A solid that separates from a solution</td>
+</tr>
+<tr>
+  <td>Density</td>
+  <td>A measure of how much mass is contained in a given unit volume of a substance; calculated by dividing the mass of a sample of its volume <b>(mass/volume)</b></td>
+</tr>    
+<tr>
+  <td>Element</td>
+  <td>Element An element is made up of the same atoms throughout, and cannot be broken down further</td>
+</tr>
+<tr>
+  <td>Metal</td>
+  <td>a solid material that is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity</td>
+</tr>  
+<tr>
+  <td>Pure substance</td>
+  <td>A substance that is made up of only one type of particle</td>
+</tr>  
+<tr>
+  <td>Atom</td>
+  <td>The smallest unit of matter found in substances</td>
+</tr>  
+<tr>
+  <td>Solution</td>
+  <td>A uniform mixture of 2 or more substances</td>
+</tr>  
+<tr>
+  <td>Colloid</td>
+  <td>is substance with small particles suspended in it, unable to be separated by gravity</td>
+</tr>  
+<tr>
+  <td>Emulsion</td>
+  <td>An Emulsion is a mixture of 2 unmixable liquids, in which one liquid is suspended in the other</td>
+</tr>  
+<tr>
+  <td>Physical Property</td>
+  <td>Characteristic of a substance that can be determined without changing the “making up” of the substance</td>
+</tr>  
+<tr>
+  <td>Quantitative property</td>
+  <td>A property of a substance that is measured and has a numerical value such as temperature, height, and mass</td>
+</tr>  
+<tr>
+  <td>Quantitative observation</td>
+  <td>A observation based on our senses</td>
+</tr>
+<tr>
+  <td>Characteristic</td>
+  <td>A physical property that is unique to a substance and can be used to identify the substance</td>
+</tr>
+<tr>
+  <td>Periodic Table</td>
+  <td>a table of the chemical elements arranged in order of atomic number, usually in rows, so that elements with similar atomic structure (and hence similar chemical properties) appear in vertical columns.</td>
+</tr>
+<tr>
+  <td>Compound</td>
+  <td>Compounds are chemically joined atoms of different elements</td>
+</tr>
+<tr>
+  <td>Non-Metal</td>
+  <td>A substance that isn’t metal</td>
+</tr>  
 </table>
 
 ## Physical Properties
@@ -35,6 +119,7 @@
  |:---|:---------|:------|
  |Quantitative Property|A property that IS measured and has **```a numerical value```** |Ex. **```Temperature, height, mass, density```**|
  |Qualitative Property|A property that is NOT measured and has **```no numerical value```**|Ex. **```Colour, odor, texture```**|
+
 
 ## Quantitative physical Properties
  - **```Density```**: amount of ```stuff``` (or mass) per unit volume (g/cm<sup>3</sup>)
