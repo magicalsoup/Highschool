@@ -9,11 +9,11 @@
 5. Do all atoms want to get rid of only the outer shell electrons? ✔
 6. What are the elements I need to know? ✔
 7. What is the difference between an atom and an ion? ✔
-8. PAGE 266 QUESTION 5 (A)
+8. PAGE 266 QUESTION 5 (A) ✔
 9. PAGE 266 QUESTION 8
 10. PAGE 266 QUESTION 9 & 10
-11. PAGE 233 QUESTION 2 (D)
-12. PAGE 240 QUESTION 1
+11. PAGE 233 QUESTION 2 (D) ✔
+12. PAGE 240 QUESTION 1  ✔
 13. PAGE 240 QUESTION 9
 14. PAGE 240 QUESTION 10
 15. PAGE 215 QUESTION 10 (B)
@@ -345,7 +345,7 @@ Solder Materials: Used to join together metal components, such as wires in elect
     - According to Thomson, where are these particles located in the atom?
         - randomly spread out in the giant space of the atom, like a plum pudding
     - Why did Thomson conclude that atoms also contain a positive charge?
-      - **ASK MS KERAS**
+      - There was an attraction, a strong suck when he was doing his experiment
     - According to Thomson, where are the positive charges located in the atom?
         - Spread evenly across the space of the atom
 3. **If a neutral atom has three electons, how many protons does it have?**
@@ -373,8 +373,8 @@ Solder Materials: Used to join together metal components, such as wires in elect
 ## Pages 240 Questions 1 - 5
 1. **Do all atoms of the same element contain the same number of protons? Explain**
     Not all elements has this property, while most do, some may fluctuate
-2. **Do all atoms of thhe same element contain the same number of neutrons? Explain**
-    Not sure
+2. **Do all atoms of the same element contain the same number of neutrons? Explain**
+    Not all elements have the samle number of neutrons, as there are isotopes that contain different numbers of neutrons
     
 3. **Which of the followinig statements are correct? rewrite incorrect statements to correct them**
     - The aomic number always equals the number of protons. **CORRECT**
@@ -597,12 +597,12 @@ Imidogen: HN
     - Natural gas
         - CH<sub>4</sub>
 
-5. **The formula for propane gas, often used as barbecue fuel, is C<sub>3</sub>H<sub>8</sub>. The formula for butane, the liquid fuel in cigarette lighters is C<sub>4</sub>H<sub>10</sub>. the was in a candle is a mixture of molecules, one of which is C<sub>3</sub>H<sub>62</sub>**
+5. **The formula for propane gas, often used as barbecue fuel, is C<sub>3</sub>H<sub>8</sub>. The formula for butane, the liquid fuel in cigarette lighters is C<sub>4</sub>H<sub>10</sub>. the was in a candle is a mixture of molecules, one of which is C<sub>30</sub>H<sub>62</sub>**
     - What is similar an what is different about the chemical compositions of these three substances?
         - They all contain a number of Hydrogen and Carbon elements, hydrogen being twice as much as carbon, except theres way more hydrogen and carbon in wax than propane
         
     - Consider the physical states of these three substances at room temperature and discuss any relationship you see between the formula and physical state
-       - **ASK MS KERAS**
+       - the number of carbon is N and the number of hydrogen is 2*N + 2, and it gets softer as the number of Carbon and hydrogen atom grows
        
     - Are these three substances considered molecules? Give reasons for your answer
         - yes, as it fits the description of a molecule, being 2 or more of the different/same elements joined together
