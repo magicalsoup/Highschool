@@ -1,4 +1,4 @@
-# Geography Study Sheet!!!!
+# Geography Study Sheet
 
 > ## Test Format
 > 1. Multiple choice
