@@ -11,23 +11,23 @@
 </tr>
 <tr>
   <td>Particle Theory of Matter</td>
-  <td>Theory that describes the composition and behaviour of matter</td>
+  <td>Theory that describes the composition and behaviour of matter as being composed of small particles with empty space</td>
 </tr>
 <tr>
   <td>Matter</td>
-  <td>Physical substance that occupies space & matter</td>
+  <td>Substance that has mass and occupies space</td>
 </tr>
 <tr>
   <td>Mechanical Mixture</td>
-  <td>A mixture in which you can distinguish between different types of matter</td>
+  <td>A heterogeneous mixture which one can physically separate</td>
 </tr>  
 <tr>
   <td>Suspension</td>
-  <td>A substance made of a liquid or gas that is separated into layers due to gravity when left undisturbed</td>
+  <td>A heterogeneous mixture where insoluble solid particles are distributed throughout a fluid, floating freely/td>
 </tr>
 <tr>
   <td>Alloy</td>
-  <td>A solid solution of 2 or more metals</td>
+  <td>A combination of 2+ metals</td>
 </tr>
 <tr>
   <td>Mixture</td>
@@ -35,7 +35,7 @@
 </tr>
 <tr>
   <td>Qualitative property</td>
-  <td>A property of a substance that is not measured and doesn't have a numerical value, such as colour, odur, and texture</td>
+  <td>A property of a substance that is not measured and doesn't have a numerical value, such as colour, odour, and texture</td>
 </tr>
 <tr>
   <td>Qualitative observation</td>
@@ -75,20 +75,12 @@
 </tr>  
 <tr>
   <td>Emulsion</td>
-  <td>An Emulsion is a mixture of 2 unmixable liquids, in which one liquid is suspended in the other</td>
+  <td>A mixture of 2 insoluble liquids, in which one liquid is suspended in the other</td>
 </tr>  
 <tr>
   <td>Physical Property</td>
-  <td>Characteristic of a substance that can be determined without changing the “making up” of the substance</td>
+  <td>Characteristic of a substance that can be determined without changing the makeup of the substance</td>
 </tr>  
-<tr>
-  <td>Quantitative property</td>
-  <td>A property of a substance that is measured and has a numerical value such as temperature, height, and mass</td>
-</tr>  
-<tr>
-  <td>Quantitative observation</td>
-  <td>A observation based on our senses</td>
-</tr>
 <tr>
   <td>Characteristic</td>
   <td>A physical property that is unique to a substance and can be used to identify the substance</td>
@@ -103,7 +95,7 @@
 </tr>
 <tr>
   <td>Non-Metal</td>
-  <td>A substance that isn’t metal</td>
+  <td>A substance that isn’t a metal</td>
 </tr>  
 </table>
 
@@ -148,7 +140,7 @@
 - ```Cannot be determined by physical properties```
 
 - E.g. ability of nails /cars to rust
-- Firewors are explosive
+- Fireworks are explosive
 
 - Denim is resistant to soap, but is combustible
 
@@ -168,21 +160,21 @@
 - For example, only five elements account for over 90% of the Earth's crust: oxygen, silicon, aluminum, iron and calcium.
 
 
-## Naming
+## Naming of Ionic Bonds
 1. Write cation (metal) first
 2. Write anion (non-metal) second
 3. Change the ending of the non-metal to ```ide```.
 
 ## Decomposition
-  - A chemical change used t o break compounds down into simpler substances
+  - A chemical change used to break compounds down into simpler substances
   - Energy must be ADDED
     - Using electricity
     - Adding thermal energy
  
 ## Catalyst
-- Substance that SPEEDS UP a chemical change without being consumed OR changed itself
+- Substance that accelerates a chemical change without being consumed OR changed itself
   
-## Use Of Hydrogen Peroxide
+## Uses of Hydrogen Peroxide
 - On cuts/scraps
   - Blood has a catalyst = see bubbling O<sub>2</sub>
 - Cleans contact lenses
