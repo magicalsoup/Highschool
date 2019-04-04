@@ -30,15 +30,15 @@
  |your (plur.)|votre|votre|vos|vos|
  |their|leur|leur|leurs|leurs|
 
-> ## Regle
-> ---------------
-> - ### Eg. 1 
->   - A girl = une fille --> use ```une``` because ```fille``` is ```feminine```, ```singular```
->   - Some milk = du lait --> use ```du``` because ```lait``` is ```masculine```, ```singular```
->   - His dogs = ses chiens --> use ```ses``` because ```chiens``` is ```masculine```, ```plural```
-> - ### Eg. 2
->   - Both Tomy and Betty have a sister. When referring to their sisters, they will both say **```ma soeur```** because ```sister``` is a **```feminine, singular```** word. Furthermore, if they are referring to their fathers. they will both say **```mon père```** because ```father``` is a **``` masculine, singular```** word.
->   - **Point:** Their gender doesn't matter! It's the gender and number of the thing(noun) we're referring to that determines what little word you use
+## Regle
+---------------
+ - ### Eg. 1 
+   - A girl = une fille --> use ```une``` because ```fille``` is ```feminine```, ```singular```
+   - Some milk = du lait --> use ```du``` because ```lait``` is ```masculine```, ```singular```
+   - His dogs = ses chiens --> use ```ses``` because ```chiens``` is ```masculine```, ```plural```
+ - ### Eg. 2
+   - Both Tomy and Betty have a sister. When referring to their sisters, they will both say **```ma soeur```** because ```sister``` is a **```feminine, singular```** word. Furthermore, if they are referring to their fathers. they will both say **```mon père```** because ```father``` is a **``` masculine, singular```** word.
+  - **Point:** Their gender doesn't matter! It's the gender and number of the thing(noun) we're referring to that determines what little word you use
 
 # Le Present
  
