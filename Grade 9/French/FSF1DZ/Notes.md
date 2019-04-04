@@ -157,5 +157,27 @@
 > 3. I do talk
 > ## Never translate word for word from English!
 
+# Passe Compose
+- Past - tense in french
+- Je parle --> Je parlé
+> I talk --> I talked
+- Most verbes are conjugated with ```avoir```, with ```14``` excepetions that conjugate with ```etre```
+## Conjugation
+
+|Verb Type|Rule|
+|:---------|:---|
+|Verbes that end with ```ER```|Cut the ```er``` ending and change it to ```é```|
+|Verbes that end with ```IR```|Cut the ```ir``` ending and change it to ```i```|
+|Some Verbes that end with ```RE```|Cut the ```re``` ending and change it to ```u```|
+
+
+### Etre
+
+|Verb in Infinitive|Conjugation|
+|:-----------------|:----------|
+
+# Imparfait
+
+
 
 letters : è, é ê É Ê À, à Ô ô Ç or ç ï
