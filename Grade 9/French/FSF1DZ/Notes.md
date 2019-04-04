@@ -1,34 +1,34 @@
 # French Study Sheet
 
 # Vocabulary
-> |Word In French|Meaning|
-> |:-------------|:------|
-> |Sentiments|Feeling|
-> |Faiblesses|Challenges/weaknesses|
-> |Envers|Towards|
-> |Presque|Nearly|
-> |Suivant|Following|
-> |Croyanes|Beliefs|
-> |Debutant|Beginner|
-> |Remue-meniges|Brain-storming|
-> |Traduction|Translation|
-> |concurrentielle|Competitive|
-> |J'espere|I Hope|
+ |Word In French|Meaning|
+ |:-------------|:------|
+ |Sentiments|Feeling|
+ |Faiblesses|Challenges/weaknesses|
+ |Envers|Towards|
+ |Presque|Nearly|
+ |Suivant|Following|
+ |Croyanes|Beliefs|
+ |Debutant|Beginner|
+ |Remue-meniges|Brain-storming|
+ |Traduction|Translation|
+ |concurrentielle|Competitive|
+ |J'espere|I Hope|
 
 # Revision de petits mots
 
-> |  |masculin|feminin|masc. pluriel|fem. pluriel|
-> |:-|:-------|:------|:------------|:-----------|
-> |a |un|une|des|des|
-> |the|le|la|les|les
-> |some|du|de la|des|des|
-> |which|quel|quelle|quels|quelles|
-> |my|mon|ma|mes|mes|
-> |your (sing.)|ton|ta|tes|tes|
-> |his/her|son|sa|ses|ses|
-> |our|notre|notre|nos|nos
-> |your (plur.)|votre|votre|vos|vos|
-> |their|leur|leur|leurs|leurs|
+ |  |masculin|feminin|masc. pluriel|fem. pluriel|
+ |:-|:-------|:------|:------------|:-----------|
+ |a |un|une|des|des|
+ |the|le|la|les|les
+ |some|du|de la|des|des|
+ |which|quel|quelle|quels|quelles|
+ |my|mon|ma|mes|mes|
+ |your (sing.)|ton|ta|tes|tes|
+ |his/her|son|sa|ses|ses|
+ |our|notre|notre|nos|nos
+ |your (plur.)|votre|votre|vos|vos|
+ |their|leur|leur|leurs|leurs|
 
 > ## Regle
 > ---------------
@@ -41,121 +41,122 @@
 >   - **Point:** Their gender doesn't matter! It's the gender and number of the thing(noun) we're referring to that determines what little word you use
 
 # Le Present
-> ## Les verbes reguliers
+ 
+## Les verbes reguliers
 
->> |  |Parler|Finir|Repondre|
->> |:-|:-----|:----|:-------|
->> |Je|Parle|Finis|Réponds|
->> |Tu|Parles|Finis|Réponds|
->> |Il/elle/on|Parle|Finit|Répond|
->> |Nous|Parlons|Finissons|Répondons|
->> |Vous|Parlez|Finissez|Répondez|
->> |Ils/elles|Parlent|Finissent|Répondent|
+ |  |Parler|Finir|Repondre|
+ |:-|:-----|:----|:-------|
+ |Je|Parle|Finis|Réponds|
+ |Tu|Parles|Finis|Réponds|
+ |Il/elle/on|Parle|Finit|Répond|
+ |Nous|Parlons|Finissons|Répondons|
+ |Vous|Parlez|Finissez|Répondez|
+ |Ils/elles|Parlent|Finissent|Répondent|
 
-> ## Les verbes irreguliers
+## Les verbes irreguliers
 
->> |  |Être (To be)|Avoir (To have)|Aller (To go)|Faire (To make)|
->> |:-|:---|:----|:----|:----|
->> |Je|Suis|Ai|Vais|Fais|
->> |Tu|Es|As|Vas|Fais|
->> |Il/elle/on|Est|A|Va|Fait|
->> |Nous|Sommes|Avons|Allons|Faisons|
->> |Vous|Êtes|Avez|Allez|Faites|
->> |Ils/elles|Sont|Ont|Vont|Font|
+ |  |Être (To be)|Avoir (To have)|Aller (To go)|Faire (To make)|
+ |:-|:---|:----|:----|:----|
+ |Je|Suis|Ai|Vais|Fais|
+ |Tu|Es|As|Vas|Fais|
+ |Il/elle/on|Est|A|Va|Fait|
+ |Nous|Sommes|Avons|Allons|Faisons|
+ |Vous|Êtes|Avez|Allez|Faites|
+ |Ils/elles|Sont|Ont|Vont|Font|
 
->> |  |Vouloir (To want)|Pouvoir (To can)|Venir (To come)|Devoir (To need)|
->> |:-|:---|:----|:----|:----|
->> |Je|veux|peux|viens|dois|
->> |Tu|veux|peux|viens|dois|
->> |Il/elle/on|veut|peut|vient|doit|
->> |Nous|voulons|pouvons|vienons|devions|
->> |Vous|voulez|pouvez|vienez|devez|
->> |Ils/elles|voulent|pouvent|viennent|doivent|
+ |  |Vouloir (To want)|Pouvoir (To can)|Venir (To come)|Devoir (To need)|
+ |:-|:---|:----|:----|:----|
+ |Je|veux|peux|viens|dois|
+ |Tu|veux|peux|viens|dois|
+ |Il/elle/on|veut|peut|vient|doit|
+ |Nous|voulons|pouvons|vienons|devions|
+ |Vous|voulez|pouvez|vienez|devez|
+ |Ils/elles|voulent|pouvent|viennent|doivent|
 
->> |  |Sortir (To leave)|Ecrire (To write)|Lire (To read)|Voir (To see)|
->> |:-|:-----|:-----|:---|:---|
->> |Je|sors|écris|lis|vois|
->> |Tu|sors|écris|lis|vois|
->> |Il/elle/on|sort|écrit|lit|voit|
->> |Nous|sortons|écrivons|lisons|voyons|
->> |Vous|sortez|écrivez|lisez|voyez|
->> |Ils/elles|sortent|écrivent|lisent|voient|
+ |  |Sortir (To leave)|Ecrire (To write)|Lire (To read)|Voir (To see)|
+ |:-|:-----|:-----|:---|:---|
+ |Je|sors|écris|lis|vois|
+ |Tu|sors|écris|lis|vois|
+ |Il/elle/on|sort|écrit|lit|voit|
+ |Nous|sortons|écrivons|lisons|voyons|
+ |Vous|sortez|écrivez|lisez|voyez|
+ |Ils/elles|sortent|écrivent|lisent|voient|
 
->> |  |Mettre (To put)|Prendre (To take)|Boire (To drink)|Acheter (To buy)|
->> |:-|:-----|:------|:----|:------|
->> |Je|mets|prends|bois|achète|
->> |Tu|mets|prends|bois|achètes|
->> |Il/elle/on|met|prend|boit|achète|
->> |Nous|mettons|prenons|buvons|achetons|
->> |Vous|mettez|prenez|buvez|achetez|
->> |Ils/elles|mettent|prennent|boivent|achètent|
+ |  |Mettre (To put)|Prendre (To take)|Boire (To drink)|Acheter (To buy)|
+ |:-|:-----|:------|:----|:------|
+ |Je|mets|prends|bois|achète|
+ |Tu|mets|prends|bois|achètes|
+ |Il/elle/on|met|prend|boit|achète|
+ |Nous|mettons|prenons|buvons|achetons|
+ |Vous|mettez|prenez|buvez|achetez|
+ |Ils/elles|mettent|prennent|boivent|achètent|
 
-> On --> One, we, you in general
-> Tu --> Peers, people younger than you, your parents
-> Vous --> You (plural), older than you, don't know well, formal or respectitive
+- On --> One, we, you in general
+- Tu --> Peers, people younger than you, your parents
+- Vous --> You (plural), older than you, don't know well, formal or respectitive
 
-> |Pronoun|Persepective|English|
-> |:------|:-----------|:------|
-> |Je|Moi|Me|
-> |Tu|Toi|You|
-> |Il|Lui|Him|
-> |Elle|Elle|Her|
-> |On|Sui|Oneself|
-> |Nous|Nous|Us|
-> |Vous|Vous|You|
-> |Ils|eux|Them|
-> |Elles|Elles|Them|
+ |Pronoun|Persepective|English|
+ |:------|:-----------|:------|
+ |Je|Moi|Me|
+ |Tu|Toi|You|
+ |Il|Lui|Him|
+ |Elle|Elle|Her|
+ |On|Sui|Oneself|
+ |Nous|Nous|Us|
+ |Vous|Vous|You|
+ |Ils|eux|Them|
+ |Elles|Elles|Them|
 
 # Accents
-> ## accent aigu ```é```
->   - The same sound as ```er```
->   - parl```er``` has the same sound as parl```é```
-> ## accent grave ```è```
->   - used to differentiate words
->   - E.g ```à``` and ```a```
-> ## accent circonflexe ```ê```
->   - indicates that there was an ```s``` before
->   - French derived from latin
->   - Conosant sounds
->   - ```L'hôpital``` --> ```L'hospital```
-> ## accent cedille ```ç```
->   - tells us to pronounce it as a ```s```
->   - fran```çais``` --> pronounce as fran```sais```
->   - **```Don't put```** if its preceeding an **```a, o, u```**
-> ## accent trema ```ï```
->   - isolating the sound
->   - ha```ï```ti --> pronounce the ```i``` clearly
+ ## accent aigu ```é```
+   - The same sound as ```er```
+   - parl```er``` has the same sound as parl```é```
+ ## accent grave ```è```
+   - used to differentiate words
+   - E.g ```à``` and ```a```
+ ## accent circonflexe ```ê```
+   - indicates that there was an ```s``` before
+   - French derived from latin
+   - Conosant sounds
+   - ```L'hôpital``` --> ```L'hospital```
+ ## accent cedille ```ç```
+   - tells us to pronounce it as a ```s```
+   - fran```çais``` --> pronounce as fran```sais```
+   - **```Don't put```** if its preceeding an **```a, o, u```**
+ ## accent trema ```ï```
+   - isolating the sound
+   - ha```ï```ti --> pronounce the ```i``` clearly
 
 # Les expressions avec Avoir
 
-> |French|Meanning|
-> |:-----|:-------|
-> |Avoir soif|To be thirsty|
-> |Avoir froid|To be cold|
-> |Avoir chaud|To be hot|
-> |Avoir faim|To be hungry|
-> |Avoir de la change|To be lucky|
-> |Avoir...ans|To be old|
-> |Avoir mal à...|To have pain in...|
-> |Avoir envie de...|To be jealous...|
-> |Avoir tort|To be wrong|
-> |Avoir raison|To be reasonable|
-> |Avoir honte de...|To be ashamed of...|
-> |Avoir l'air de...|To seem like...|
-> |Avoir sommeil|To be sleepy|
-> |Avoir peur de...|To be scared of...|
-> |Avoir l'habitude de...|To have the habit of...|
-> |Avoir du mal à|To be bad at|
-> |Avoir lieu|To take place|
-> |Avoir le droit de...|To have the right to...|
-> |Avoir le mal de mer|To be sea sick|
+ |French|Meanning|
+ |:-----|:-------|
+ |Avoir soif|To be thirsty|
+ |Avoir froid|To be cold|
+ |Avoir chaud|To be hot|
+ |Avoir faim|To be hungry|
+ |Avoir de la change|To be lucky|
+ |Avoir...ans|To be old|
+ |Avoir mal à...|To have pain in...|
+ |Avoir envie de...|To be jealous...|
+ |Avoir tort|To be wrong|
+ |Avoir raison|To be reasonable|
+ |Avoir honte de...|To be ashamed of...|
+ |Avoir l'air de...|To seem like...|
+ |Avoir sommeil|To be sleepy|
+ |Avoir peur de...|To be scared of...|
+ |Avoir l'habitude de...|To have the habit of...|
+ |Avoir du mal à|To be bad at|
+ |Avoir lieu|To take place|
+ |Avoir le droit de...|To have the right to...|
+ |Avoir le mal de mer|To be sea sick|
 
 # Verbe
-> Je parle have different meanings
-> 1. I talk
-> 2. I am talking
-> 3. I do talk
-> ## Never translate word for word from English!
+ - Je parle has different meanings
+ 1. I talk
+ 2. I am talking
+ 3. I do talk
+** Never translate word for word from English!**
 
 # Passe Compose
 - Past - tense in french
