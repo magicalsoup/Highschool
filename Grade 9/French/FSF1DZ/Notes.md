@@ -179,6 +179,29 @@
 
 # Imparfait
 
+## Vocabularie
+|Evenements specifiques|English|
+|:---------------------|:------|
+|un soir|one evening|
+|mardi|Tuesday|
+|un mardi|one Tuesday|
+|un jour|one day|
+|le 4 mai|on May 4|
+|une fois|once|
+|deux fois|twice|
+|plusieurs fois|several times|
 
+|Evenements habituels|English|
+|:---------------------|:------|
+|les soir|in the evening|
+|tous les soirs|every evening|
+|le mardi|on Tuesdays|
+|tous les mardis|every Tuesday|
+|chaque jour|every day|
+|tous le jours|every day|
+|d'habitude|usually|
+|habituellement|usually|
+|autrefois|in the past|
+|parfois|sometimes|
 
 letters : è, é ê É Ê À, à Ô ô Ç or ç ï
