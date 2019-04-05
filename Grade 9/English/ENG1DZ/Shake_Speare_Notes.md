@@ -156,6 +156,27 @@
   - Refers Bianco as a ring, hole, monetary indications and ouvertly sexual wise
   
 
-       
-    
+# Act 3 Scene 2
+
+- L.4 Baptista feels embarrassed
+- Baptista demostrates a bit of understand of Katherina's pain
+- L.27.29 Baptista insults katherina, but shows empathy for the 1<sup>st</sup> time.
+- Katherina knows the shame is from herself
+- L.8-9 Katherina is ashamed
+- L.12-20 Katerina points out she warned him already
+- Pertuchio knows that when Katherina is angry, there is a reason, just like himself
+- Tranio doesn't know Pertuchio at all, shakespeare might have made a mistake
+- Hortensio has some good intentions, but he doesn't know anything
+- L/22-25 Hortensio knows Pertuchio usually has **```honest```** reasons for his behaviour
+- Bapista is grateful that perthuchio is here, but he doesn't care what kind of man he is, basically he doesn't care. Baptista is just happy that he found someone that can marry Katherina. 
+- Pertchuio mocks baptista, he has a purpose as to show how poorly they are treating Katherina.
+L.69 Baptista states hes grateful Pertchuio has come in any form. This is the situational irnoy Pertuchio likley intends to create, to teach them empathy for Katherina.
+
+- L.95 Batista calls wedding a ```solemn festival```
+- L.111 Pertuchio points out they care too much about apperances and never bothered to check his character.
+- L.51 Gremio, by comparison to Pertuchio, Starts to empathize with Katherina. 
+- L.176 ```mad marriage``` alliteration
+- L.194 Katherina tries polite request to get Pertuchio to stay
+- L.199 Katherina asks if Pertuchio loves her
+- 
 
