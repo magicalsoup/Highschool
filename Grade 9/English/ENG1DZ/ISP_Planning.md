@@ -1,10 +1,9 @@
 # ISP Planning
 
 - Interesting Topics
-  - Purple Hibiscus OR Half of a Yellow Sun - Adichie, Chimamanda Ngozi
   - |Book|Author|Interesting?|
     |:---|:-----|:-----------|
-    |Purple Hibiscus 
+    |Purple Hibiscus OR Half of a Yellow Sun|ADichie, Chimamanda Ngozi|
     |Vinegar Hill|Ansay, A. Manette|
     |The Penelopiad  OR Cat's Eye|Atwood, Margaret|✔️|
     |Persuasion|Austen, Jane|
