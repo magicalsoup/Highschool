@@ -1,7 +1,10 @@
 # Planning
 
-## Article: 
+## Article: Glyphosate perturbs the gut microbiota of honey bees
+- Related to: Ecosystems
 
+
+Source: https://www.pnas.org/content/115/41/10305
 
 # Career
 Biomedical Engineer
@@ -18,4 +21,6 @@ Biomedical Engineer
 * prepare and present reports for health professionals and the public
 * supervise and train technologists and technicians
 
+- Amount of money:
+  - 56,770. to 118,730 
 Source: https://www.cmbes.ca/about/what-is-a-biomedical-engineer
