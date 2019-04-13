@@ -541,46 +541,46 @@
 
 
 # Ways to solve Systems of Equations
- 1. Subsitution   
-  - Here we eliminate a variable by subbing in another variable from another equation   
-  - We usually do this method if a variable is easily isolated   
-  - Example:
-    - ```
-      y = x + 10  (1)
-      x + y + 34 = 40 (2)
-      ```
-      We can sub (1) into (2) to find ```x```, then you the value of ```x``` we found to solve for ```y```
-      ```x + (x + 10) + 34 = 40```   
-      ```2x + 44 = 40```    
-      ```2x = -4```   
-      ```x = -2```   
-      Then solve for ```y```   
-      ```y = -2 + 10```   
-      ```y = -8```
+ ## 1. Subsitution   
+   - Here we eliminate a variable by subbing in another variable from another equation   
+   - We usually do this method if a variable is easily isolated   
+   - Example:
+     - ```
+       y = x + 10  (1)
+       x + y + 34 = 40 (2)
+       ```
+       We can sub (1) into (2) to find ```x```, then you the value of ```x``` we found to solve for ```y```
+       ```x + (x + 10) + 34 = 40```   
+       ```2x + 44 = 40```    
+       ```2x = -4```   
+       ```x = -2```   
+       Then solve for ```y```   
+       ```y = -2 + 10```   
+       ```y = -8```
 
- 2. Elimination
-  - Here we eliminate a variable by basically eliminate a variable from an equation   
-  - We usually use this method first when the variables are not easily isolated, then use subsitution to solve   
-  - Example:
-   - ```
-      2x + 3y = 10 (1)
-      4x + 3y = 14 (2)
-      ```
-      We can then use elimination
-     ```
-      4x + 3y = 14
-      2x + 3y = 10
-      ------------
-      2x + 0 = 4
-      x = 2
-      ```
-      Then sub the value of ```x``` into an original equation and solve for ```y```   
-      ```2(2) + 3y = 10```   
-      ```3y = 6```   
-      ```y = 2```   
+ ## 2. Elimination
+   - Here we eliminate a variable by basically eliminate a variable from an equation   
+   - We usually use this method first when the variables are not easily isolated, then use subsitution to solve   
+   - Example:
+     - ```
+       2x + 3y = 10 (1)
+       4x + 3y = 14 (2)
+       ```
+       We can then use elimination
+       ```
+       4x + 3y = 14
+       2x + 3y = 10
+       ------------
+       2x + 0 = 4
+       x = 2
+       ```
+       Then sub the value of ```x``` into an original equation and solve for ```y```   
+       ```2(2) + 3y = 10```   
+       ```3y = 6```   
+       ```y = 2```   
 
-3. Graphing
-- we can rewrite the equations into ```y-intercept form``` and then graph the lines, and see where the lines intersect (P.O.I), and the P.O.I is the solution
+## 3. Graphing
+   - we can rewrite the equations into ```y-intercept form``` and then graph the lines, and see where the lines intersect (P.O.I), and the P.O.I is the solution
 
 ## Solving Systems of Linear Inequalities
 - Find the intersection region as the ```solution```.   
