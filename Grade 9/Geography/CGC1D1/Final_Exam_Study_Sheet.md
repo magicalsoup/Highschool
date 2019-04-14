@@ -642,7 +642,7 @@
 
 ### Stages
 
- #### 1. Pre-Transition
+ ### 1. Pre-Transition
    - Both birth and death rates are ```high```
       - Woman have ```6 to 10``` children on average
       - Most children die before adulthood
@@ -654,7 +654,7 @@
    - ```Diseases are very common and deadly```
    - Most people die from ```disease```, ```poor nutrition```, or ```contaminated drinking water```
 
- #### 2. Early Transition
+ ### 2. Early Transition
    - Birth rates are ```high```, death rate drops ```dramatically```
    - ```Population explosion```
    - ```Very few countries``` are in this stage
@@ -665,14 +665,14 @@
    - People begin ```migrating``` to ```urban``` areas
    - Large families persist, but less children die
 
- #### 3. Late Transition
+ ### 3. Late Transition
    - Birth rate ```drops quickly```, death rate drops further
    - ```Small families``` are becoming the norm
    - The ```natural increase``` rate (in population) drops
    - Most people live in ```urban``` areas
    - ```Mechanization```, especially in ```agriculture```
 
- #### 4. Post Transition
+ ### 4. Post Transition
    - Birth rate and death rate ```stabilize``` to around the same level
    - However the ```replacement rate``` (number of births per woman that result in a stable population, is usually ```2:1```) is ```dramtically declining```
    - Alot of the population is ```graying```
