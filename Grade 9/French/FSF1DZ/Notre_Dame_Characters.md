@@ -38,7 +38,7 @@
   - Pas aussi belle qu'Esmeralda
 - Beau, Blanche Finesse
 
-## Classe Sociale
+### Classe Sociale
 - Noble / riche heritiere
 
 ### Personalite
@@ -96,7 +96,7 @@
 - Il est orpheline: ses parents etaient tues quand il avait 6 ans
 - Il est pauvre
 
-## Personalite
+### Personalite
 - Il est stupide
 - Il est ignorarite
 - Ilt est sociale
@@ -112,7 +112,7 @@
 - serieux
 - triste
 
-## L'information
+### L'information
 - Descendant d'une famille de la petite noblesse, ;'archidiacre
 - Homme trist et solitative, desagreable
 - Il a etudie avec determination et a acquis immense savoir; il fait de l'alchimie
@@ -123,19 +123,19 @@
 
 ## Phoebus
 
-## L'Apperance Physique
+### L'Apperance Physique
 - Blonde
 - Tres beau
 - Tres chauve
 - Fort
 - degoutent
 
-## Personalite
+### Personalite
 - Le joueur de coeur
 - vain
 - indigne de confiance
 
-## Classe Sociale
+### Classe Sociale
 - it est noble et rich
 = fiance de fleur de lys
 - le captaine des archers du roi
