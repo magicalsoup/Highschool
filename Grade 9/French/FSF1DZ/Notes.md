@@ -31,7 +31,6 @@
  |their|leur|leur|leurs|leurs|
 
 ## Regle
----------------
  - ### Eg. 1 
    - A girl = une fille --> use ```une``` because ```fille``` is ```feminine```, ```singular```
    - Some milk = du lait --> use ```du``` because ```lait``` is ```masculine```, ```singular```
@@ -178,6 +177,22 @@
 
 |Verb in Infinitive|Conjugation|
 |:-----------------|:----------|
+|Devenir|Devenu|
+|Revenir|Revenu|
+|Monter|Monte|
+|Rester|Reste|
+|Sortir|Sorti|
+|Venir|Venu|
+|Arriver|Arrive|
+|Naitre|Ne|
+|Descendre|Descendu|
+|Entrer|Entre|
+|Retourner|Retourne|
+|Tomber|Tombe|
+|Aller|Alle|
+|Mourir|Mort|
+|Partir|Parti|
+
 
 # Imparfait
 - expresses or describes continued, repeated, habitual actions or incomplete actions, situations, or events in the past. The imperfect describes what was going on at an indefinite time in the past or what used to happen.
