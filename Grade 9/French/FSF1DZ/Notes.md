@@ -159,6 +159,8 @@
 ** Never translate word for word from English!**
 
 # Passe Compose
+- Use it for specific things that happened at a specfic time.
+  - eg. I broke my arm last night
 - Past - tense in french
 - Je parle --> Je parlé
 > I talk --> I talked
@@ -178,6 +180,8 @@
 |:-----------------|:----------|
 
 # Imparfait
+- expresses or describes continued, repeated, habitual actions or incomplete actions, situations, or events in the past. The imperfect describes what was going on at an indefinite time in the past or what used to happen.
+  - eg. I walked the dog everyday
 
 ## Vocabularie
 |Evenements specifiques|English|
