@@ -116,7 +116,7 @@
   
 # Taming of the Shrew
 
-## Act 1, Scene 1
+# Act 1, Scene 1
 
 - Lucentio is ontop of Tranio
 - Likely these 2 foolish characters will be punished by gods
@@ -155,9 +155,29 @@
 - ## Hortensio
   - Refers Bianco as a ring, hole, monetary indications and ouvertly sexual wise
   
+# Act 1 Scene 2
+- Tranio & Lucentio - Petruchio Grumio (Character foils)
+- L.60-61 Hortensio is freinds with Petruchio, cares too much to manipulate him
+- L.74-78 Petruchio only cares about wealth
+- L.87 Hortensio implies he has a bad financial state
+-   - metaphhors are money oriented
+- L.133-134 Calls her `jewel`, `treasure`, money is implied   
+- L.193-205 Petruchio lieshyperbolic to emphasize, genuine contempt for women
+- L.251 Petruchio is `great-hercules` (characterization)(foreshadowing))
+    - Killed wife (and children)
+    - Complete impossible tasks
+
+# Act 2 Scene 1
+- Baptista only cares about the men's money and asset (335-336)
+    - Line 318 -> intentionally selling off daugthers for money
+- Petruchio claimed that Katherina would only show affection in private (245-297)
+    - Baptista doesn't care, does not `[blank]`
+- Baptista lets Petruchio `[blank]` Katherina dispute `[blank]`
 
 # Act 3 Scene 2
 
+- Baptista concerned about appearances (clothes)
+- Baptista publicily calls Katherina a `shrew` (28,29), does show some empathy
 - L.4 Baptista feels embarrassed
 - Baptista demostrates a bit of understand of Katherina's pain
 - L.27.29 Baptista insults katherina, but shows empathy for the 1<sup>st</sup> time.
@@ -170,13 +190,55 @@
 - L/22-25 Hortensio knows Pertuchio usually has **```honest```** reasons for his behaviour
 - Bapista is grateful that perthuchio is here, but he doesn't care what kind of man he is, basically he doesn't care. Baptista is just happy that he found someone that can marry Katherina. 
 - Pertchuio mocks baptista, he has a purpose as to show how poorly they are treating Katherina.
-L.69 Baptista states hes grateful Pertchuio has come in any form. This is the situational irnoy Pertuchio likley intends to create, to teach them empathy for Katherina.
-
+- L.69 Baptista states he's grateful Pertchuio has come in any form. This is the situational irnoy Pertuchio likley intends to create, to teach them empathy for Katherina.
+- Baptista didn't take time to get to know Petruchio's personality and only cared that someone came to take Katherina (appearances)
+    - Note: situational irony -> Petruchio intends to create -> he wants to teach others empathy for Katherina
 - L.95 Batista calls wedding a ```solemn festival```
 - L.111 Pertuchio points out they care too much about apperances and never bothered to check his character.
 - L.51 Gremio, by comparison to Pertuchio, Starts to empathize with Katherina. 
 - L.176 ```mad marriage``` alliteration
 - L.194 Katherina tries polite request to get Pertuchio to stay
 - L.199 Katherina asks if Pertuchio loves her
-- 
+
+
+# Act 5 Scene 2
+- Apperances are decieving
+- Public affection is not apprioate in shakespearean time
+
+<img src="https://files.catbox.moe/z2eohf.png" width="1000">
+
+- Petruchio is happy to eat, and is great
+- Padua(the town) is kind, Hortensio says he wish its true
+- The widow now decides to mock Katherina, makes very little since
+    - This shows that katherina has changed greatly
+- The widow ouvertly calls katherina a shrew multiple times, usually, katherina will attack the widow, but she is now restrained and polite 
+    - L.22 she calls the widow `miss`, being polite, she checks if she is joking or not
+    - L.27, she triple check if the widow is joking
+    - L.31 the widow makes that its clear that she is calling Katherina a shrew, and Katherina understands
+    - Katherina replies with the word `mean`, which is a pun.
+    - Petruchio comes in a tells Katherina to attack widow 
+    - Katherina does not attack unless she is told to
+- Petruchio knows Katherina well enough
+- Bianca makes some latently sex-jokes to Petruchio
+- Bianca and the widow left the room to escape the sex-harrasments, and the men continue their playful insults
+- Petruchio is very sexist, but values woman more than animals, unlike the other men
+- Baptista still shows that he is indeed a horrible father
+    - L.64: He's like good job Petruchio, you married the biggest bitch of them all
+- The men battles out to see which wife will come first, be the most obedient
+    -  Bianca, refuses to come, so as the widow
+- Katherina getting her revenge:  
+    - L.130: Petruchio: I `charge` you, its an order, but also a pun, to get her revenge  
+    - The widow being a smart person, knows that she is being mocked here
+    - L.104: Katherina got to be aggressive and get them into the room
+- Her long silioguy can show that woman are obedient to men
+    - ALthough if we look at her lines, she understands Petruchio's wills, shes not being obedient to what Petruchio's orders, but to the good interest of Petruchio
+    - She talks about the things that Petrhucio has done to her, to mock Lucentio and Hortensio
+    - She also uses this oppurtunity to riducule Bianca, as before, she would've gotten in trouble, but now since she is following orders, its a different situation
+    - Might be meant to be hyperbolic, as its very long
+    - The fact it is sounding akward, as she is not suppose to believe it
+    - Shakespeare made it sound weird, so we don't agree with it
+    - L.174 Our strengths weak
+    - We see that they kiss without sexual harrasment, show that they are in a working relationship
+    - You won, you hit the `white`, which is also implying Bianca.
+     
 
